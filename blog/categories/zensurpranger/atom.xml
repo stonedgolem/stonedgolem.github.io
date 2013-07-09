@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Zensurpranger | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/zensurpranger/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/zensurpranger/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Das neue Leistungsschutzrecht. Oder: Wie mit Gewalt eine Zwei-Klassen-Informationsgesellschaft geschaffen wird]]></title>
-    <link href="stonedgolem.github.io/blog/2012/06/22/das-neue-leistungsschutzrecht-oder-wie-mit-gewalt-eine-zwei-klassen-informationsgesellschaft-geschaffen-wird/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/06/22/das-neue-leistungsschutzrecht-oder-wie-mit-gewalt-eine-zwei-klassen-informationsgesellschaft-geschaffen-wird/"/>
     <updated>2012-06-22T18:47:50+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/06/22/das-neue-leistungsschutzrecht-oder-wie-mit-gewalt-eine-zwei-klassen-informationsgesellschaft-geschaffen-wird</id>
+    <id>http://stonedgolem.github.io/blog/2012/06/22/das-neue-leistungsschutzrecht-oder-wie-mit-gewalt-eine-zwei-klassen-informationsgesellschaft-geschaffen-wird</id>
     <content type="html"><![CDATA[<p>Vielleicht ist es der geneigten Leserin oder dem geneigtem Leser aufgefallen: In der aktuellen Diskussion um das geleakte <a href="https://netzpolitik.org/2012/das-leistungsschutzrecht-im-wortlaut/">Gesetz zum Leistungsschutzrecht</a> (LSR) bleibe ich, zumindest hier im Blog, erstaunlich ruhig. Dies nicht daran, dass ich nicht dazu zu sagen hätte. Bei Weitem nicht! Ich lass nur meinen Unmut darüber auf flüchtigeren Medien wie <a href="https://plus.google.com/100390503096913841992/posts/WDNwDgD3yoc">Google+</a> aus. Dort mache ich auch noch etwas, dass ich in der Zwischenzeit auf meinem Blog aufgegeben habe: Auf Zeitungen verlinken und folgenden Text als Postskriptum anhängen:</p>
 
 <blockquote><p>Sehr geehrte [hier Zeitung einfügen] und sehr [hier Verlag einfügen, soweit bekannt],</p></blockquote>
@@ -63,9 +63,9 @@
   
   <entry>
     <title type="html"><![CDATA[Was haben Pandas, Zensur und Barbara Steisand gemeinsam?]]></title>
-    <link href="stonedgolem.github.io/blog/2012/06/14/was-haben-pandas-zensur-und-barbara-steisand-gemeinsam/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/06/14/was-haben-pandas-zensur-und-barbara-steisand-gemeinsam/"/>
     <updated>2012-06-14T19:48:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/06/14/was-haben-pandas-zensur-und-barbara-steisand-gemeinsam</id>
+    <id>http://stonedgolem.github.io/blog/2012/06/14/was-haben-pandas-zensur-und-barbara-steisand-gemeinsam</id>
     <content type="html"><![CDATA[<p>Wie wäre es mit der Gemeinsamkeit, dass sie in der Überschrift zu diesem Blogeintrag stehen? Das reicht euch nicht? Tja, dann muss ich wohl leider ausholen.</p>
 
 <h4></h4>
@@ -110,9 +110,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zensur, Kartell, eBooks und angebissene Früchte]]></title>
-    <link href="stonedgolem.github.io/blog/2012/05/16/zensur-kartell-ebooks-und-angebissene-fruchte/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/05/16/zensur-kartell-ebooks-und-angebissene-fruchte/"/>
     <updated>2012-05-16T12:24:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/05/16/zensur-kartell-ebooks-und-angebissene-fruchte</id>
+    <id>http://stonedgolem.github.io/blog/2012/05/16/zensur-kartell-ebooks-und-angebissene-fruchte</id>
     <content type="html"><![CDATA[<p><a href="http://www.apple.com/de">Apple</a> macht sich in meinen Augen schon seit längerer Zeit der Zensur schuldig, indem sie durch ihre de facto Monopolstellung auf die Inhalte Einfluss nehmen, die über iTunes vertrieben werden. Aus den unzähligen Beispielen sei an dieser Stelle nur kurz an &ldquo;<a href="http://www.spiegel.de/netzwelt/web/0,1518,679750,00.html">Bild</a>&rdquo;, &ldquo;<a href="http://www.heise.de/newsticker/meldung/Zensur-Vorwuerfe-gegen-Apple-897582.html">Stern</a>&rdquo; und &ldquo;<a href="http://www.n24.de/news/newsitem_7902224.html">Focus</a>&rdquo; erinnert. Auf den ersten Blick mag dies nicht gravierend erscheinen geht es doch nur darum die ohnehin in Amiland verpönte &ldquo;<a href="http://en.wikipedia.org/wiki/Nudity">Frontal Nudity</a>&rdquo; zu unterbinden. Aber es geht um mehr und alleine die Dreistigkeit, dass sich der Vertriebskanal herausnimmt den Medien vorzuschreiben welche Inhalte sie zu bringen haben, ist kaum noch zu überbieten. Mensch muss lediglich den Gedanken zu Ende denken und wird erkennen, dass derartiges Gebären das Ende der Pressefreiheit wie wir sie kennen herbeiführen könnte. Was wäre beispielsweise wenn Apple verbieten würde positiv über nette Muslime zu berichten und Medien nur noch das Bild des bösen, terroristischen Islamisten zeichnen dürfen, wenn sie ihre Zeitung weiterhin in iTunes sehen wollen? Was mit nackten Mädchen anfängt kann sich leicht zur ideologischen Steuerung ausweiten! Und das sagt ich jetzt ohne die Bild in Schutz nehmen zu wollen&hellip;</p>
 
 <p>Allerdings scheinen Kaufentscheidungen diesen Umstand allein nicht ändern zu können: Die Vormachtstellung Apples strahlt auch auf Android-Geräte: Der E-Kiosk-Betreiber <a href="http://de.zinio.com/">Zinio</a>, der anscheinend beide Handybetriebssysteme beliefert, <a href="http://www.heise.de/newsticker/meldung/E-Kiosk-Betreiber-Zinio-verlangt-Zensur-auf-Android-und-iOS-Geraeten-1568938.html">verlangte ebenfalls die Zensur des schon erwähnten Focus-Titelbilds aus Angst für vor <em>möglichen</em> Beschwerden durch Apple</a>. Dieser vorauseilende Gehorsam brachte also auch die Android-Nutzer in den &ldquo;Genuss&rdquo; der zensierten Ausgabe.</p>

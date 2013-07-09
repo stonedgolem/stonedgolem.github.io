@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Go on and Comment!]]></title>
-    <link href="stonedgolem.github.io/blog/2013/07/09/go-on-and-comment/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/07/09/go-on-and-comment/"/>
     <updated>2013-07-09T11:11:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2013/07/09/go-on-and-comment</id>
+    <id>http://stonedgolem.github.io/blog/2013/07/09/go-on-and-comment</id>
     <content type="html"><![CDATA[<p>Mal wieder eine Pause. Mal wieder unangekündigt. Ein Vierteljahr gab es hier keine neuen Posts, während ich mich bei Google Plus oder Twitter rumtrieb und Ingress spielte. Gründe gibt es viele, aber wahrscheinlich wollte ich nicht öffentlich rumheulen, wie schwer es als Geisteswissenschaftler ist einen Job zu finden. Den hab ich zwar noch immer nicht, aber ich habe zumindest eine Vorstufe davon erreicht. Drückt mit also die Daumen, damit sich vielleicht daraus eine Arbeitsstelle entwickelt.</p>
 
 <p>Aber das ist gar nicht der Grund, warum ich diesen Post hier schreibe. Vielmehr wollte ich darauf hinweisen, dass Stoned Golem weiter geht. Und inhaltlich wachsen wird. Etwas weniger Politik, etwas mehr Entertainment bzw. Kunst. Den Anfang wird eine Rezension machen, die ich heute noch im Anschluss einzustellen gedenke. Derer werden demnächst wohl einige folgen, vor allem aus dem Bereich Hörspiel und Science Fiction.</p>
@@ -31,14 +31,20 @@
 <p>Das Leben bleibt also wie immer: Spannend. Und einen kleinen Ausschnitt lässt sich an dieser Stelle verfolgen. Aber da zuschauen alleine nicht su lustig ist wie zuschauen <em>und</em> meckern, habe ich mich dazu entschlossen, doch wieder Kommentare auf Stoned Golem zuzulassen. Das ganz wird über den JavaScript-Dienst Disqus realisiert werden. Wer (sinnigerweise) NoScript oder so benutzt wird keine Veränderung auf den statischen Seiten sehen, weil Disqus schlicht nicht geladen wird. Alle anderen werden einen neuen Kommentarbereich finden, wo sie ihr Mecker hinterlassen können.</p>
 
 <p>Also, ran an die Tastaturen und schreibt mir, wie sehr ihr mich nicht vermisst habt!</p>
+
+<h2>Update</h2>
+
+<p>Wie unschwer zu erkennen ist, sieht Stoned Golem mal wieder anders aus. Ich weiß wir wieso, aber mit dem alten Template konnte ich keine Kommentare via Disqus einbinden. Da Github ja bekanntlich die Nutzer-URLs von github.com auf github.io umgestellt hat, habe ich die Gelegenheit genutzt und das Blog erneut mit den richtigen URLs aufgesetzt. Im Standartthema gehen jetzt auch die versprochenen Kommentare.</p>
+
+<p>Insgesammt muss ich jetzt einige Funktionen wieder implementieren, darunter auch den vor allem bei mir beliebten flattr-Button. Je nach Lust und Laune kann dies den einen oder anderen Tag dauern. Wird also alles noch spannender, als geplant.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Brutality sells...]]></title>
-    <link href="stonedgolem.github.io/blog/2013/04/07/brutality-sells-dot-dot-dot/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/04/07/brutality-sells-dot-dot-dot/"/>
     <updated>2013-04-07T16:01:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2013/04/07/brutality-sells-dot-dot-dot</id>
+    <id>http://stonedgolem.github.io/blog/2013/04/07/brutality-sells-dot-dot-dot</id>
     <content type="html"><![CDATA[<p>Was tut man nicht alles für Aufmerksamkeit, insbesondere wenn man mit ihr den eigenen Lebensunterhalt bestreitet. Nicht erst mit der Erfindung von Werbung, privaten Rundfunkprogrammen oder den 68zigern ist bekannt, dass &ldquo;sex sells&rdquo;. Was aber, wenn das rhythmische Zusammenspiel nackter Leiber die Auflage nicht mehr zu steigern vermag, weil der Markt gesättigt ist?</p>
 
 <p>Eine Möglichkeit, diesem Dilemma zu entfliehen, lässt sich an der Titanic und ihrem regelmäßigen Techtelmechtel mit Hitler-Covern beobachten. Sinkt die Auflage, wird Adolf reanimiert und auf die Titelseite gebracht, auch wenn es ansonsten kaum oder sogar keinen Bezug zu Nazis im Heft gibt. Das Antlitz des selbsternannten Größten Feldherren aller Zeiten sorgt für den nötigen Absatz um den Angestellten ordentliche Löhne zahlen zu können<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>.</p>
@@ -53,7 +59,7 @@
 
 <p>Hier ein Screenshot, wie Yahoo! Sports über dieses Ereignis berichtete:</p>
 
-<center><img src="stonedgolem.github.io/images/american-news.png"></center>
+<center><img src="http://stonedgolem.github.io/images/american-news.png"></center>
 
 
 <p>Man beachte den letzten Satz, der nur geschrieben wurde, damit Eltern mit traumatisch geschädigten Kindern die Website nicht verklagen können, wenn die Sprösslingen doch einen Blick riskieren sollte: <strong>WARNING: The image below is extremely graphic. Viewer discretion ist advised.</strong><sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup></p>
@@ -88,9 +94,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zur Einstellung des Google Readers]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers/"/>
     <updated>2013-03-31T19:15:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers</id>
     <content type="html"><![CDATA[<p>Okay, die Sache mit dem <strong>tl;dr</strong> <em>am Anfang</em> des Posts lasse ich sein, Die Idee finde ich zwar weiterhin nicht schlecht, aber die Platzierung ist bei genauerer Überlegung suboptimal und zerschießt das Layout. Anstatt mehr Übersichtlichkeit zu schaffen reduziere ich sie eher. War also &lsquo;ne dumme Idee.</p>
 
 <p>Ebenso doof, wie über die Osterfeiertage mit Fieber im Bett zu liegen. Zwar kann ich nun wieder ein paar Sachen am Stück machen, aber wirklich auf der Höhe bin ich noch nicht. Also seid ein wenig nachsichtig, wenn sich zu viele Fehler einschleichen sollten.</p>
@@ -155,9 +161,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zeiteinteilung [ ZdT #20 ] ]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/27/zeiteinteilung/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/27/zeiteinteilung/"/>
     <updated>2013-03-27T23:03:00+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/27/zeiteinteilung</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/27/zeiteinteilung</id>
     <content type="html"><![CDATA[<blockquote><p>Tot durch Stillstand?</p><p>Ja, ich weiß, ich hab mich lang&#8217; nicht mehr bewegt!</p><footer><strong>Der Fall Böse</strong> <cite>Spie Mich Aus (2012)</cite></footer></blockquote>
 
 
@@ -179,12 +185,12 @@
   
   <entry>
     <title type="html"><![CDATA[Introducing: The Humble Mobile Bundle]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/26/introducing-the-humble-mobile-bundle/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/26/introducing-the-humble-mobile-bundle/"/>
     <updated>2013-03-26T22:23:00+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/26/introducing-the-humble-mobile-bundle</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/26/introducing-the-humble-mobile-bundle</id>
     <content type="html"><![CDATA[<p>Eine schnelle Nachricht: Es gibt ein neues Humble Bundle!</p>
 
-<p><a href="http://www.humblebundle.com"><img class="center" src="stonedgolem.github.io/images/humble_mobile_bundle.png" title="The Humble Mobile Bundle" ></a></p>
+<p><a href="http://www.humblebundle.com"><img class="center" src="http://stonedgolem.github.io/images/humble_mobile_bundle.png" title="The Humble Mobile Bundle" ></a></p>
 
 <p>Wie schon mit dem Music, dem eBook und dem THQ-Bundle geht das bekannte Projekt mit der aktuellen Veröffentlichung neue Wege: Zum ersten Mal gibt es keine Portierungen für Windows, Linux oder Mac! Ausschließlich Android-Games werden ausgeliefert. Diese scheinen aber auf dem ersten Blick ihr Geld mehr als Wert zu sein.</p>
 
@@ -212,9 +218,9 @@
   
   <entry>
     <title type="html"><![CDATA[Umzug vollzogen]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/26/umzug-vollzogen/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/26/umzug-vollzogen/"/>
     <updated>2013-03-26T19:46:00+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/26/umzug-vollzogen</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/26/umzug-vollzogen</id>
     <content type="html"><![CDATA[<h3>tl;dr</h3>
 
 <ol>
@@ -249,9 +255,9 @@
   
   <entry>
     <title type="html"><![CDATA[Der erste Tag mit OctoPress]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/25/der-erste-tag-mit-octopress/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/25/der-erste-tag-mit-octopress/"/>
     <updated>2013-03-25T22:11:00+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/25/der-erste-tag-mit-octopress</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/25/der-erste-tag-mit-octopress</id>
     <content type="html"><![CDATA[<h3>tl;dr</h3>
 
 <ol>
@@ -310,9 +316,9 @@
   
   <entry>
     <title type="html"><![CDATA[Und wieder ein Punkt auf meiner Liste weniger]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger/"/>
     <updated>2013-03-25T16:15:00+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger</id>
     <content type="html"><![CDATA[<p>Und wieder gibt es nette Neuigkeiten zu verkünden. Meine Liste der zu erledigenden Dinge ist sage und schreibe zwei Punkte kürzer geworden. Das Arbeiten von mehreren Rechnern aus ist nun möglich und <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">dank diesem Post hier</a> hat auch der Geisteswissenschaftler in mir verstanden, wie genau ich das zu bewerkstelligen habe. Wenn ich jetzt nicht immer noch die letzten Kommandos vergessen würde, dann würde ich auch schneller ans Ziel kommen. Aber man kann ja bekanntlich nicht alles haben.</p>
 
 <p>Und wer will schon Schokolade <em>und</em> Eis, oder?!</p>
@@ -332,9 +338,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ein Anfang ist gemacht]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht/"/>
     <updated>2013-03-25T15:37:00+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht</id>
     <content type="html"><![CDATA[<p>So, der Anfang ist gemacht und die ersten Fragen beginnen sich zu formen</p>
 
 <ul>
@@ -368,9 +374,9 @@
   
   <entry>
     <title type="html"><![CDATA[PHP nervt ...]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/25/php-nervt/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/25/php-nervt/"/>
     <updated>2013-03-25T14:17:28+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/25/php-nervt</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/25/php-nervt</id>
     <content type="html"><![CDATA[<p>Dies ist ein kleines Blog, das vor allem Buchstaben über den Äther schubst. Keine großen Ansprüche, wenig Besucher, kaum Aufwand und Anforderung. Aber das Dynamische Trio WordPress/MySQL/PHP belegt auf dem Server derzeit soviel Platz im RAM, dass mir sogar schon das Backend verschlossen bleibt. Ich hab zwar jetzt das PHP memory_limit erhöht, aber auf Dauer sehe ich es nicht ein, so viele Ressourcen für ein wenig Palaver zu verbraten.</p>
 
 <p>Ich bin schon länger am Überlegen, ob ich nicht auf statische Weblogs umsteigen sollte. Gründe dafür gibt es viele: Weniger Ressourcen, die verschwendet werden sowie <a href="http://de.wikipedia.org/wiki/Markdown">Markdown</a> und <a href="www.vim.org">vim</a> zum editieren der Einträge und damit auch kein webbasiertes Backend. Eine git-Unterstützung wäre dann noch das nonplusultra. Im Gegenzug würden die Kommentare vorerst wegfallen, da ich nicht auf proprietäre Lösungen wie Disqus setzten möchte. Aber so wenig, wie hier los ist, wär das auch kein großer Verlust. Denke ich mir gerade und bleibe bei der Meinung, so lange niemand laut widerspricht.</p>
@@ -395,9 +401,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ein wichtiger Post]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/25/ein-wichitiger/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/25/ein-wichitiger/"/>
     <updated>2013-03-25T13:36:00+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/25/ein-wichitiger</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/25/ein-wichitiger</id>
     <content type="html"><![CDATA[<p>Dieser Post ist wichtig, denn ich muss schauen, ob ich auch auf anderen Rechnern an das Repository komme. Und vor allem: Wie! Denn eine <em>Ein-Rechner-Lösung</em> ist für den mordernen homo mobilius keine Lösung mehr.</p>
 
 <p>Wünscht mir also Glück, dass es vielleicht hinaut. Man kann ja nie wissen.</p>
@@ -406,9 +412,9 @@
   
   <entry>
     <title type="html"><![CDATA[Neues Hörbuch bei MDR Sputnik]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik/"/>
     <updated>2013-03-24T16:54:59+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik</id>
     <content type="html"><![CDATA[<p>Ich habe mich in letzter Zeit viel mit Hörspielen beschäftigt. Wie man sie am besten selber Aufzeichnen kann. Wie es in der Szene insgesamt so steht, da ich sie seit 2009 nicht mehr aktiv verfolgt habe. Wo man sie legal downloaden kann. Bei diesen Recherchen bin ich (wieder) auf MDR SPUTNIK aufmerksam geworden: SPUTNIK ist die digitale Ausgabe des MDR, die mit dem Hörerlebnis in regelmäßigen Abständen Hörbücher als kostenlosen Podcast bringt.</p>
 
 <p>Der aktuelle Podcast trägt den vielversprechenden Titel <em>&ldquo;<a href="http://www.sputnik.de/hoererlebnis">Abserviert &ndash; mein Leben als Humankapital</a>&rdquo;</em>, geschrieben von <a href="http://de.wikipedia.org/wiki/Iain_Levison">Iain Levison</a>. Der Autor sagt mir zwar nichts, aber ich kann ja auch nicht alles kennen. Auf Grund meiner aktuellen, privaten Lebenssituation kann ich mich dem Reiz dieses Titels nicht entziehen und werde dem Hörbuch mal eine ausgedehntere Chance geben.</p>
@@ -429,9 +435,9 @@
   
   <entry>
     <title type="html"><![CDATA[Gedanken zum Sprachgebrauch]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/18/gedanken-zum-sprachgebrauch/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/18/gedanken-zum-sprachgebrauch/"/>
     <updated>2013-03-18T12:32:24+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/18/gedanken-zum-sprachgebrauch</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/18/gedanken-zum-sprachgebrauch</id>
     <content type="html"><![CDATA[<p>Wir leben in einer männlich dominierten Gesellschaft und sind es uns meistens nicht einmal bewusst. Wenn wir selber Angehöriger des privilegierten Teils sind fällt es uns schwer, die Diskriminierung als solche überhaupt wahrzunehmen: Die verantwortlichen Prozesse wirken zumeist auf subtile Art, weswegen sie oftmals nicht nur schwer zu erkennen sondern auch schwer zu benennen sind. Erklärungskonstrukte, die auf gesellschaftliches Fehlverhalten hinweisen und es analysieren möchten, werden auf Grund ihres konstruierten Charakters als lächerlich abgewiesen. Sollte sich die Diskussion damit nicht abwürgen lassen, geht es ins persönliche: &ldquo;Es sind ja nur die hässlichen Weiber, die den Emanzenquatsch wieder aufwärmen.&rdquo; Als wenn Schönheit irgendeine Relevanz für Diskussionsverhalten und argumentative Fähigkeiten hätte. Ein Blick in den Kommentarbereich von Spiegel Online reicht, um diese und ähnliche Aussagen in ausreichender Stückzahl zu finden. Die männliche Dominanz rottet sich gerne zusammen, um sich selbst zu verteidigen.</p>
 
 <p>Aktuell ist das Thema groß in den Medien: Vergewaltigungen in Indien und ausgefüllte Dirndl in Deutschland. Schnell kommt aus männlicher Richtung der Vorwurf, der lokale #aufschrei wäre ein Luxusproblem der hiesigen Damen. Im Vergleich zu Indien brauchen sie sich doch gar nicht beschweren. Argumentationsmuster dieser Art zeigen deutlich, wie wenig Empathie auf männlicher Seite für das Anliegen des anderen Geschlechts vorhanden ist.</p>
@@ -446,9 +452,9 @@
   
   <entry>
     <title type="html"><![CDATA[Frauen und was sie sich alles gefallen zu lassen haben! [ZdT #19]]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/18/frauen-und-was-sie-sich-alles-gefallen-zu-lassen-haben-zdt-19/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/18/frauen-und-was-sie-sich-alles-gefallen-zu-lassen-haben-zdt-19/"/>
     <updated>2013-03-18T11:41:37+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/18/frauen-und-was-sie-sich-alles-gefallen-zu-lassen-haben-zdt-19</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/18/frauen-und-was-sie-sich-alles-gefallen-zu-lassen-haben-zdt-19</id>
     <content type="html"><![CDATA[<blockquote><p>&ldquo;Besonders umstritten bei den zähen Debatten über den Abschlusstext war eine Formulierung, wonach Gewalt gegen Frauen nicht durch Sitten, Traditionen oder religiöse Ansichten gerechtfertigt werden kann. Muslimische Länder wie der Iran, Libyen und der Sudan, aber auch Russland und der Vatikan hatten sich für eine schwächere Wortwahl eingesetzt[.]&rdquo;</p></blockquote>
 
 <p>(Artikel &ldquo;Ohne Ausnahme, ohne Ausrede&rdquo; aus der taz vom 18. März 2013, Seite 2.)</p>
@@ -476,14 +482,14 @@
   
   <entry>
     <title type="html"><![CDATA[Unerwarteter Schneefall im Winter.]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/18/unerwarteter-schneefall-im-winter/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/18/unerwarteter-schneefall-im-winter/"/>
     <updated>2013-03-18T10:16:31+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/18/unerwarteter-schneefall-im-winter</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/18/unerwarteter-schneefall-im-winter</id>
     <content type="html"><![CDATA[<p>Hamburg (sgna &ndash; stoned golem news agency)</p>
 
 <p>Die heimliche Bundeshauptstadt Hamburg versank in der Nacht auf Montag unter einer mehrere Zentimeter messenden Schicht Neuschnee. Der absolut unerwartete und heftige Schneefall bescherte Hamburger S-Bahn Fahrer*Innen Berliner Verhältnisse und sorgte für Verspätungen, wie man sie sonst nur vom BER-Hauptstadtflughafen kennt. Der Winterdienst wurde wieder einberufen und bereitet sich mit Hochdruck darauf vor, das entstandene Chaos in den nächsten Tagen eventuell unter Kontrolle zu bekommen. Die zuständigen Stellen der Stadt weisen jeden Vorwurf der Überforderung vehement zurück. Hierzu der Pressesatirikersprecher der Stadt: &ldquo;Wer rechnet denn schon mit Schnee im Winter?&rdquo;</p>
 
-<p><img class="center" src="stonedgolem.github.io/images/schnee.jpg" title="'telefonierende Bücher im Schnee'" ></p>
+<p><img class="center" src="http://stonedgolem.github.io/images/schnee.jpg" title="'telefonierende Bücher im Schnee'" ></p>
 
 <p>Leser*Innen dieses Blogs übersandten uns Beweisfotos zur aktuellen Wetterlage der Hansestadt. Ein Leser kommentierte sein Bild mit den Worten: &ldquo;Ich schwöre, das war gestern noch nicht da!&rdquo;</p>
 ]]></content>
@@ -491,9 +497,9 @@
   
   <entry>
     <title type="html"><![CDATA[Perry Rhodan Doku in der Arte-Mediathek]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/17/perry-rhodan-doku-in-der-arte-mediathek/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/17/perry-rhodan-doku-in-der-arte-mediathek/"/>
     <updated>2013-03-17T17:41:27+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/17/perry-rhodan-doku-in-der-arte-mediathek</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/17/perry-rhodan-doku-in-der-arte-mediathek</id>
     <content type="html"><![CDATA[<p><a href="http://www.perry-rhodan.net/">Perry Rhodan</a>. Unser Mann im All. Deutschlands erfolgreichste Science Fiction Serie. Seit 1961 erscheinen die regelmäßigen Heftromane im Pabel-Moewig-Verlag ((der selbe Verlag übrigens, der die überaus fragwürdigen &ldquo;Landser&rdquo;-Heftchen herausbringt)): Fast 2700 Folgen sind bisher erschienen und das Phänomen wird noch immer weiter geschrieben. Grund genug, eine Dokumentation über diese Serie zu bringen. Und weil sich dies der öffentlich-rechtliche Rundfunk dachte, lässt sich die Dokumentation &ldquo;<a href="http://videos.arte.tv/de/videos/perry-rhodan-unser-mann-im-all--7379086.html">Perry Rhodan &ndash; Unser Mann im All</a>&rdquo; in der Arte-Mediathek noch anschauen.</p>
 
 <p>Viel Spaß damit!</p>
@@ -502,9 +508,9 @@
   
   <entry>
     <title type="html"><![CDATA[Der Grund für die Funkstille]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille/"/>
     <updated>2013-03-15T09:29:04+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille</id>
     <content type="html"><![CDATA[<p>Es ist die Woche der schlechten Nachrichten in der IT-Welt. Zwar ist keine wirkliche Hiobsbotschaft von apokalyptischen Ausmaß dabei, aber die Nachrichten reichten aus, um mich zu einigen Änderungen zu bewegen. Ausgerüstet mit einem Raspberry Pi, einer Fritzbox und einem DSL16.000 Anschluss habe ich begonnen, mich von den großen Anbietern zu emanzipieren. Die Zeit, die dafür nötig war, habe ich von der Zeit abgezweigt, die ich normalerweise für mein Blog aufwende. Das offensichtliche Resultat war hier die Funkstille, dafür kann ich jetzt ssl-geschützt von überall auf meine eigene Cloud zugreifen.</p>
 
 <!-- more -->
@@ -548,9 +554,9 @@
   
   <entry>
     <title type="html"><![CDATA[Von Zwickmühlen, Popos und Kniffen. Oder: Werbung so lange das Datenvolumen reicht.]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht/"/>
     <updated>2013-03-14T16:09:13+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht</id>
     <content type="html"><![CDATA[<p>Die Kurzform: <a href="http://www.heise.de/newsticker/meldung/Google-wirft-Werbeblocker-aus-dem-Android-Play-Store-1822706.html">Google verbannt Werbeblocker-Apps aus dem Play Store, weil sie gegen Vertragsbestimmungen verstoßen</a>. Formal ist das richtig, weil besagte Apps tatsächlich in die Funktionsweise anderer Apps eingreifen und diese verändern. Und zwar in der Form, dass sie das Herunterladen und Anzeigen der Werbung unterbinden. Man könnte sich also fragen: So what? Dann musst du halt die Werbung schauen, damit die Entwickler, die dir <em>kostenlos </em>ein Programm zur Verfügung gestellt haben, auch ein wenig Einnahmen generieren können.</p>
 
 <p>So legitim dies auch klingt: Ich frage mich gerade ernsthaft, ob der wahre Nutznießer dieser Aktion nicht ganz wo anders zu vermuten ist.</p>
@@ -574,9 +580,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hörspiele mitschneiden mit dem Pi]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/"/>
     <updated>2013-03-11T21:09:22+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi</id>
     <content type="html"><![CDATA[<p>Der Raspberry Pi ist schon ein toller Kleinstrechner. Vor allem der geringe Stromverbrauch von gerade mal 3,5 Watt prädestiniert ihn für Einsätze, die einen dauerhaft arbeitenden Rechner erfordern: Ob als kleiner OwnCloud-Server oder für kleinste private Websites, mit dem Pi lassen sich derartige Wünsche schnell und kostengünstig realisieren. Aber auch für Fans der gepflegten, auditiven Unterhaltung eignen sich der Pi hervorragend: Mit nur einem kleinen Programm lassen sich problemlos MP3-Radiostreams aufzeichnen. Dies füllt entweder die Musiksammlung oder den Hörspielordner, je nach dem, zu welchem Zweck das Programm genutzt wird.</p>
 
 <!-- more -->
@@ -738,9 +744,9 @@
   
   <entry>
     <title type="html"><![CDATA[Jahreszeitenshuffle]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/11/jahreszeitenshuffle/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/11/jahreszeitenshuffle/"/>
     <updated>2013-03-11T14:38:44+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/11/jahreszeitenshuffle</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/11/jahreszeitenshuffle</id>
     <content type="html"><![CDATA[<blockquote><p>&ldquo;Leise rieselt der Schnee,</p>
 
 <p>still und starr liegt der See.&#8221;</p></blockquote>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: stonedgolem.github.io/sitemap.xml 
+Sitemap: http://stonedgolem.github.io/sitemap.xml 

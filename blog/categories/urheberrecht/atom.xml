@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Urheberrecht | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/urheberrecht/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/urheberrecht/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[LitRes vs. Moon+ Reader. Oder: Mit Unrecht gegen die Konkurrenz]]></title>
-    <link href="stonedgolem.github.io/blog/2013/02/07/litres-vs-moon-reader-oder-mit-unrecht-gegen-die-konkurrenz/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/02/07/litres-vs-moon-reader-oder-mit-unrecht-gegen-die-konkurrenz/"/>
     <updated>2013-02-07T17:29:35+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/02/07/litres-vs-moon-reader-oder-mit-unrecht-gegen-die-konkurrenz</id>
+    <id>http://stonedgolem.github.io/blog/2013/02/07/litres-vs-moon-reader-oder-mit-unrecht-gegen-die-konkurrenz</id>
     <content type="html"><![CDATA[<p>Ich hab auf diesem Blog schon an verschiedenster Stelle meine Gedanken zum Urheberrecht geäußert und werde wohl auch immer wieder hier und dort einige Überlegungen einfließen lassen. Was mich vor allem stört ist die Tatsache, dass das Copyright eigentlich den Wettbewerb zwischen Firmen reglementieren sollte, nun aber gegen Nutzer in Stellung gebracht wird. Wurde bei ihrem ersten Aufkommen die Collagen-Technik von Künstlern noch als intelligente und schützenswerte Reorganisation der Umwelt gefeiert, so dürfen im Kindergarten angefertigte &ldquo;Schnipselplakate&rdquo; nicht mehr präsentiert werden, weil sonst eventuell eine Abmahnung droht. Auch der jugendliche Spieltrieb, der neumodisch in <em>Remixen</em> seinen Niederschlag findet, wird dank Coypright schnell zu einer höchst kriminellen Straftat, die individuell schwerwiegendere Folgen haben kann als einer vergewaltigten Frau die Hilfe zu verweigern.</p>
 
 <p>Die Fronten in diesem Streit sind ebenso verhärtet wie zwischen Google/YouTube und der GEMA: An eine gütliche Einigung glaube ich nicht mehr. Das nachfolgende Beispiel wirft aber die Frage auf, ob ein derart rigides Copyright wirklich erstrebenswert ist, denn es ist ein Musterbeispiel davon, wie juristische Winkelzüge vorgebraucht werden um sich mehrere unliebsamer Konkurrenten zu entledigen. Vorhang auf für beinahe mafiöse Verhältnisse im Google Play Store: Eine Geschichte in neun Opfern und mindestens einer Erpressung.</p>
@@ -43,18 +43,18 @@
   
   <entry>
     <title type="html"><![CDATA[Breaking News]]></title>
-    <link href="stonedgolem.github.io/blog/2013/02/05/breaking-news/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/02/05/breaking-news/"/>
     <updated>2013-02-05T22:44:47+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/02/05/breaking-news</id>
+    <id>http://stonedgolem.github.io/blog/2013/02/05/breaking-news</id>
     <content type="html"><![CDATA[<p>Die Heinrich-Heine-Universität Düsseldorf hat Schavan den Titel aberkannt. Sie kann zwar noch Einspruch gegen die Entscheidung einlegen, aber ihre Tage im Kabinett Merkel sind damit wohl gezählt&hellip;</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Wenn Sätze zu lizenzpflichtigen Waren werden...]]></title>
-    <link href="stonedgolem.github.io/blog/2012/07/06/wenn-satze-zu-lizenzpflichtigen-waren-werden-2/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/07/06/wenn-satze-zu-lizenzpflichtigen-waren-werden-2/"/>
     <updated>2012-07-06T13:45:21+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/07/06/wenn-satze-zu-lizenzpflichtigen-waren-werden-2</id>
+    <id>http://stonedgolem.github.io/blog/2012/07/06/wenn-satze-zu-lizenzpflichtigen-waren-werden-2</id>
     <content type="html"><![CDATA[<p>Das Zitatrecht scheint dieser Tage unter starkem Beschuss zu stehen. Im Rahmen des Leistungsschutzrechtes (LSR) soll es zwar gewahrt werden, aber gleichzeitig werden schon &ldquo;kleinste Übernahmen&rdquo; lizenzpflichtig. Wie dieser Widerspruch in der Praxis gelöst werden soll ist unklar, aber es ist zu erwarten, dass vor allem <a href="http://www.lawblog.de/index.php/archives/2012/06/14/digital-kastriert/">Blogger darunter leiden werden und eine Menge Abmahnungen erwarten dürften</a>.</p>
 
 <p>Doch damit nicht genug: Nun mischt sich auch die Erbin von <a href="http://de.wikipedia.org/wiki/Loriot">Vicco von Bülow</a>, besser bekannt unter seinem Künstlernamen Loriot, in die Diskussion mit ein. Die Dame ist keine Unbekannte, denn sie hat schon erfolgreich <a href="http://www.heise.de/newsticker/meldung/Urteil-Keine-Loriot-Briefmarken-in-Wikipedia-1621944.html">gegen Wikipedia geklagt</a> und erreicht, dass eine Loriotgedenkbriefmarke dort nicht &ldquo;digital reproduziert&rdquo; werden darf. Offizielle Zahlungsmittel, die in ihrer Gestaltung der Allgemeinheit gehören sollten und keinem Künstler, sind folglich ab jetzt doch Urheberrechtlich geschützt. Vielleicht kann die Künstler der Euronoten vielleicht demnächst jeden 500 Euro-Schein zurückfordern, wenn man für die Nutzung des Zahlungsmittels keine Lizenz erwirbt?</p>
@@ -71,9 +71,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wider der Umsonstkultur!]]></title>
-    <link href="stonedgolem.github.io/blog/2012/07/05/wider-der-umsonstkultur/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/07/05/wider-der-umsonstkultur/"/>
     <updated>2012-07-05T15:27:16+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/07/05/wider-der-umsonstkultur</id>
+    <id>http://stonedgolem.github.io/blog/2012/07/05/wider-der-umsonstkultur</id>
     <content type="html"><![CDATA[<p>Auch die ach so um Austausch bemühten Tatortautoren schreiben in ihrem <a href="http://www.drehbuchautoren.de/nachrichten/2012/03/offener-brief-von-51-tatort-autoren-0">Offenen Brief</a> von der &ldquo;Umsonstkultur&rdquo;, die im Internet ihr Unwesen treibt. Von den Internetnutzern und Piraten (im Sinne der Partei) fordern sie, dass diese sich von einigen Lebenslügen freimachen sollten, während sie selbst an einer festhalten. Denn der Mythos der Umsonstkultur ist genau das: Ein Mythos, aufrecht erhalten von Menschen, die krampfhaft an einem vielleicht zum Sterben verdammten System festhalten wollen. Schaut man aber genauer hin wird man feststellen, dass es durchaus Bezahlmodelle gibt, die von Nutzern mit Freuden in Anspruch genommen werden &mdash; vielleicht auch deshalb, weil zahlenden Konsumenten bei diesen Angeboten nicht automatisch unter dem Generalverdacht der Piraterie gestellt werden. Auf geht es also zu einer kleinen Exkursion bezahlter Alternativkultur im Internet um die Lüge der Umsonstkultur zu widerlegen.</p>
 
 <p><em>****</em><strong>1. Free/Libre Open Source Software
@@ -135,9 +135,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wer eine Hochzeit tut, der hat das Aufgebot ohne die GEMA gemacht]]></title>
-    <link href="stonedgolem.github.io/blog/2012/06/06/wer-eine-hochzeit-tut-der-hat-das-aufgebot-ohne-die-gema-gemacht/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/06/06/wer-eine-hochzeit-tut-der-hat-das-aufgebot-ohne-die-gema-gemacht/"/>
     <updated>2012-06-06T18:51:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/06/06/wer-eine-hochzeit-tut-der-hat-das-aufgebot-ohne-die-gema-gemacht</id>
+    <id>http://stonedgolem.github.io/blog/2012/06/06/wer-eine-hochzeit-tut-der-hat-das-aufgebot-ohne-die-gema-gemacht</id>
     <content type="html"><![CDATA[<p>Irgendwie beschäftigt mich in letzter Zeit das Thema Hochzeit. Vielleicht, weil an meinem Schreibtisch ein Klebezettel mit Terminen zur Anmeldung der Eheschließung und der Heirat hängt. Wer weiß. Jedenfalls kam mir in dieser intensiven Beschäftigungsphase ein kleiner netter <a href="http://netzpolitik.org/2012/urheberrechtsabgaben-auf-hochzeiten-in-kanada-und-hier/">Artikel von netzpolitik.org</a> unter die Augen, den ich euch natürlich nicht vorenthalten möchte.</p>
 
 <p>Es geht darum, dass in Kanada jetzt wohl eine Abgabe beschlossen wurde, die auch bei privaten Veranstaltungen wie Hochzeiten oder Geburtstagen zu entrichten ist, wenn auf dieser Feierlichkeit (geschützte) Musik spielt wird. Dies inspirierte den netzpolitischen Autoren dazu, mal bei der GEMA die Situation in Deutschland zu erfragen. Die Antwort könnte komplizierter und nichtssagender nicht sein, weswegen ich allen Interessierten den schon genannten Link ans Herz legen möchte.</p>

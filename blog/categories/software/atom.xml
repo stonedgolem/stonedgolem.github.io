@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Software | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/software/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/software/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[PHP nervt ...]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/25/php-nervt/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/25/php-nervt/"/>
     <updated>2013-03-25T14:17:28+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/25/php-nervt</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/25/php-nervt</id>
     <content type="html"><![CDATA[<p>Dies ist ein kleines Blog, das vor allem Buchstaben über den Äther schubst. Keine großen Ansprüche, wenig Besucher, kaum Aufwand und Anforderung. Aber das Dynamische Trio WordPress/MySQL/PHP belegt auf dem Server derzeit soviel Platz im RAM, dass mir sogar schon das Backend verschlossen bleibt. Ich hab zwar jetzt das PHP memory_limit erhöht, aber auf Dauer sehe ich es nicht ein, so viele Ressourcen für ein wenig Palaver zu verbraten.</p>
 
 <p>Ich bin schon länger am Überlegen, ob ich nicht auf statische Weblogs umsteigen sollte. Gründe dafür gibt es viele: Weniger Ressourcen, die verschwendet werden sowie <a href="http://de.wikipedia.org/wiki/Markdown">Markdown</a> und <a href="www.vim.org">vim</a> zum editieren der Einträge und damit auch kein webbasiertes Backend. Eine git-Unterstützung wäre dann noch das nonplusultra. Im Gegenzug würden die Kommentare vorerst wegfallen, da ich nicht auf proprietäre Lösungen wie Disqus setzten möchte. Aber so wenig, wie hier los ist, wär das auch kein großer Verlust. Denke ich mir gerade und bleibe bei der Meinung, so lange niemand laut widerspricht.</p>
@@ -42,9 +42,9 @@
   
   <entry>
     <title type="html"><![CDATA[Von Zwickmühlen, Popos und Kniffen. Oder: Werbung so lange das Datenvolumen reicht.]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht/"/>
     <updated>2013-03-14T16:09:13+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht</id>
     <content type="html"><![CDATA[<p>Die Kurzform: <a href="http://www.heise.de/newsticker/meldung/Google-wirft-Werbeblocker-aus-dem-Android-Play-Store-1822706.html">Google verbannt Werbeblocker-Apps aus dem Play Store, weil sie gegen Vertragsbestimmungen verstoßen</a>. Formal ist das richtig, weil besagte Apps tatsächlich in die Funktionsweise anderer Apps eingreifen und diese verändern. Und zwar in der Form, dass sie das Herunterladen und Anzeigen der Werbung unterbinden. Man könnte sich also fragen: So what? Dann musst du halt die Werbung schauen, damit die Entwickler, die dir <em>kostenlos </em>ein Programm zur Verfügung gestellt haben, auch ein wenig Einnahmen generieren können.</p>
 
 <p>So legitim dies auch klingt: Ich frage mich gerade ernsthaft, ob der wahre Nutznießer dieser Aktion nicht ganz wo anders zu vermuten ist.</p>
@@ -68,9 +68,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hörspiele mitschneiden mit dem Pi]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/"/>
     <updated>2013-03-11T21:09:22+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi</id>
     <content type="html"><![CDATA[<p>Der Raspberry Pi ist schon ein toller Kleinstrechner. Vor allem der geringe Stromverbrauch von gerade mal 3,5 Watt prädestiniert ihn für Einsätze, die einen dauerhaft arbeitenden Rechner erfordern: Ob als kleiner OwnCloud-Server oder für kleinste private Websites, mit dem Pi lassen sich derartige Wünsche schnell und kostengünstig realisieren. Aber auch für Fans der gepflegten, auditiven Unterhaltung eignen sich der Pi hervorragend: Mit nur einem kleinen Programm lassen sich problemlos MP3-Radiostreams aufzeichnen. Dies füllt entweder die Musiksammlung oder den Hörspielordner, je nach dem, zu welchem Zweck das Programm genutzt wird.</p>
 
 <!-- more -->
@@ -232,9 +232,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Annual Humble Bundle Mojam 2]]></title>
-    <link href="stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2/"/>
     <updated>2013-02-21T15:45:36+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2</id>
+    <id>http://stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2</id>
     <content type="html"><![CDATA[<p><a href="http://humblebundle.com"><img src="http://stonedgolem.de/wp-content/uploads/2013/02/mojam2-300x88.png" alt="mojam2" /></a>It&rsquo;s about time damn again! Nachdem <a href="http://mojang.com/">Mojang</a>, die Macher von <a href="https://minecraft.net/">Minecraft</a>, schon im letzen Jahr eine spontane, dreitäge Game-Jam-Session eingelegt haben, gibt es dieses Jahr die Fortsetzung! Die Regeln sind einfach: Mojang (und einige Freunde) haben beim Mojam  3 Tage Zeit ein kleines Indi-Spiel von Scratch aufzuziehen. Die Programmierer und Grafikdesigner lassen sich dabei per Webcam über die Schulter schauen. Innerhalb der kurzen Frist entstehen jetzt keine Meisterwerke wie Minecraft oder <a href="http://www.introversion.co.uk/uplink/">Uplink</a>, aber hey, it&rsquo;s for fun!</p>
 
 <!-- more -->
@@ -250,9 +250,9 @@
   
   <entry>
     <title type="html"><![CDATA[Moon+ Reader wieder auf Google Play verfügbar]]></title>
-    <link href="stonedgolem.github.io/blog/2013/02/09/moon-reader-wieder-auf-google-play-verfugbar/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/02/09/moon-reader-wieder-auf-google-play-verfugbar/"/>
     <updated>2013-02-09T15:17:12+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/02/09/moon-reader-wieder-auf-google-play-verfugbar</id>
+    <id>http://stonedgolem.github.io/blog/2013/02/09/moon-reader-wieder-auf-google-play-verfugbar</id>
     <content type="html"><![CDATA[<p>Ich habe mich gewandert, als mir mein Handy heute morgen mitteilte, dass es ein Update von Moon+ via Google Play gäbe. Und tatsächlich, sowohl free als auch pro Version des Readers sind wieder verfügbar, <em>obwohl</em> laut Google eine Wiederaufnahme in den Play Store erst zum Monatswechsel möglich gewesen wäre. Der Druck der Community hat Google wohl dazu gebracht, die eigene Politik zu überdenken und den Vorgang zu beschleunigen.</p>
 
 <p>Vor lauter Glück bietet der Entwickler bis zum Monatsende die Pro Version um die Hälfte günstiger an. Selber Schuld, wer jetzt nicht zuschlägt.</p>

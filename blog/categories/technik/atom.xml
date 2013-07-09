@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Technik | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/technik/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/technik/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ein Anfang ist gemacht]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht/"/>
     <updated>2013-03-25T15:37:00+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht</id>
     <content type="html"><![CDATA[<p>So, der Anfang ist gemacht und die ersten Fragen beginnen sich zu formen</p>
 
 <ul>

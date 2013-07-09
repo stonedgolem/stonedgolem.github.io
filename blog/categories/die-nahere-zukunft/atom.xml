@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Die nähere Zukunft | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/die-nahere-zukunft/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/die-nahere-zukunft/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Go on and Comment!]]></title>
-    <link href="stonedgolem.github.io/blog/2013/07/09/go-on-and-comment/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/07/09/go-on-and-comment/"/>
     <updated>2013-07-09T11:11:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2013/07/09/go-on-and-comment</id>
+    <id>http://stonedgolem.github.io/blog/2013/07/09/go-on-and-comment</id>
     <content type="html"><![CDATA[<p>Mal wieder eine Pause. Mal wieder unangekündigt. Ein Vierteljahr gab es hier keine neuen Posts, während ich mich bei Google Plus oder Twitter rumtrieb und Ingress spielte. Gründe gibt es viele, aber wahrscheinlich wollte ich nicht öffentlich rumheulen, wie schwer es als Geisteswissenschaftler ist einen Job zu finden. Den hab ich zwar noch immer nicht, aber ich habe zumindest eine Vorstufe davon erreicht. Drückt mit also die Daumen, damit sich vielleicht daraus eine Arbeitsstelle entwickelt.</p>
 
 <p>Aber das ist gar nicht der Grund, warum ich diesen Post hier schreibe. Vielmehr wollte ich darauf hinweisen, dass Stoned Golem weiter geht. Und inhaltlich wachsen wird. Etwas weniger Politik, etwas mehr Entertainment bzw. Kunst. Den Anfang wird eine Rezension machen, die ich heute noch im Anschluss einzustellen gedenke. Derer werden demnächst wohl einige folgen, vor allem aus dem Bereich Hörspiel und Science Fiction.</p>
@@ -31,6 +31,12 @@
 <p>Das Leben bleibt also wie immer: Spannend. Und einen kleinen Ausschnitt lässt sich an dieser Stelle verfolgen. Aber da zuschauen alleine nicht su lustig ist wie zuschauen <em>und</em> meckern, habe ich mich dazu entschlossen, doch wieder Kommentare auf Stoned Golem zuzulassen. Das ganz wird über den JavaScript-Dienst Disqus realisiert werden. Wer (sinnigerweise) NoScript oder so benutzt wird keine Veränderung auf den statischen Seiten sehen, weil Disqus schlicht nicht geladen wird. Alle anderen werden einen neuen Kommentarbereich finden, wo sie ihr Mecker hinterlassen können.</p>
 
 <p>Also, ran an die Tastaturen und schreibt mir, wie sehr ihr mich nicht vermisst habt!</p>
+
+<h2>Update</h2>
+
+<p>Wie unschwer zu erkennen ist, sieht Stoned Golem mal wieder anders aus. Ich weiß wir wieso, aber mit dem alten Template konnte ich keine Kommentare via Disqus einbinden. Da Github ja bekanntlich die Nutzer-URLs von github.com auf github.io umgestellt hat, habe ich die Gelegenheit genutzt und das Blog erneut mit den richtigen URLs aufgesetzt. Im Standartthema gehen jetzt auch die versprochenen Kommentare.</p>
+
+<p>Insgesammt muss ich jetzt einige Funktionen wieder implementieren, darunter auch den vor allem bei mir beliebten flattr-Button. Je nach Lust und Laune kann dies den einen oder anderen Tag dauern. Wird also alles noch spannender, als geplant.</p>
 ]]></content>
   </entry>
   

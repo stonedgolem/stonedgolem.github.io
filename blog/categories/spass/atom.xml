@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Spass | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/spass/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/spass/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Annual Humble Bundle Mojam 2]]></title>
-    <link href="stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2/"/>
     <updated>2013-02-21T15:45:36+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2</id>
+    <id>http://stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2</id>
     <content type="html"><![CDATA[<p><a href="http://humblebundle.com"><img src="http://stonedgolem.de/wp-content/uploads/2013/02/mojam2-300x88.png" alt="mojam2" /></a>It&rsquo;s about time damn again! Nachdem <a href="http://mojang.com/">Mojang</a>, die Macher von <a href="https://minecraft.net/">Minecraft</a>, schon im letzen Jahr eine spontane, dreitäge Game-Jam-Session eingelegt haben, gibt es dieses Jahr die Fortsetzung! Die Regeln sind einfach: Mojang (und einige Freunde) haben beim Mojam  3 Tage Zeit ein kleines Indi-Spiel von Scratch aufzuziehen. Die Programmierer und Grafikdesigner lassen sich dabei per Webcam über die Schulter schauen. Innerhalb der kurzen Frist entstehen jetzt keine Meisterwerke wie Minecraft oder <a href="http://www.introversion.co.uk/uplink/">Uplink</a>, aber hey, it&rsquo;s for fun!</p>
 
 <!-- more -->
@@ -33,9 +33,9 @@
   
   <entry>
     <title type="html"><![CDATA[König unter Parkplatz gefunden!]]></title>
-    <link href="stonedgolem.github.io/blog/2013/02/05/konig-unter-parkplatz-gefunden/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/02/05/konig-unter-parkplatz-gefunden/"/>
     <updated>2013-02-05T12:31:44+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/02/05/konig-unter-parkplatz-gefunden</id>
+    <id>http://stonedgolem.github.io/blog/2013/02/05/konig-unter-parkplatz-gefunden</id>
     <content type="html"><![CDATA[<p>Um mal gleich zu Beginn ein rassistisches Vorurteil zu bedienen: <em>Die</em> Briten gelten ja momentan als nicht besonders zuverlässig, wie hiesige Konservative nicht müde werden zu betonen. <em>Die </em>wollen schließlich den Pöbel fragen, ob dieser weiterhin an der Idee eines geeinten Europas festhalten möchte &mdash; oder ob die Insel nicht doch weit genug vom Festland entfernt liegt, um isoliert vom kuschelnden Rest überleben zu können.</p>
 
 <p>Woher soll das Verantwortungsbewusstsein auch kommen, reden wir doch von einem Volk, das es schaffe einen König zu verlieren. Und wohin das Land kommt, wenn der Pöbel das sagen hat, kann man an dieser Geschichte auch sehen: <a href="http://tagesschau.de/ausland/richard-der-dritte100.html">Unter einem Parkplatz in Leicester wurden die sterblichen von Richard III. gefunden</a>, dem schon <a href="http://gutenberg.spiegel.de/buch/2183/1">Shakespeare ein recht unrühmliches Drama</a> spendierte.</p>
@@ -48,9 +48,9 @@
   
   <entry>
     <title type="html"><![CDATA[Fünfzig Shades of Grey]]></title>
-    <link href="stonedgolem.github.io/blog/2012/07/13/funfzig-shades-of-grey/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/07/13/funfzig-shades-of-grey/"/>
     <updated>2012-07-13T12:42:10+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/07/13/funfzig-shades-of-grey</id>
+    <id>http://stonedgolem.github.io/blog/2012/07/13/funfzig-shades-of-grey</id>
     <content type="html"><![CDATA[<p>Es ist das Gesprächsthema der Stunde. Wirklich jeder zerreist sich das Maul über das neue Skandelthema, auch der ehemalige <a href="http://www.schockwellenreiter.de/blog/2012/07/13/was-denn-nun-bauern-oder-agrarkonzerne/">Qualitätsjournalismus</a>, den ich aus Gründen des Leistungsschutzrechtes hier nicht verlinken will. Die Rede ist von dem <a href="http://de.wikipedia.org/wiki/Wetter">Wetter</a>! Beziehungsweise vom <a href="http://de.wikipedia.org/wiki/Klima">Klima</a>, wie es heutzutage heißt, seit dem uns langsam bewusst wird, dass unser Handeln eventuell doch Konsequenzen haben <em>könnte</em>.</p>
 
 <p>Den elementare Unterschied zwischen Wetter und Klima habe ich gestern am eigenen Laib erfahren dürfen. Wenn mensch früher eine Reise machte, dann konnte es vorkommen, dass man bei Sonnenschein abfuhr und bei Regen ankam oder vice versa. Damals, in der guten alten Zeit vor Kachelmanns Sexualstraftäterprozess, bestand die simple Möglichkeit, dass sich das Wetter während einer Reise einmal ändern konnte. Doch diese übersichtlichen Zeiten sind eindeutig und endgültig vorbei.</p>

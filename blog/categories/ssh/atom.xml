@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: ssh | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/ssh/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/ssh/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zur Einstellung des Google Readers]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers/"/>
     <updated>2013-03-31T19:15:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers</id>
     <content type="html"><![CDATA[<p>Okay, die Sache mit dem <strong>tl;dr</strong> <em>am Anfang</em> des Posts lasse ich sein, Die Idee finde ich zwar weiterhin nicht schlecht, aber die Platzierung ist bei genauerer Überlegung suboptimal und zerschießt das Layout. Anstatt mehr Übersichtlichkeit zu schaffen reduziere ich sie eher. War also &lsquo;ne dumme Idee.</p>
 
 <p>Ebenso doof, wie über die Osterfeiertage mit Fieber im Bett zu liegen. Zwar kann ich nun wieder ein paar Sachen am Stück machen, aber wirklich auf der Höhe bin ich noch nicht. Also seid ein wenig nachsichtig, wenn sich zu viele Fehler einschleichen sollten.</p>

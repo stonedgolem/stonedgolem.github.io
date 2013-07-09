@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Freie Software | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/freie-software/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/freie-software/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Das Lied von Markt und Software...]]></title>
-    <link href="stonedgolem.github.io/blog/2013/02/02/das-lied-von-markt-und-software/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/02/02/das-lied-von-markt-und-software/"/>
     <updated>2013-02-02T13:46:56+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/02/02/das-lied-von-markt-und-software</id>
+    <id>http://stonedgolem.github.io/blog/2013/02/02/das-lied-von-markt-und-software</id>
     <content type="html"><![CDATA[<p>&ldquo;Was nichts kostet, das ist auch nicht gut.&rdquo; Oder: &ldquo;Wer billig kauft, kauft zweimal.&rdquo; Volksweisheiten mögen in einigen Fällen recht behalten, in anderen Fällen nähren sie dagegen nur Vorurteile. Besonders im Bereich Software hält sich hartnäckig das Gerücht, dass proprietäre Bezahlsoftware pauschal besser wäre als <a href="http://de.wikipedia.org/wiki/Floss">Free/Libre Open Source Software</a> (FLOSS). Doch damit nicht genug: Gelegentlich finden sich auch Behauptungen, dass im Bereich Freier Software auf Grund des fehlenden <del>Gottes</del> Marktes keine Innovation möglich wäre, da diese ausschließlich in der direkten Konkurrenzsituation entstehen könne. Und so stehen sich zwei verfeindete <del>&ldquo;starcrossed Lovers&rdquo;</del> Lager gegenüber, die sich gegenseitig die Pest <del>&ldquo;auf beide eure Häuser&rdquo;</del> an den Hals wünschen können, wenn die Emotionen hochkochen.</p>
 
 <p>Neugierig auf die folgende Leidensgeschichte, voller Intrigen und Missverständnisse? Denn die folgenden Ausführungen sind eindeutig für Menschen, die zuviel Zeit haben.</p>
@@ -87,9 +87,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ein iBook für die Masterarbeit]]></title>
-    <link href="stonedgolem.github.io/blog/2012/05/31/ein-ibook-fur-die-masterarbeit/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/05/31/ein-ibook-fur-die-masterarbeit/"/>
     <updated>2012-05-31T16:13:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/05/31/ein-ibook-fur-die-masterarbeit</id>
+    <id>http://stonedgolem.github.io/blog/2012/05/31/ein-ibook-fur-die-masterarbeit</id>
     <content type="html"><![CDATA[<p>Ein turbulenter Monat liegt hinter mir, den ich noch genauer im kommenden Monatsrückblick zusammen fassen werde. Eine Veränderungen, die der Mai brachte, möchte ich aber schon jetzt detaillierter Erläutern.</p>
 
 <p>Wie schon mehrfach erwähnt arbeite ich, wenn ich mich nicht gerade auf g+ oder hier rumtreibe, an meiner Masterarbeit. Und eigentlich hatte ich mir zu diesem Zweck einen Laptop fertig gemacht, damit ich außerhalb der Wohnung tippen kann &mdash; vornehmlich an Orten, die weniger Möglichkeiten zur Prokrastination bieten. Dann aber machte sich eben dieser Laptop mit meiner Verlobten im Schlepptau auf den Weg in die freie und Hansestadt Hamburg und ich blieb ratlos zurück. Zwar nicht allein, aber mit Hardware, die mir für meinen Zweck nicht ausreichend erschien, weil sie mehr Ärger über mangelnde Performance als Freude über getippte Seiten in Aussicht stellte. Bis ich eher zufällig auf <a href="http://mintppc.org/">MintPPC</a> stieß und ich mein uralt iBook G4 aus dem Schrank kramte.</p>
@@ -152,9 +152,9 @@
   
   <entry>
     <title type="html"><![CDATA[Argument des Tages (1)]]></title>
-    <link href="stonedgolem.github.io/blog/2012/05/09/argument-des-tages-1/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/05/09/argument-des-tages-1/"/>
     <updated>2012-05-09T17:06:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/05/09/argument-des-tages-1</id>
+    <id>http://stonedgolem.github.io/blog/2012/05/09/argument-des-tages-1</id>
     <content type="html"><![CDATA[<p><a href="http://adobe.com/">Adobe</a>, bekanntermaßen die Firma hinter Photoshop, hat heute &mdash; wahrscheinlich unfreiwillig &mdash; das beste Argument für Freie Software gebracht. Das Update ihrer Creative Suite, welches nach eigenen Aussagen gravierende Sicherheitsmängel schließt, ist <a href="http://www.heise.de/newsticker/meldung/Adobe-kassiert-fuer-Sicherheits-Updates-zu-Photoshop-Co-1571129.html">ausschließlich als kostenpflichtiges Update</a> erhältlich!</p>
 
 <p>Versuchen wir dies mal mit einer Analogie auch Menschen zu erklären, die sich wenig mit Software, Recht und Internet beschäftigen. Erinnert sich noch jemand an Toyota und die Probleme, die sie in Amerika wegen verkeilten Gaspedalen hatten? Als diese Mängel öffentlich bekannt wurden verlor Toyota massiv an Ansehen.</p>

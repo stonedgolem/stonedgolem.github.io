@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Spiele | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/spiele/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/spiele/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Annual Humble Bundle Mojam 2]]></title>
-    <link href="stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2/"/>
     <updated>2013-02-21T15:45:36+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2</id>
+    <id>http://stonedgolem.github.io/blog/2013/02/21/the-annual-humble-bundle-mojam-2</id>
     <content type="html"><![CDATA[<p><a href="http://humblebundle.com"><img src="http://stonedgolem.de/wp-content/uploads/2013/02/mojam2-300x88.png" alt="mojam2" /></a>It&rsquo;s about time damn again! Nachdem <a href="http://mojang.com/">Mojang</a>, die Macher von <a href="https://minecraft.net/">Minecraft</a>, schon im letzen Jahr eine spontane, dreitäge Game-Jam-Session eingelegt haben, gibt es dieses Jahr die Fortsetzung! Die Regeln sind einfach: Mojang (und einige Freunde) haben beim Mojam  3 Tage Zeit ein kleines Indi-Spiel von Scratch aufzuziehen. Die Programmierer und Grafikdesigner lassen sich dabei per Webcam über die Schulter schauen. Innerhalb der kurzen Frist entstehen jetzt keine Meisterwerke wie Minecraft oder <a href="http://www.introversion.co.uk/uplink/">Uplink</a>, aber hey, it&rsquo;s for fun!</p>
 
 <!-- more -->
@@ -33,9 +33,9 @@
   
   <entry>
     <title type="html"><![CDATA[Humble Bundle for Android 3 jetzt erhältlich]]></title>
-    <link href="stonedgolem.github.io/blog/2012/08/16/humble-bundle-for-android-3-jetzt-erhaltlich/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/08/16/humble-bundle-for-android-3-jetzt-erhaltlich/"/>
     <updated>2012-08-16T09:59:27+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/08/16/humble-bundle-for-android-3-jetzt-erhaltlich</id>
+    <id>http://stonedgolem.github.io/blog/2012/08/16/humble-bundle-for-android-3-jetzt-erhaltlich</id>
     <content type="html"><![CDATA[<p>Die berühmten zwei Wochen laufen wieder: Ein neues Humble Bundle ist verfügbar und kann über die gewohnte <a href="http://humblebundle.com">Website</a> erworben werden. Die Konditionen haben sich nicht geändert und sollten in der Zwischenzeit bekannt sein: Zahl soviel zu willst, kein DRM dich zu gängeln, Spiele für Android, Linux, Windows und OSX und es lässt sich noch etwas Gutes in Form einer kleinen Spende für die <a href="http://eff.org">Electronic Frontier Foundation</a> und <a href="http://www.childsplaycharity.org/">Child&rsquo;s Play</a> bewirken.</p>
 
 <p>Zum Umfang der Erstausstattung gehört diesmal:</p>
@@ -55,9 +55,9 @@
   
   <entry>
     <title type="html"><![CDATA[Zero Player Games und die Kunst, sie doch zu spielen]]></title>
-    <link href="stonedgolem.github.io/blog/2012/06/21/zero-player-games-und-die-kunst-sie-doch-zu-spielen/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/06/21/zero-player-games-und-die-kunst-sie-doch-zu-spielen/"/>
     <updated>2012-06-21T15:43:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/06/21/zero-player-games-und-die-kunst-sie-doch-zu-spielen</id>
+    <id>http://stonedgolem.github.io/blog/2012/06/21/zero-player-games-und-die-kunst-sie-doch-zu-spielen</id>
     <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Zero-player_game">Zero Player Games</a> (ZPGs) benötigen, wie der Name schon andeutet, zum Spielablauf keinen Spieler, allerdings einen User, der sie erstmalig startet, weswegen sie auch unter ihrer Funktionsbezeichnung &ldquo;fire and forget&rdquo; bekannt sind. Okay, sie benötigen zusätzlich mindestens eine Person, die das Spiel programmiert hat, aber wir wollen jetzt mal nicht kleinlich sein und nehmen einfach an, dass diese Arbeit schon getan wurde. Auf Grund der (nennen wir es mal) minimalisitischen Spielanforderung unterscheiden sich diese Spiele deutlich von Games wie beispielsweise <a href="http://s14.sfgame.de/">Shakes &amp; Fidget, welches ich auf Server 14</a> bekanntermaßen zu spielen fröne.</p>
 
 <p>Mein erster Kontakt mit ZPGs liegt schon einige Jahre zurück. Neben <a href="http://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens">Conway&rsquo;s Game of Life</a> dürfte <a href="http://progressquest.com/">Progress Quest</a> (PQ) einer der Klassiker des Genres sein. Ziel des Spiels ist es, sich einen Charakter erstellen und auf &ldquo;Los&rdquo; zu klicken. Was dann folgt ist eine unendliche Parade wechselner &ldquo;Fortschrittsbalken&rdquo;: Einer für die Erfahrung, einer für die Quest, einer für den erzählerischen Spielfortschritt und so weiter, und so fort. Der frisch erstellte Charakter zieht los, erschlägt selbstständig Monster, verhöckert den <a href="http://de.wikipedia.org/wiki/Loot_%28Computerspiel%29"><em>Loot</em></a> und macht überhaupt alles allein. Dem Spieler bleibt nicht anderes übrig, als dem Verlauf der Geschichte machtlos zu folgen. Und sich an den bescheuerten Items und Quest zu erfreuen.</p>
@@ -89,9 +89,9 @@
   
   <entry>
     <title type="html"><![CDATA[Jetzt erhältlich: Das Humble Indy Bundle V!]]></title>
-    <link href="stonedgolem.github.io/blog/2012/06/06/jetzt-erhaltlich-das-humble-indy-bundle-v/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/06/06/jetzt-erhaltlich-das-humble-indy-bundle-v/"/>
     <updated>2012-06-06T15:40:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/06/06/jetzt-erhaltlich-das-humble-indy-bundle-v</id>
+    <id>http://stonedgolem.github.io/blog/2012/06/06/jetzt-erhaltlich-das-humble-indy-bundle-v</id>
     <content type="html"><![CDATA[<p>Trotz oder wegen Krankheit komme ich endlich dazu diesen Artikel fertig zu stellen. Die Verzögerung erweist sich dabei als vorteilhaft, weil neue Aspekte ans Licht kamen, die ich noch mit einarbeiten konnten. Aber lest selbst.</p>
 
 <p>Ein neues <a href="http://humblebundle.com/">Humble Indie Bundle</a>, das fünfte seiner Art, ist verfügbar. Und es ist ein Bundle der Superlative. Das Startaufgebot besteht aus</p>
@@ -121,9 +121,9 @@
   
   <entry>
     <title type="html"><![CDATA[Prokrastinieren (1)]]></title>
-    <link href="stonedgolem.github.io/blog/2012/05/07/prokrastinieren-1/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/05/07/prokrastinieren-1/"/>
     <updated>2012-05-07T15:50:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/05/07/prokrastinieren-1</id>
+    <id>http://stonedgolem.github.io/blog/2012/05/07/prokrastinieren-1</id>
     <content type="html"><![CDATA[<p>Prokrastination. Was wie ein unanständiges Fremdwort für sexuellen Verkehr klingt bedeutet nichts anderes als &ldquo;<a href="http://de.wiktionary.org/wiki/prokrastinieren">aufschieben, vertagen</a>&rdquo;. Wer prokrastiniert schiebt eine wichtige, aber langwierige Aufgabe auf die lange Bank und wendet sich statt dessen einer kurzweiligen, schneller erfolgversprechenden Tätigkeit zu.</p>
 
 <p>Prokrastination ist keine neue &ldquo;Trendsportart&rdquo;:  es haben sich vielleicht die Ausdrucksformen geändert, nicht aber die Tätigkeit an sich. Beispiel gefällig? Ungezählte Generationen von Studierenden berichten seit Äonen, dass ihre Wohnungen nie sauberer waren als zur Zeit ihrer Abschlussarbeiten: Wird wichtiger Arbeit aus dem Weg gegangen werden plötzlich auch unliebsame Aufgaben attraktiv.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Aktiv werden | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/aktiv-werden/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/aktiv-werden/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Der Grund für die Funkstille]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille/"/>
     <updated>2013-03-15T09:29:04+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille</id>
     <content type="html"><![CDATA[<p>Es ist die Woche der schlechten Nachrichten in der IT-Welt. Zwar ist keine wirkliche Hiobsbotschaft von apokalyptischen Ausmaß dabei, aber die Nachrichten reichten aus, um mich zu einigen Änderungen zu bewegen. Ausgerüstet mit einem Raspberry Pi, einer Fritzbox und einem DSL16.000 Anschluss habe ich begonnen, mich von den großen Anbietern zu emanzipieren. Die Zeit, die dafür nötig war, habe ich von der Zeit abgezweigt, die ich normalerweise für mein Blog aufwende. Das offensichtliche Resultat war hier die Funkstille, dafür kann ich jetzt ssl-geschützt von überall auf meine eigene Cloud zugreifen.</p>
 
 <!-- more -->
@@ -61,9 +61,9 @@
   
   <entry>
     <title type="html"><![CDATA[Golem's becoming superhero!]]></title>
-    <link href="stonedgolem.github.io/blog/2012/07/20/golems-becoming-superhero/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/07/20/golems-becoming-superhero/"/>
     <updated>2012-07-20T15:24:32+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/07/20/golems-becoming-superhero</id>
+    <id>http://stonedgolem.github.io/blog/2012/07/20/golems-becoming-superhero</id>
     <content type="html"><![CDATA[<p>Das Internet ist weit. Und frei. Die wesentlichen Standards und Technologien sind offen und können von allen eingesehen und genutzt werden. Grenzüberschreitende Kommunikation ist in Bruchteilen von Sekunden möglich. Verschlüsselungstechniken sorgen für die nötige Anonymität, die vor neugierigen Blicken schützt. Alles erscheint möglich, auch das illegale Tauschen von Dateien, deren Lizenzbedingen diese Weitergabe verbieten: Die sogenannten &ldquo;Raubmordkopien&rdquo;.</p>
 
 <p>Diese werden dann auch gerne als Argument herangezogen, um dem Internet eine lückenlose Überwachung zu schenken, womit die allermeisten der hier gepriesenen Freiheiten ihre Reise über den Styx antreten werden. Es ist eine Frage der Verhältnismäßigkeit, ob komplette Kontrolle und Zensur wirklich eine adäquate Antwort auf Urheberrechtsverletzungen sind; für mich sind sie es nicht. Um mal wieder eine dieser schiefen Realweltanalogien zu verwenden: Weil Menschen in den öffentlichen Verkehrsmitteln schwarz fahren <em>könnten</em>, was sehr zum wirtschaftlichen Nachteil der Verkehrsbetriebe ist und dafür sorgt, dass sich ihre Mitarbeiter bald nicht mehr was zu Essen leisten können, überwachen wir alle Bürger von dem Moment an, an dem sie das Haus verlassen. Diese Totalüberwachung ist notwendig, damit wir lückenlos nachvollziehen können, unter welchen Umständen und wann sie sich eine Fahrkarte gekauft haben. Außerdem ist die Überwachung doch super, wenn man <em>aus Versehen</em> bei einer der dennoch stattfinden Kontrollen in den Bussen und Bahnen seinen Fahrausweis mal nicht vorzeigen kann (weil man ihn verloren/verlegt hat oder man sich als <a href="http://www.youtube.com/watch?v=_7QTGV5jOrM&amp;feature=related">Rassist geoutet</a> hat): Anhand der lückenlosen Dokumentation der Bewegung seit dem Verlassen der eigenen Wohnung lässt sich auch der Moment finden, an dem der Fahrschein gekauft wurde. Dabei fällt dann aber leider auf, dass man Bananen beim Lidl eingekauft hat und bekommt dann die Strafe für verantwortungslosen Konsum von Waren mit schlechter CO2-Bilanz und Einkauf bei Lohndrückern. Ist doch auch was und kostet mehr als einmal Schwarzfahren.</p>
@@ -78,9 +78,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wegen die Sache mit die BILD...]]></title>
-    <link href="stonedgolem.github.io/blog/2012/06/15/wegen-die-sache-mit-die-bild/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/06/15/wegen-die-sache-mit-die-bild/"/>
     <updated>2012-06-15T14:10:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/06/15/wegen-die-sache-mit-die-bild</id>
+    <id>http://stonedgolem.github.io/blog/2012/06/15/wegen-die-sache-mit-die-bild</id>
     <content type="html"><![CDATA[<p>Es gibt Neuigkeiten &ldquo;wegen die Sache mit die BILD&rdquo;, die am 23.6. ungefragt in meinen Briefkasten* flattern soll/sollte. Der aktuelle Stand ist wohl, dass der Springer-Verlag die Aktion wie angekündigt durchziehen wird. Vertriebspartner soll wohl die Deutsche Post werde, was nichts anderes bedeutet, als dass die armen BriefzustellerInnen den ganzen Tag plakern und leiden müssen. Von den Mehreinnahmen, die die Post dank der Aktion erwarten darf, werden sie wohl nichts abbekommen&hellip; aber das hat ja auch niemand erwartet, dass die, die an diesem Tag wirkliche Arbeit leisten, dafür auch entlohnt werden.</p>
 
 <p>Die über 200.000 Absagen, die die Aktion von Campact bisher zusammengetragen hat, sind für Springer aber kein Problem. An jeden Briefkasten, der keine Bild erhalten soll, wird ein roter Umschlag versendet, der anstelle der BILD zugestellt werden soll. Inhalt des Umschlags: Geheim. [Quelle: <a href="http://blog.campact.de/2012/06/was-ist-gros-rot-und-kommt-mit-der-post/">Campact-Blog</a>]</p>
@@ -105,9 +105,9 @@
   
   <entry>
     <title type="html"><![CDATA[Auf unser täglich Brot wetten wir heute]]></title>
-    <link href="stonedgolem.github.io/blog/2012/05/23/auf-unser-taglich-brot-wetten-wir-heute/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/05/23/auf-unser-taglich-brot-wetten-wir-heute/"/>
     <updated>2012-05-23T14:19:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/05/23/auf-unser-taglich-brot-wetten-wir-heute</id>
+    <id>http://stonedgolem.github.io/blog/2012/05/23/auf-unser-taglich-brot-wetten-wir-heute</id>
     <content type="html"><![CDATA[<p>Ein von der Satiresendung <a href="http://www.x3.de/">Extra 3</a> empfohlener Beitrag der <a href="http://www.ard.de/">ARD</a> mit dem Titel &ldquo;<a href="http://mediathek.daserste.de/sendungen_a-z/799280_reportage-dokumentation/10592810_verzockt-und-verklagt-die-guten-geschaefte-der">Verzockt &ndash; und verklagt: Die guten Geschäft der Deutschen Bank</a>&rdquo; (aktuell noch in der Mediathek abrufbar, einfach auf den Link klicken) hat gestern auf Google+ zu einigen Diskussionen geführt. Einig waren sich wohl alle Beteiligten, dass Spekulationen mit Nahrungsmitteln ein absolutes &ldquo;No-Go&rdquo; sind. Und wie der Zufall es so will haben kurze Zeit später die Menschen von <a href="http://campact.de/">campact.de</a> eine Unterschriftenaktion gestartet, die unsere Minister dazu bewegen soll die Spekulation auf Lebensmittel wieder einzuschränken und zu verbieten.</p>
 
 <p>Wieder? Ja, genau. Wieder! <a href="https://www.campact.de/spekulation/info/5min">Denn erst im Jahr 2000 wurde das Verbot der Spekulation auf Nahrungsmittel gelockert</a>. Mit verheerenden Folgen, wie sich jetzt zeigt. Das Banksystem, das sich in der Krise von 2008 in seiner Gier als unfähig erwies eine stabile Wirtschaft aufrechtzuerhalten, wettet mit der selben Gier nach übertriebenen Renditen auf das, was Menschen zum täglichen Überleben brauchen. Um ihren Gewinn zu optimieren treiben sie die Kosten für Nahrungsmittel in die Höhe, was Hunger bei jenen zur Folge hat, die sich ihr Brot oder ihren Reis plötzlich nicht mehr leisten können.</p>
@@ -122,9 +122,9 @@
   
   <entry>
     <title type="html"><![CDATA[Keine Bild in meinen Briefkasten!]]></title>
-    <link href="stonedgolem.github.io/blog/2012/05/06/keine-bild-in-meinen-briefkasten/"/>
+    <link href="http://stonedgolem.github.io/blog/2012/05/06/keine-bild-in-meinen-briefkasten/"/>
     <updated>2012-05-06T00:36:00+02:00</updated>
-    <id>stonedgolem.github.io/blog/2012/05/06/keine-bild-in-meinen-briefkasten</id>
+    <id>http://stonedgolem.github.io/blog/2012/05/06/keine-bild-in-meinen-briefkasten</id>
     <content type="html"><![CDATA[<p>Das BILD-Blättchen (ich möchte dieses Druckerzeugnis auf keinen Fall &ldquo;Zeitung&rdquo; nennen!) feiert demnächst den 60. Geburtstag. Diesen will der Springer-Verlag so richtig feiern. Und weil die Springer-Leute uns so ganz dolle lieb haben, sollen wir am 23.6.2012 alle ein Gratis-BILD-Blättchen in den Briefkasten bekommen. Kein Wunder, dass die Anzeigenpreise für diese spezielle Ausgabe exorbitant sind und die Werbeeinnahme den Verkaufsverlust sicherlich überkompensieren werden &mdash; für Springer natürlich, nicht jedoch für den kleinen Kiosk an der Ecke, der an diesem Tage kein einziges BILD-Blättchen verhökern wird.</p>
 
 <p>Aber nicht mit Kommander! Die netten Menschen von Compact haben eine Aktion gestartet (hier die <a href="http://www.campact.de/bild/info/5min">5-Minuten-Info</a>), mit der man schon im <a href="http://www.campact.de/bild/ml1/mailer">Vorfeld der Zustellung widersprechen</a> kann. Bisher haben über 200.000 Menschen sich gegen die Zustellung der BILD am 23.6. gewährt &mdash; aber da geht doch noch was, oder?</p>

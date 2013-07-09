@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Hörspiel | Stoned Golem]]></title>
-  <link href="stonedgolem.github.io/blog/categories/horspiel/atom.xml" rel="self"/>
-  <link href="stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:07:12+02:00</updated>
-  <id>stonedgolem.github.io/</id>
+  <link href="http://stonedgolem.github.io/blog/categories/horspiel/atom.xml" rel="self"/>
+  <link href="http://stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:34:19+02:00</updated>
+  <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Neues Hörbuch bei MDR Sputnik]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik/"/>
     <updated>2013-03-24T16:54:59+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik</id>
     <content type="html"><![CDATA[<p>Ich habe mich in letzter Zeit viel mit Hörspielen beschäftigt. Wie man sie am besten selber Aufzeichnen kann. Wie es in der Szene insgesamt so steht, da ich sie seit 2009 nicht mehr aktiv verfolgt habe. Wo man sie legal downloaden kann. Bei diesen Recherchen bin ich (wieder) auf MDR SPUTNIK aufmerksam geworden: SPUTNIK ist die digitale Ausgabe des MDR, die mit dem Hörerlebnis in regelmäßigen Abständen Hörbücher als kostenlosen Podcast bringt.</p>
 
 <p>Der aktuelle Podcast trägt den vielversprechenden Titel <em>&ldquo;<a href="http://www.sputnik.de/hoererlebnis">Abserviert &ndash; mein Leben als Humankapital</a>&rdquo;</em>, geschrieben von <a href="http://de.wikipedia.org/wiki/Iain_Levison">Iain Levison</a>. Der Autor sagt mir zwar nichts, aber ich kann ja auch nicht alles kennen. Auf Grund meiner aktuellen, privaten Lebenssituation kann ich mich dem Reiz dieses Titels nicht entziehen und werde dem Hörbuch mal eine ausgedehntere Chance geben.</p>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hörspiele mitschneiden mit dem Pi]]></title>
-    <link href="stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/"/>
     <updated>2013-03-11T21:09:22+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi</id>
+    <id>http://stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi</id>
     <content type="html"><![CDATA[<p>Der Raspberry Pi ist schon ein toller Kleinstrechner. Vor allem der geringe Stromverbrauch von gerade mal 3,5 Watt prädestiniert ihn für Einsätze, die einen dauerhaft arbeitenden Rechner erfordern: Ob als kleiner OwnCloud-Server oder für kleinste private Websites, mit dem Pi lassen sich derartige Wünsche schnell und kostengünstig realisieren. Aber auch für Fans der gepflegten, auditiven Unterhaltung eignen sich der Pi hervorragend: Mit nur einem kleinen Programm lassen sich problemlos MP3-Radiostreams aufzeichnen. Dies füllt entweder die Musiksammlung oder den Hörspielordner, je nach dem, zu welchem Zweck das Programm genutzt wird.</p>
 
 <!-- more -->
@@ -202,9 +202,9 @@
   
   <entry>
     <title type="html"><![CDATA[Die Rache der kreischenden Teenies]]></title>
-    <link href="stonedgolem.github.io/blog/2013/02/25/die-rache-der-kreischenden-teenies/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/02/25/die-rache-der-kreischenden-teenies/"/>
     <updated>2013-02-25T12:49:22+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/02/25/die-rache-der-kreischenden-teenies</id>
+    <id>http://stonedgolem.github.io/blog/2013/02/25/die-rache-der-kreischenden-teenies</id>
     <content type="html"><![CDATA[<p>Im Horrorgenre sind sie beliebte und oftmals auch beliebige Schlachtstücke, die den Body Count in die Höhe treiben. Ihr Tod gilt als Sinnbild für den Verlust der Unschuld, an dem wir uns alle in der einen oder anderen Form schuldig machen. Zeitgleich stirbt mit ihnen auch die Zukunft, die sie gewesen wären, wenn sie den Film bis zum Abspann bzw. das Hörspiel bis zur Abmoderation überlebt hätten. Die Rede ist von Teenagern, die seit <em>Nightmare on Elm Street</em> und <em>Freitag, der 13.</em> in Massen niedergemetzelt werden. Logische und narrative Gründe für ihr reihenweises Dahinscheiden wurden schon genannt, der zwingendsten Grund aber, warum man als Zuhörer<em>in oder Zuschauer</em>in teilweise wirklich froh ist, wenn es die Tenies erwischt, wurde bisher verschwiegen: Entweder agieren die Figuren derart dämlich, dass man aus rein evolutionären Gründen ihr Ende begrüßt; oder ihr Geschrei nervt derart, dass ihr Tod wenigstens die verbleibenden Härchen im Ohr am Leben lässt.</p>
 
 <p>Richtig anstrengend wird es, wenn Protagonisten beide Eigenschaften in sich vereinen. Leider bietet das WDR-Hörspiel <a href="http://www.einslive.de/sendungen/plan_b/krimi/2013/02/130221_vor_sonnenaufgang.jsp"><em>Vor Sonnenaufgang</em></a> zu viele dieser ätzenden Persönlichkeiten, die leider erst nach 40 Minuten den Löffel abgeben.</p>
@@ -252,9 +252,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hörspiel: Brave Neue Welt]]></title>
-    <link href="stonedgolem.github.io/blog/2013/02/21/horspiel-brave-neue-welt/"/>
+    <link href="http://stonedgolem.github.io/blog/2013/02/21/horspiel-brave-neue-welt/"/>
     <updated>2013-02-21T17:46:04+01:00</updated>
-    <id>stonedgolem.github.io/blog/2013/02/21/horspiel-brave-neue-welt</id>
+    <id>http://stonedgolem.github.io/blog/2013/02/21/horspiel-brave-neue-welt</id>
     <content type="html"><![CDATA[<p>Am Dienstag sendete Eins Live das Hörspiel &ldquo;Brave Neue Welt&rdquo;. Die Prämisse ist ziemlich interessant: Wie würden die Bewohner von Aldous Huxleys &ldquo;Brave New World&rdquo; unsere Welt sehen und bewerten. Ist unsere Welt für sie genauso erschreckend, wie wir die ihre empfinden?</p>
 
 <p>Christian Ulmen leiht der Hauptfigur Primo Lyon seine Stimme. Lyon wird von der neuen in die alte Welt versetzt und erkundet diese. Vor allem die Schrecken unserer Gegenwart faszinieren ihn: Fahren mit einem Auto, ohne dass es eine Spursicherung gibt; schwangere Frauen; Kinder, die <em>geboren__ </em>und von ihren Eltern<em> erzogen </em>werden; Filme, in denen Mord detailliert gezeigt wird. Unsere Welt, in all ihrer Imperfektion, mit der wir jeden Tag leben müssen; durch die Augen von Lyon erleben wir sie neu und werden mit Bewertungen konfrontiert, die wir auf Grund unserer Vertrautheit mit unserer Umgebung nicht so treffen würden.</p>
