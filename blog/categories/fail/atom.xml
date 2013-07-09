@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Fail | Stoned Golem]]></title>
+  <link href="stonedgolem.github.io/blog/categories/fail/atom.xml" rel="self"/>
+  <link href="stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:07:12+02:00</updated>
+  <id>stonedgolem.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Cygus]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Zwangspause!]]></title>
+    <link href="stonedgolem.github.io/blog/2013/02/22/zwangspause/"/>
+    <updated>2013-02-22T15:54:45+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/02/22/zwangspause</id>
+    <content type="html"><![CDATA[<p>Diese Unterbrechung im Blogbetrieb wird Ihnen vom GLS Paketdienst präsentiert. GLS, ihr kompetenter Partner, wenn ein Paket das Ziel nicht erreichen soll!</p>
+
+<!-- more -->
+
+
+<p>Naja, ich habe jetzt offiziell wieder DSL und deswegen momentan kein Internet, weil GLS mir die neue Hardware nicht zustellen konnte. Ich würde ja nicht da wohnen, wo ich nun einmal wohne. Das LTE wurde planmäßig abgeschaltet und so bleibt mir nur noch der Rest der 500 MB schnelles Internet per Handy, um mit der weiten Welt zu kommunizieren. Und aus diesem Grund lege ich Stoned Golem erstmal still, bis ich wieder normal ins Netz gehen kann.</p>
+
+<p>We&rsquo;ll meet on the other side!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wofür steht eigentlich avm?]]></title>
+    <link href="stonedgolem.github.io/blog/2013/02/12/wofur-steht-eigentlich-avm/"/>
+    <updated>2013-02-12T14:13:35+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/02/12/wofur-steht-eigentlich-avm</id>
+    <content type="html"><![CDATA[<blockquote><p>&ldquo;Aktiviere doch einfach mal unter <em>System &ndash;> Ansicht</em> die <em>Expertenansicht</em>!&rdquo;</p></blockquote>
+
+<p>(<a href="http://www.ip-phone-forum.de/showthread.php?t=131703">Forumsbeitrag von RudatNet auf http://www.ip-phone-forum.de vom 18.03.2007</a>.)</p>
+
+<!-- more -->
+
+
+<p>Kaum habe ich die neue Kategorie begonnen, die tägliches Posten erfordert, schon schaffe ich es nicht, mich an dieses Versprechen zu halten. Klar habe ich darüber nachgedacht ein paar &ldquo;Notfallzitate&rdquo; bereitzuhalten, die ich nur noch veröffentlichen muss. Aber eine Idee zu zu haben und eine Idee umzusetzen sind zwei Paar Schuhe&hellip;</p>
+
+<p>Der Grund für den Ausfall spiegelt sich im heutigen Zitat wider, das schlussendlich das Problem eines Bekannten löste, an dem ich schon seid einiger Zeit tüftelte. Bei diesem Kollegen ist die alte Fritzbox von avm über den Jordan gewandert und sein Provider hat ihm eine neue zugesendet. Zusammen mit allen Passwörtern und Zugangsinformationen, die er brauchte. DSL einzurichten war auch kein Problem, aber die neue Fritzbox wollte sich partout nicht mit dem VOIP-Server verbinden, über den der Bekannte sein Festnetz bekommt.</p>
+
+<p>Ich muss gestehen, von Voice over IP habe ich genau Null Ahnung, wenn es mehr als Skype erfordert &mdash; und bei dem Programm bin ich mir nicht mal sicher, ob es eigentlich das macht, was sich hinter dem Terminus Technicus &ldquo;VOIP&rdquo; verbirgt oder ob das nicht doch eine andere Technik ist. Wie dem auch sei, ich persönlich finde es seltsam, eine Telefonleitung für den Datentransfer umzufunktionieren, um datenbasiert via IP wieder dann die Funktion zu realisieren, für die die Leitung ursprünglich entwickelt wurde. Aber soll ja jeder, wie er oder sie will.</p>
+
+<p>Ich schlage mich jedenfalls mehrere Stunden mit der Einstellung dieses VOIP-Services rum und bekomme immer wieder das selber Ergebnis: Verbindung nicht möglich, DNS-Fehler. Aha, okay, der Router findet die Gegenstelle nicht. Da wird sich sicher bei Google was finden, denn ich bin sicher nicht der Erste mit diesem Problem. Ein naiver Gedanke, der eine mehrstündige Suchmaschinenorgie einleitete. Denn: Die Fehlermeldung mit Hinweis auf DNS deutet auf falsche eingegebene Zugangsdaten hin. Jede/r kann sich mal vertippen, aber nicht die gefühlten 30zig Mal, die ich es versucht habe und die ausnahmslos mit dem selben Ergebnis endeten.</p>
+
+<p>Eine Sache hat mich aber von Anfang an stutzig gemacht: Auf dem Schreiben mit den Zugangsdaten gab es noch eine Zeile für einen &ldquo;Outbound Proxy&rdquo;. Ich hätte meinen Gefühl folgen sollen, anstatt stur auf die Einrichtungsempfehlungen von Provider und avm zu hören. Auch wenn sich beide Quellen einig waren, dass ich nur den Aufforderungen des Einrichtungsassistenten zu folgen habe um das gelobte Land zu erreichen, führte mich dieser Weg dennoch beharrlich in die Wüste. So einfach scheint es wohl doch nicht zu sein, auch wenn ich dem Papier nach alles richtig gemacht habe. Eigenständige Nachforschungen zum Thema Proxys und VOIP brachten mich auch nicht weiter. Zwar gibt im entsprechenden Menü zur Konfiguration der Internettelefonie einen Reiter &ldquo;Erweiterte Einstellungen&rdquo;, aber da könnte ich lediglich die Länderkennung und die örtliche Vorwahl einstellen. Mehr nicht.</p>
+
+<p>Ergo: Zurück zu Google, denn der Fehler muss irgendwo anders liegen. Viele Foreneinträge mit ähnlicher bis gleicher Problemstellung habe ich gefunden, teilweise sogar den selben Netzanbieter des Kollegen betreffend . Den wenigsten Fragesteller*innen konnte geholfen werden und andere haben sich selbst geholfen, indem sie ihr VOIP über eine andere Lösung als die entsprechende Fritzbox realisiert haben. Beides keine Wege, die mir in dieser Situation gangbar erschienen. Folglich googlte ich weiter. Und Weiter. Und Weiter.</p>
+
+<p>Und STOP.</p>
+
+<p>Besagtes Zitat oben habe ich als Antwort auf eine Frage gefunden, die meinen Anforderungen sehr ähnelte: Der Fragesteller konnte auch keinen &ldquo;Outbound Proxy&rdquo; konfigurieren, weil das entsprechende Feld nicht vorhanden war &mdash; so wie bei mir und vielen, vielen anderen Nutzer*innen ebenfalls. Was fehlte war also ein kleiner Haken in einem exotischen Untermenü, welches ich bis dahin nicht mal mit Arsch angeschaut haben bzw. in dem ich überhaupt niemals die Problemlösung vermutet hätte.</p>
+
+<p>Mal im Ernst: Wollt ihr ich verarschen?</p>
+
+<p>Die Eingaben zum &ldquo;Outbound Proxy&rdquo; (oder &ldquo;Proxy Server&rdquo;) wurden ausgeblendet, weil der User schließlich das dümmste anzunehmende Wesen auf diesem Planeten ist, dem man nichts, aber auch gar nichts zuzutrauen ist. Und bevor diese dümmliche Person noch etwas kaputtmacht, geben wir ihr auch keine Möglichkeit an die Hand, um den Service so zu konfigurieren, damit dieser <em>überhaupt </em>funktioniert! Diese Tendenz zur Simplifizierung führt doch zwangsweise dazu, dass wir uns immer weniger mit der Technik auseinander setzen und uns dann auf andere verlassen, damit etwas funktioniert. Und dann passiert sowas: In einem abgelegenen Menü fehlt ein Haken &mdash; und weder Hotlinemitarbeiter noch die FAQ von avm noch erfahrene Fritzbox-Nutzer kommen bei der Fehlermeldung &ldquo;DNS-Problem&rdquo; auf die Idee, dass dieses Häkchen aktiviert werden sollte, damit ein Proxy konfiguriert werden kann &mdash; vor allem, wenn es im eigentlichen Menü einen Reiter mit &ldquo;erweiterten Einstellungen&rdquo; gibt, hinter denen ich die &ldquo;Spezialeinstellungen&rdquo; intuitiv vermuten würde! Hätte es von Anfang an die Möglichkeit gegeben den Proxy einzugeben, dann hätte ich meinen gestrigen Nachmittag mit etwas sinnigeren verbringen können. Aber so: Pustekuchen.</p>
+
+<p>Also, liebe Hersteller und Herstellerinnen und Hersteller<em>, wir, die Nutzer</em>innen, sind nicht so dumm, wie ihr denkt. Aber wenn Optionen ausgeblendet werden, die auch nur im <em>Entferntesten relevant </em>sein könnten, dann will ich darüber auch <em>auf der Seite </em>informiert werden! Und wenn es einen Reiter für weitere Einstellungen gibt, dann erwarte ich davon, dass sich hinter diesen die &ldquo;Experteneinstellungen&rdquo; verstecken. Aber welcher normal denkende Menschen kommt darauf, dass es unter &ldquo;Ansicht&rdquo; nochmal eine Option zum Freischalten der &ldquo;Experteneinstellungen&rdquo; gibt?!</p>
+
+<p>Danke avm, für mehrere Stunden, die ich sinnlos mit Googlen verbringen durfte, nur weil ihr mich für dümmer haltet und gleichseitig dümmer macht, als ich es bin. Wahrlich, eine Glanzleistung!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ich kann denken, holt mich hier raus! Oder: Niveau ist doch eine Handcreme?]]></title>
+    <link href="stonedgolem.github.io/blog/2013/01/28/ich-kann-denken-holt-mich-hier-raus-oder-niveau-ist-doch-eine-handcreme/"/>
+    <updated>2013-01-28T10:12:15+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/01/28/ich-kann-denken-holt-mich-hier-raus-oder-niveau-ist-doch-eine-handcreme</id>
+    <content type="html"><![CDATA[<p>Dass die Online-Redaktion eines ehemaligen Nachrichtenmagazins aus Hamburg mich jeden Tag mit den neusten &ldquo;Neuigkeiten&rdquo; aus dem Dschungel versorgt, daran habe ich mich ja schon gewöhnt. Derartige Berichterstattung kann ja auch mal passieren, wenn der Magazinname arg eng an ein Zitat aus einem Märchen der Gebrüder Grimm angelegt ist (&ldquo;<em>Spieglein, Spieglein an der Wand, wer <strong><strike>hat die verkaufsstärksten Nachrichten</strike></strong> ist die Schönste im ganzen Land&hellip; &rdquo;).</em></p>
+
+<p>Aber das ich jetzt auch auf Seite 2 (&ldquo;Themen des Tages&rdquo;) der taz (!! 1!!!) informiert [sic!] werde, wer den Irrsinn im australischen Outback <em>gewonnen</em> hat, geht nun eindeutig
+zu weit. Quo vadis, einstiges Land der Dichter und Denker? Hat es das Privatfernsehen in gerade einmal knapp 30 Jahren geschafft unsere Kultur endgültig zu demontieren? Oder waren wir als Gruppe schon immer so banal?</p>
+
+<p>Wie auch immer die Antwort auf diese Frage aussehen mag: Bitte, liebe taz, bewahre mich in Zukunft vor diesen <em>News</em>. Oder pack sie zumindest ins Feuilleton, denn das lese ich sowieso selten genug. Aber zwischen NSU und dem Straßenschlachten in Ägypten wirkt der <em>Dschungelkönig </em>reichlich deplatziert. Dies mögen eure Kollegen bei Springer vielleicht anders sehen, aber die wollen wir doch jetzt nicht ernsthaft als Messlatte für das Presseniveau in diesem Land heranziehen, oder?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Fundstück: Noch Kind? Kostet extra!]]></title>
+    <link href="stonedgolem.github.io/blog/2012/09/26/fundstuck-noch-kind-kostet-extra/"/>
+    <updated>2012-09-26T18:38:56+02:00</updated>
+    <id>stonedgolem.github.io/blog/2012/09/26/fundstuck-noch-kind-kostet-extra</id>
+    <content type="html"><![CDATA[<p>Wer eine Reise tut, der hat was zu erzählen. Und wer häufig zwischen Braunschweig und Hamburg pendelt, der kann nach einer Woche eine ganze Anthologie an Skurrilitäten zum Besten geben. Hier ist also eine davon.</p>
+
+<p>Wer kennt sie nicht, die Faustregel: Je kleiner der Mensch, desto kleiner die Portion desto kleiner der Preis. Auch bekannt als &ldquo;Kinder zahlen die Hälfte&rdquo;. Soweit, so bekannt. Tja, in Winsen an der Luhe, einer kleinen Kreisstadt in Niedersachsen vor den Toren Hamburgs und damit der Welt, laufen die Uhren noch anders. Möchte man sich beispielsweise von Winsen nach Stelle fortbewegen, so liegen beide Orte im Hamburger Verkehrsverbund und die Fahrt kostet reguläre 1,85 Euro für einen Ring. Es sei denn, die reisende Person ist ein Kind, denn bei dieser Eisenbahngesellschaft zahlen Kinder noch extra. Hier das entsprechende Beweisfoto:</p>
+
+<p><a href="https://lh3.googleusercontent.com/-9VqiFM3hVc8/UGMStrr5MwI/AAAAAAAABBo/o_UEYBjjPdw/s2048/IMG_20120925_181818.jpg"><img src="https://lh3.googleusercontent.com/-9VqiFM3hVc8/UGMStrr5MwI/AAAAAAAABBo/o_UEYBjjPdw/s400/IMG_20120925_181818.jpg" alt="" /></a></p>
+
+<p>Halbe Portionen zum regulären Preis befördern, wo kommen wir denn da hin? Die nehmen doch nur den wertvollen Platz für einen voll zahlenden Reisenden weg, also sollen sie auch extra zahlen, wenn sie so verschwenderisch mit Ressourcen umgehen. So macht man dat in Niedersachsen!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Netiquette und Leistungsschutz]]></title>
+    <link href="stonedgolem.github.io/blog/2012/06/27/netiquette-und-leistungsschutz/"/>
+    <updated>2012-06-27T17:25:15+02:00</updated>
+    <id>stonedgolem.github.io/blog/2012/06/27/netiquette-und-leistungsschutz</id>
+    <content type="html"><![CDATA[<p>Wenn ihr einen logischen Fehler in der Überschrift seht, dann solltet ihr euch keine Sorgen machen, denn genau diesen Widerspruch möchte ich hier thematisieren. Grund: Ich denk seit Tagen darüber nach und muss das Ergebnis öffentlich konservieren.</p>
+
+<p>Wie ihr sicherlich wisst bin ich nicht gerade ein Fan vom geplanten Leistungsschutzrecht.  Wer, außer Verleger, ist das schon, wenn künftig alles und jeder nach belieben abgemahnt werden kann, weil schon &ldquo;kleinste Übernahmen&rdquo; abmahnfähig werden? Ich frage mich nicht, ob sich jemand beim verfassen dieses Gesetzes Gedanken gemacht macht &mdash; das wird nämlich wahrscheinlich nicht der Fall gewesen sein, denn sonst hätte jemanden auffallen können, dass auch Dinge wie &ldquo;wie sich gestern zeigte&rdquo; oder &ldquo;und deshalb sollte&rdquo; oder &ldquo;weil dies&rdquo; schon <em>kleinste Teile</em> eines Textes sind. Abmahnungen könnten also gerechtfertigt sein, wenn diese Kombinationen in anderen Texten auftauchen. Klingt bescheuert, ist aber so. Also, ich als Verlager würde sicherstellen, dass mein Exemplar der Zeitung am Tag der Gesetzeseinführung schon genau Punkt Mitternacht ausgeliefert wird und dann alle Konkurrenten, die &ldquo;kleinste Teile&rdquo; übernommen haben, abmahnen. Wenn sie weitermachen wollen, müssen sie sich für das folgende Jahr dann jeden Scheiß lizenzieren lassen und der mein eigener Verlag hätte mit den Einnahmen auf ewig ausgesorgt.</p>
+
+<p>Falls ein Verleger dies lesen sollte: Ich hatte die Idee zuerst (siehe Datum und Uhrzeit dieses Post) und verlange natürlich fett Tantiemen oder verklage Euch wegen Urheberrechtsverletzung und Ideenklau, wenn ihr nicht zahlen wollt!</p>
+
+<p>Nachdem mein Einkommen also gesichert sein sollte, kommen wir zum eigentlichem Thema das Beitrages. Das Leistungsschutzrecht ist widersinnig, dafür braucht es nicht einmal lange Absätze wie den vorangegangenen, um das zu belegen. Darüber hinaus lässt es sich &mdash; im Sinne <a href="http://www.gnu.org/gnu/thegnuproject">Stallman</a>s &mdash; als asozial brandmarken. Eine Erklärung.</p>
+
+<p>Liebe Verlage, denkt ihr allen ernstes, wir Blogger und Social-Network-Wesen verlinken auf euch, weil ihr die Größten und einzig Wahren seid? Pustekuchen. Wir verlinken auf euch, weil wir ein wenig Anstand haben und den Ursprung der Nachricht nennen. Ich weiß, dieses Konzept ist euch fremd und denke dabei an die Gutti-Namenspanne, bei der ihr Reihenweise von <a href="http://de.wikipedia.org">Wikipedia</a> abgeschrieben habt ohne die Quelle zu nennen! Im Sinne der Nachprüfbarkeit hat es sich aber sowohl in der Wissenschaft (teilweise) und im Netzverkehr (immer öfter) durchgesetzt, die Seite zu nennen, von der teilenswerte Informationen entliehen wurden.</p>
+
+<p>Da dieses Prinzip euch augenscheinlich fremd ist (erneut der Bezug auf Wikipedia &mdash; ihr werdet es einfach nicht mehr los!), wollt ihr es jetzt allen anderen verbieten, damit ihr euch nicht mehr dafür schämen müsst, es anders zu machen. Geht es euch im Endeffekt also gar nicht ums Geld, sondern wollt irh damit eure Sichtweise von Zitation verbreiten? Merkt ihr eigentlich, dass ihr euch damit lächerlich macht?</p>
+
+<p>Quellenangaben sind gut, richtig und wichtig. Das haben schon viele ermogelte Doktoren und Doktorinnen feststellen müssen. Auch Journalisten sollten ihre Argumentation auf guter Quellenbasis aufbauen. Im Netz, wo jede beliebige Information nur einen Mausklick entfernt und demokratisch (also für alle) verfügbar ist, hat es sich durchgesetzt, den Ursprung zu verlinken und nicht Google damit zu belästigen. Wieso brecht ihr also mit juristischer Gewalt dieses Konsens auf? Wollt ihr, dass das Netz aufhört auf euch zu referieren und euch in Zukunft einfach ohne Quellenangabe paraphrasiert? Das ließe sich einrichten und zwar auch in Ausformungen, denen ihr nicht mir Urheberrechtsklagen begegnen könnt. Sollte dies aber geschehen, dann seid ihr raus. Raus aus der netzöffentlichen Wahrnehmung und damit aus den Köpfen vieler, vieler Menschen. Auch eure Druckerzeugnisse, die ich als Abo beziehe, stehen derzeit alle auf dem Prüfstand und werden gekündigt, sobald ich mich nicht mehr an den Inhalt erinnern darf. Papier um des Papieres Willen brauch ich nicht. Und bezahlen will ich dafür erst recht nicht.</p>
+
+<p>Ihr brecht hier mit einem zutiefst menschlichen Verhalten: Nämlich dem Teilen von Informationen! Dies zu unterbinden und dabei die ohnehin schon dünne gesellschaftliche Solidarität weiter zu untergraben ist schlicht und ergreifend asozial. Es ist das informationspolitische Äquivalent zur proprietären Software. Liegt es also an uns neben der <a href="http://fsf.org">Free Software Foundation</a> noch die Free Information Foundation zu gründen?</p>
+]]></content>
+  </entry>
+  
+</feed>

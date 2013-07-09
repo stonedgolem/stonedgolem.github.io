@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Umzug | Stoned Golem]]></title>
+  <link href="stonedgolem.github.io/blog/categories/umzug/atom.xml" rel="self"/>
+  <link href="stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:07:12+02:00</updated>
+  <id>stonedgolem.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Cygus]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Umzug vollzogen]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/26/umzug-vollzogen/"/>
+    <updated>2013-03-26T19:46:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/26/umzug-vollzogen</id>
+    <content type="html"><![CDATA[<h3>tl;dr</h3>
+
+<ol>
+<li><p>Der Umzug ist vollzogen und die URLs werden geändert</p></li>
+<li><p>Umzug bedingt einige Fehler im neuen Code</p></li>
+<li><p>Ab heute geht es statisch weiter</p></li>
+</ol>
+
+
+<hr />
+
+<p>Der Umzug ist vollzogen. Auch die alten Posts von WordPress haben in der Zwischenzeit hier ein neue Heimat gefunden. Zeit also, den letzten Schritt zu gehen und <em>Stoned Golem</em> komplett auf statisch umzustellen</p>
+
+<!-- more -->
+
+
+<p>Zwei Tage hat es von den ersten Gehversuchen mit OctoPress bis zur kompletten Umstellung gedauert. Wenn du das hier siehst und dich wunderst, dass sich <em>Stoned Golem</em> stark verändert hat, dann fasse ich die letzten Tagen nochmal kurz zusammen.</p>
+
+<p>Nachdem ich ein &ldquo;memory limit&rdquo; durch PHP Plugins in WordPress erfahren habe, habe ich mich für einen Umzug entschieden. Da ich schon länger mit dem   Gedanken gespielt habe, mir einen statischen Blog zuzulegen, war dies die passende Initialzündung. Nach einigem Suchen viel die Entscheidung auf OctoPress, welches mir im Zusammenhang mit github gleich eine Plattform bot, meine Post zu veröffentlichen.</p>
+
+<p>Ausgestattet mit einem sehr rudimentären Verständnis von HTML, aber mit viel Enthusiasmus habe ich mich ans Umsetzen meiner Vorstellungen gemacht. Schnell war ein Template gefunden, welches mir zusagte, die ersten elementaren Funktionen (flattr) wurden integriert, neues Impressum und neue Datenschutzbestimmungen wurden gesetzt. Letztere wurden nötig, weil ich hier inzwischen auch Google Plus, Twitter und in nächster Zukunft auch Google Analytics einsetze. Leider, wie ich sagen muss. Aber mir bleibt keine andere Möglichkeit mehr, wenn ich sehen möchte, ob überhaupt jemand hier liest, was ich schreibe.</p>
+
+<p>Der dynamische Blog ist nicht aus der Welt, sondern nur verschoben: Für eine gewisse Übergangszeit wird es noch unter <a href="http://wordpress.stonedgolem.de">wordpress.stonedgolem.de</a> erreichbar sein. Wie lange ich diese Installation noch aufrecht erhalte, vermag ich nicht zusagen. Irgendwann wird es aber verschwinden, spätestens dann, wenn ich alle Posts hier durchgeschaut und überarbeitet habe. Das aber noch seine Zeit brachen, denn es hat sich eine stattliche Anzahl an Beiträgen gesammelt.</p>
+
+<p>Vor allem Bilder können mit dem Umzug verschwunden sein. Zumindest jene, die ich bei WordPress direkt hochgeladen habe werden wahrscheinlich nicht mehr angezeigt werden. Bilder, die extern auf Picasa/Google verweisen, sollten nicht betroffen sein. Ein schneller Blick über die alten Posts hat ergeben, dass ich mit den Formatierungen ansonsten im Großen und Ganzen zufrieden bin. Da ich aber nur ungefähr 30 Beiträge oberflächlich angesehen habe gehe ich davon aus, dass noch eine ganze Menge verbugt ist. In einer ruhigen Minute werde ich mir das mal genauer anschauen.</p>
+
+<p>Ansonsten freue ich mich tierisch, dass hier wieder Normalität einkehrt und ich mich in Zukunft eher auf&rsquo;s Schreiben von Posts als auf&rsquo;s Basteln am Template konzentrieren kann.</p>
+
+<p>Wer möchte, kann mir eine Email schreiben und mir mitteilen, wie das neue Konzept gefällt. Auch bin ich weiterhin über Twitter und Google Plus erreichbar.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Der erste Tag mit OctoPress]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/25/der-erste-tag-mit-octopress/"/>
+    <updated>2013-03-25T22:11:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/25/der-erste-tag-mit-octopress</id>
+    <content type="html"><![CDATA[<h3>tl;dr</h3>
+
+<ol>
+<li><p>Umstellung gelungen</p>
+
+<p> Die Umstellung ist gelungen und ich bin mit dem Ergenbnis zufrieden; jetzt stehen Umzugsarbeiten um.</p></li>
+<li><p>Neuerungen im Bezug auf die Nutzung von Octopress</p>
+
+<p> <strong>tl;dr</strong> wird jetzt immer zur Einleitung benutzt. Ebenso wird wohl Google Analytics demnächst hier eingesetzt werden.</p></li>
+<li><p>Details zum Umzug</p>
+
+<p> Die dynmische und statische Version von Stoned Golem werden demnächst die URLs tauschen, aber beide bleiben online. Vorerst.</p></li>
+</ol>
+
+
+<hr />
+
+<p>Es ist vollbracht. OctoPress läuft, das Template gefällt und der Blog steht. Zwar klaffen noch viele Lücken und ich muss noch die alten Posts überführen, aber es scheint, als könnte ich WordPress demnächst dicht machen. Aber wie stelle ich das am Geschicktesten an? Und welche Zukunft sehe ich für dieses Blog?</p>
+
+<!-- more -->
+
+
+<h3>Der Tag in der Retrospektive</h3>
+
+<p>Nach einem Tag basteln kann ich folgendes Fazit ziehen: WordPress ist schneller zu konfigurieren. Kenntnisse in den Sprachen des Webs (html, css, php etc. pp.) sind beim großen Monster nicht nötig. Funktionen können schnell durch kleine Plugins ergänzt werden, Themes sind in Hülle und Fülle verhanden. Die Zahl der Plugins ist Legion, aber ihre Nutzung hat dagegen einen hohen Preis, denn jedes Plugin siedelt sich im RAM des Servers ein. So lange, bis das Limit erreicht ist. Und dann funktioniert die Website einfach nicht mehr. Als ich mit <em>Stoned Golem</em> in die Memory-Falle gelaufen bin, gingen sprichwörtlich die Lichter aus: Ein Einloggen in den Admin-Bereich war nicht mehr möglich. Folglich konnte ich auch das eine Plugin, dass ich zu viel installiert habe, nicht mehr löschen.</p>
+
+<p>Zum Glück versuche ich immer sparsam mit meinen Ressourcen umzugehen, so dass ich noch Luft nach oben hatte und das Limit erhöhen konnte. Auch wenn ich glimpflich davon gekommen bin, so habe ich dennoch meine Lektion gelernt. Ansonsten würde ich jetzt nicht hier mit OctoPress schreiben.</p>
+
+<p>Wie gesagt und wie es zu erwarten gewesen war, ist WordPress in der Benutzung um einige Potenzen einfacher. Im Prinzip dauert es nicht sehr lange, bis WordPress produktiv genutzt werden kann, dementsprechend sind auch schnell die Post beisammen. Die Einfachheit ist es aber auch, die vom Schreiben ablenken kann, denn neue Plugins sind immer nur einen Klick entfernt. Wenn die Schreibe stockt, dann verliert man sich schnell in den unzähligen Möglichkeiten, die WordPress bietet.</p>
+
+<p>Diese Stunden des Spielens standen nun zumindest bei mir am Anfang der OctoPress Nutzung. Einiges habe ich ja schon umsetzen könne &mdash; und auch bei der noch offenen Frage der Kommentare bin ich schon einen Schritt weiter. Die Funktion steht im Grund, nur leider ist es mir bisher nicht möglich gewesen, dies auch noch in <em>schön</em> zu gestalten. An dieser Stelle machten sich meine Unkenntnisse der Websprachen zu deutlich bemerkbar.</p>
+
+<p>Andere Punkte wie die <a href="www.flattr.com">Flattr</a>-Integration konnte ich mir mit meinen Kenntnissen noch zusammenkopieren und in lauffähigen Code umwandeln. Ich muss zugeben, ich bin schon ein klein wenig Stolz auf mich. Auch im Template habe ich ein wenig rumgebastelt und insgesamt bin ich zufrieden mit dem Ergebnis. Das Blog sieht einfach schon aus: Funktional und doch ausgelegt für Bleiwüste. Das klingt nach mir.</p>
+
+<h3>Die Zukunft von Stoned Golem</h3>
+
+<p>Ich denke, ich werde bei statischen Seiten bleiben. Es gefällt mir einfach besser, meine Posts in einem Editor mit Auszeichnungssprache zu schreiben als in einem dynamischen WYSIWYG-Dingsbums, das die Schrift klein rendert und bei dem ich immer wieder zum HTML-Editor wechseln muss, weil irgendwelche kryptische Artefakte sich im WYSIWYG Bereich zwar erstellen, aber nicht wieder entfernen lassen. Da bin ich mit dem Editor meiner Wahl besser bedient und muss mich weniger mit der Formatierung rumärgern.</p>
+
+<p>Durch die schleichende Umstellung auf statische Seiten wird sich vieles ändern. Kommentare fliegen vorerst raus, da bin ich mir schon ziemlich sicher. Wer mich Kontaktieren möchte, der oder die kann mir eine Email schreiben. Auch bin ich in den sozialen Netzwerken <a href="plus.google.com">Google Plus</a> und <a href="twitter.com">Twitter</a> aktiv und dort erreichbar. Ein Update zu meinem Post kann ich immer noch schreiben, wenn ich vollkommen falsch liegen sollte oder mich die Ereignisse schlichtweg überholt haben. Und natürlich besteht weiterhin die Option, dass ich bei Bedarf doch wieder auf eine Kommentarfunktion zurückgreife. Ich weiß zu wenig über <a href="www.disqus.com">Disqus</a>, als dass ich ad hoc sagen könnte, wie <em>schlimm</em> es wirklich ist.</p>
+
+<p>Allerdings werde ich etwas ändern in der Art, wie ich meine Post aufarbeite. In Zukunft werde ich immer ein <strong>tl;dr</strong> (<a href="http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read">too long, didn&rsquo;t read</a>) einfügen, gefolgt von einer kleinen Einleitung, die maximal ein bis zwei Absätze lang sein soll. Da ich auch zu denen gehöre, die lieber mehr sagen, als eigentlich nötig wäre, ist dies eine gute Übung für mich, mich auf das wesentliche zu fokussieren. Für die Leser * innen hat das den angenehmen Effekt, dass sie schon auf der Startseite sehen können, ob sie der Post interessiert oder nicht. Außerdem wird die Startseite mit dieser Taktik nicht zu lang. Ich mag es einfach persönlich nicht, wenn ich bei Google etwas finde, auf eine Seite weitergeleitet werde, mir einen Wolf scrolle und dann das Gesuchte dort nicht finde, weil es aktualisiert wurde. Muss meiner Meinung nach nicht sein.</p>
+
+<h3>Was steht an</h3>
+
+<p>Ich muss die alten Artikel aus dem Wordpress extrahieren, in Markdown umwandeln und dann durchschauen, ob dabei irgendwas fürchterlich schief gegangen ist. Dies wird ein wenig dauern, deswegen werde ich den dynamischen Blog noch eine Weile online lassen, ihn allerdings auf eine neue Subdomain legen. Mit anderen Worten: Ich tausche die beiden Seiten einfach aus, lasse aber beide noch online.</p>
+
+<p>Neben den neuen Kommentare muss ich auf der statischen Seite noch einige der &ldquo;pages&rdquo; wie About und Impressum überarbeiten. About gibt es momentan gar nicht, aber ich habe schon eine schöne Idee, wie ich das angehen kann. Da diese Seite jetzt bei <a href="www.github.com">github</a> liegt, habe ich derzeit überhaupt keinen Zugriff auf irgendwelche Zugriffsdaten, weswegen ich wohl oder über auf <a href="http://www.google.com/analytics/">Google Analytics</a> zurückgreifen werde. Ist nicht toll, aber naja. Sobald ich aber meinen Disclaimer entsprechend geändert habe, werde ich es wohl auch umsetzen.</p>
+
+<p>Leider kann ich die neue Website nicht auf meinem aktuellen Webspace hosten. Okay, ich könnte, es wäre mir aber zu aufwendig. Da ich keinen ssh-Zugriff auf die Server habe, kann ich nicht mit git arbeiten. Im Endeffekt würde ich also alles bei github hosten und erstellen und müsste dann manuell die erstellten Seiten per ftp auf meinen Webspace kopieren. Kurz gesagt: Erhöhter Aufwand dafür, dass der Blog doppelt im Netz vorhanden ist. Da kann ich auf einfach das Angebot von github direkt nutzen.</p>
+
+<p>Welche Aufgabe der angemietete Webspace in Zukunft haben wird, weiß ich noch nicht genau, aber mir wird schon was einfallen. Er ist weder teuer noch leistungsstark, wie man unschwer am erreichten memory limit von Stoned Golem erkennen kann &mdash; aber er bietet ein paar Funktionen, die ich angenehm finde, weil ich auch irgendwo faul bin. Also bleibt er vorerst bestehen. Und ganz ehrlich: Ich denke, es wird sich schon eine Verwendung finden lassen.</p>
+
+<p>Da mir gerade nicht mehr einfällt und es noch viele, viele Baustellen gibt, die ich bearbeiten muss, sollte dies als Zwischenstand reichen.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Und wieder ein Punkt auf meiner Liste weniger]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger/"/>
+    <updated>2013-03-25T16:15:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger</id>
+    <content type="html"><![CDATA[<p>Und wieder gibt es nette Neuigkeiten zu verkünden. Meine Liste der zu erledigenden Dinge ist sage und schreibe zwei Punkte kürzer geworden. Das Arbeiten von mehreren Rechnern aus ist nun möglich und <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">dank diesem Post hier</a> hat auch der Geisteswissenschaftler in mir verstanden, wie genau ich das zu bewerkstelligen habe. Wenn ich jetzt nicht immer noch die letzten Kommandos vergessen würde, dann würde ich auch schneller ans Ziel kommen. Aber man kann ja bekanntlich nicht alles haben.</p>
+
+<p>Und wer will schon Schokolade <em>und</em> Eis, oder?!</p>
+
+<!-- more -->
+
+
+<p>Leider verhält es sich so auch mit Kategorien und Tags, die wie bei Blogger in einem Punkt zusammengefasst sind. Eine schöne Trennung der beiden Punkte wie bei WordPress scheint es nicht zu geben. Macht nichts, dann muss ich mir halt vorher sehr genau meine Kategorien überlegen. Es gibt schlimmeres. Dafür gefällt mir die Arbeitsweise hier sehr gut.</p>
+
+<p>Schließlich kann man doch nicht auch noch <strong>Kokosstreussel</strong> auf seinem Schokoladeneis erwarten&hellip;</p>
+
+<p>Bleiben also noch die Frage der Kommentare offen. Ich weiß nicht, wie schnell ich das geregelt bekomme und ob überhaupt. Ich habe einen Ansatzpunkt, aber dafür bräuchte ich wahrscheinlich ein klein wenig mehr Informatikwissen, als ich im Moment habe.</p>
+
+<p>Aber hey, sehen wir es mal positiv: Wir haben hier einen Geisteswissenschaftler, der es alleine schaffte, sich mit git, octopress und github einen statischen Blog zu bauen. Ich bin begeistert :)</p>
+]]></content>
+  </entry>
+  
+</feed>

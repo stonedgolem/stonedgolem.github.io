@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Aktiv werden | Stoned Golem]]></title>
+  <link href="stonedgolem.github.io/blog/categories/aktiv-werden/atom.xml" rel="self"/>
+  <link href="stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:07:12+02:00</updated>
+  <id>stonedgolem.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Cygus]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Der Grund für die Funkstille]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille/"/>
+    <updated>2013-03-15T09:29:04+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille</id>
+    <content type="html"><![CDATA[<p>Es ist die Woche der schlechten Nachrichten in der IT-Welt. Zwar ist keine wirkliche Hiobsbotschaft von apokalyptischen Ausmaß dabei, aber die Nachrichten reichten aus, um mich zu einigen Änderungen zu bewegen. Ausgerüstet mit einem Raspberry Pi, einer Fritzbox und einem DSL16.000 Anschluss habe ich begonnen, mich von den großen Anbietern zu emanzipieren. Die Zeit, die dafür nötig war, habe ich von der Zeit abgezweigt, die ich normalerweise für mein Blog aufwende. Das offensichtliche Resultat war hier die Funkstille, dafür kann ich jetzt ssl-geschützt von überall auf meine eigene Cloud zugreifen.</p>
+
+<!-- more -->
+
+
+<h2>Was ist passiert?</h2>
+
+<p>Angefangen hat alles mit <a href="http://www.infoworld.com/d/the-industry-standard/when-your-data-not-your-data-when-its-in-the-cloud-213988">dieser kleinen Meldung</a>, die <a href="http://blog.fefe.de/">fefe auf seinem Blog</a> verlinkt hat. Klar, Kinderpornografie ist schrecklich und absolut verachtenswert, aber die Art, wie sie hier aufgedeckt wurde, stimmt mich ebenso nachdenklich. In meinen Augen steht das Scannen von privaten Daten auf einer Stufe mit dem unbefugten Eindringen in eine Wohnung. Ohne richterlichen Beschluss und Anfangsverdacht hätten die Daten der Person meiner Meinung nach nicht auf Grund einer &ldquo;pauschalen und routinemäßigen&rdquo; Untersuchung gescannt werden dürfen. Orwell und &ldquo;<a href="http://www.youtube.com/watch?v=SGD2q2vewzQ">Du bist Terrorist</a>&rdquo; lassen grüßen.</p>
+
+<p>Dann gibt Google zwei Dingen bekannt. 1. <a href="http://stonedgolem.de/?p=657">Ad-Blocker werden nicht mehr für Android im Play-Store angeboten</a>. 2. <a href="http://www.heise.de/newsticker/meldung/Kommentar-Reader-Einstellung-zerstoert-Vertrauen-in-Google-1822798.html">Der Google Reader wird eingestellt</a>. Zu Punkt 1 habe ich mich ja schon geäußert, zu Punkt 2, insbesondere zu dem verlinkten Artikel muss ich aber noch ein paar Worte verlieren, weil der Autor einfach knuffig ist. Wer den Artikel nicht gelesen hat, sollte den nächsten Absatz einfach überspringen.</p>
+
+<p>Der Autor ist drollig. Wie in den Kommentaren schon richtig angemerkt begründet, er sein &ldquo;Geschäftsmodell Journalismus&rdquo; auf der Arbeit von Google, ebenso wie Google sein &ldquo;Geschäftsmodell Reader&rdquo; auf die Arbeit der RSS-Anbieter aufbaut. Während Google nun dank Leistungsschutzrecht für sein Geschäftsmodell zur Kasse gebeten werden kann, darf der Journalist sich ausheulen, dass ihm sein kostenloser Lutscher weggenommen wird. Seine Konsequenz: &ldquo;Mir wurde einmal weh getan, deswegen gehe ich dem Leidverursacher komplett aus dem Wege&rdquo;. Zum Beispiel, in dem er sich anstatt eines Android-Tabletts ein Amazon Kindle Fire HD holt. Hmmm &hellip; da war doch was? Ach ja, die Kindle-Dinger laufen auf Android, auch wenn es wegen der vielen Anpassungen nicht mehr so offensichtlich ist. Auch der Wechsel von Chrome zu Firefox ist irgendwie lustig, da Google einer der Hauptfinanzierer von Mozilla ist. Und von Gmail zu Outlook.com zu wechseln &hellip; Nun ja, dazu fällt mir nichts mehr ein. Anstatt also ein über nunmehr Jahre gewachsenes und beständiges Angebot zu nutzen setzt er auf den Neuling, der erstmal beweisen muss, seinen Dienst überhaupt so lange aufrecht zu erhalten wie Google Gmail? Überzeugt mich nicht wirklich.</p>
+
+<p>Abseits der &ldquo;beleidigte-Leberwurst&rdquo;-Attitüde des Artikels gibt es eine Aussage, die ich doch unterstützen kann: Sich auf einen Anbieter zu verlassen programmiert Enttäuschungen vor. Entweder, weil ein geliebter Dienst eingestellt wird. Oder weil mit den eigenen Daten schlampig umgegangen wurde. Oder weil sich der Workflow ein wenig veränderte. Oder, oder, oder.</p>
+
+<h2>Gegenmaßnahmen</h2>
+
+<p>Es gibt nun einige Möglichkeiten, wie man derartigen Problemen begegnen könnte. Anbieterhopping wäre zwar eine davon, aber sie ist wenig praktikabel. Ständig alles neu eingeben und neu einpflegen? I don&rsquo;t think so.</p>
+
+<p>Eine andere Möglichkeit ist die vielzitierte Hilfe zur Selbsthilfe. Ein wenig Kenntnisse in Linux, einen günstigen Ein-Platinen-Rechner, das eine oder andere Handbuch und die gute alte Internetrecherche gibt die Kontrolle über die eigenen Sachen zurück. Es ist kein Geheimnis, dass ich meinen Raspberry Pi liebe, seit dem ich ihn habe, weil ich jetzt zum ersten Mal einen eigenen Server mit vollem root-Zugriff zur Verfügung habe. In den letzten Tagen habe ich mehr über die Administration von Servern gelernt als ich den zwei Jahren davor, einfach, weil ich selbst etwas zur Hand hatte, das ich im Zweifelsfall kaputtspielen kann. Neben dem reinen Entdeckergeist habe ich auch damit begonnen, mich von einigen Diensten, die ich mehr oder weniger sporadisch nutze, zu trennen.</p>
+
+<p>Dropbox hat es als erstes erwischt, auch wenn es ursprünglich nicht intendiert war. Die Installation und Einrichtung von <a href="https://owncloud.org/">Owncloud</a> war eher eine Nebenidee, die aufkam, weil ich die benötigte Infrastruktur am Pi zuvor schon wegen anderer Projekte aufgebaut hatte.</p>
+
+<p>Angefangen hatte es mit <a href="http://ampache.org/">Ampache</a>, einen Dienst, der es ermöglicht, Musik vom Webspeicher zu streamen. Ich wollte die Möglichkeit zum Streamen nutzen, um neu aufgenommene Hörspiele direkt über&rsquo;s Tablett und den Rechner abzuhören. Erst wenn mir das Hörspiel gefällt, wollte ich es mit Audacity zurechtschneiden und in meine Sammlung integrieren. Bei Nichtgefallen wollte ich die Aufnahme einfach löschen. Die Folge diese Idee: Ich hatte einen voll funktionsfähigen Webserver auf meinem Pi installiert.</p>
+
+<p>Nachdem ich schon einen vollwertigen HTTP-Server eingerichtet hatte, konnte ich diesen auch nutzen um ein eigenes Wiki zu pflegen, in dem ich Gedanken, Notizen und weiß-der-Teufel-was würde festhalten könnte. Gesagt, gegoggelt, entschieden und getan: Das <a href="http://ikiwiki.info/">Ikiwiki</a> war schnell aufgesetzt und funktionierte im lokalen Netzwerk. Aber was, wenn ich nicht daheim bin? Wenn ich von woanders auf meine Daten zugreifen will? Ein DynDNS-Dienst musste her und da kam mir meine Fritzbox zugute. Mit dem neuen Dienst MyFritz war das dynamische DNS schnell eingerichtet und die Weiterleitung klappt wunderbar.</p>
+
+<p>Damit hatte ich auf struktureller Seite schon aller Voraussetzungen zur Nutzung von Owncloud erfüllt. Es fehlte nur noch ein Speicherstick als Datenträger und die Installation der eigentlichen Cloud-Software. Ade Dropbox, hallo 32 GB eigener Speicher, der du bist für mich zugänglich überall, wo es Internet gibt.</p>
+
+<p>By the way: Wer wie ich viele Ogg Vorbis Dateien hat und nutzt sollte sich nicht auf den Ampache-Dienst von Owncloud verlassen. Dieser erkennt nur MP3s und funktioniert auch ansonsten nicht so gut wie ein echtes Ampache, weswegen ich weiterhin Ampache neben Owncloud betreibe.</p>
+
+<h2>Was kommt?</h2>
+
+<p>Owncloud hat mich auf den Geschmack gebracht. Die vergleichsweise einfache Einrichtung gepaart mit dem Gefühl, die eigenen Daten wieder unter Kontrolle zu haben, animiert mich, weitere Experimente zu unternehmen. Derzeit überlege ich, ob ich dank eigenem Server nicht an einem der vielen dezentralen Netzwerken partizipiere. Diaspora*, Friendica, LiberTree und Tent stehen derzeit in der engeren Auswahl als nächstes erprobt zu werden. Wer möchte kann gerne weitere Empfehlungen hinzufügen.</p>
+
+<p>Aus meiner Sicht wichtig ist, dass wir uns wieder bewusst werden, woher das Internet kommt: Nicht die großen und zentralistischen Firmen haben es uns gebracht, sondern Dezentralität und Do-It-Yourself-Einstellungen, gepaart mit einem ordentlichen Schuss Experimentierfreude! Wir sollten diese Stärken nicht &ldquo;einfach so&rdquo; aus der Hand geben und unser Internet dem Firmen überlassen. Dazu gehört, das eigene Handeln gelegentlich zu Überdenken und Alternativen auszuprobieren, auch wenn es ein wenig Frickelarbeit erfordert.</p>
+
+<p>Im Endeffekt ist ja auch Stoned Golem aus dieser Überlegung heraus entstanden, denn sonst wäre ich vielleicht nie von Blogger auf eine selbstgehostete Lösung gewechselt. Insofern stellt mein jetziges Handeln nur eine konsequente Fortführung dar.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Golem's becoming superhero!]]></title>
+    <link href="stonedgolem.github.io/blog/2012/07/20/golems-becoming-superhero/"/>
+    <updated>2012-07-20T15:24:32+02:00</updated>
+    <id>stonedgolem.github.io/blog/2012/07/20/golems-becoming-superhero</id>
+    <content type="html"><![CDATA[<p>Das Internet ist weit. Und frei. Die wesentlichen Standards und Technologien sind offen und können von allen eingesehen und genutzt werden. Grenzüberschreitende Kommunikation ist in Bruchteilen von Sekunden möglich. Verschlüsselungstechniken sorgen für die nötige Anonymität, die vor neugierigen Blicken schützt. Alles erscheint möglich, auch das illegale Tauschen von Dateien, deren Lizenzbedingen diese Weitergabe verbieten: Die sogenannten &ldquo;Raubmordkopien&rdquo;.</p>
+
+<p>Diese werden dann auch gerne als Argument herangezogen, um dem Internet eine lückenlose Überwachung zu schenken, womit die allermeisten der hier gepriesenen Freiheiten ihre Reise über den Styx antreten werden. Es ist eine Frage der Verhältnismäßigkeit, ob komplette Kontrolle und Zensur wirklich eine adäquate Antwort auf Urheberrechtsverletzungen sind; für mich sind sie es nicht. Um mal wieder eine dieser schiefen Realweltanalogien zu verwenden: Weil Menschen in den öffentlichen Verkehrsmitteln schwarz fahren <em>könnten</em>, was sehr zum wirtschaftlichen Nachteil der Verkehrsbetriebe ist und dafür sorgt, dass sich ihre Mitarbeiter bald nicht mehr was zu Essen leisten können, überwachen wir alle Bürger von dem Moment an, an dem sie das Haus verlassen. Diese Totalüberwachung ist notwendig, damit wir lückenlos nachvollziehen können, unter welchen Umständen und wann sie sich eine Fahrkarte gekauft haben. Außerdem ist die Überwachung doch super, wenn man <em>aus Versehen</em> bei einer der dennoch stattfinden Kontrollen in den Bussen und Bahnen seinen Fahrausweis mal nicht vorzeigen kann (weil man ihn verloren/verlegt hat oder man sich als <a href="http://www.youtube.com/watch?v=_7QTGV5jOrM&amp;feature=related">Rassist geoutet</a> hat): Anhand der lückenlosen Dokumentation der Bewegung seit dem Verlassen der eigenen Wohnung lässt sich auch der Moment finden, an dem der Fahrschein gekauft wurde. Dabei fällt dann aber leider auf, dass man Bananen beim Lidl eingekauft hat und bekommt dann die Strafe für verantwortungslosen Konsum von Waren mit schlechter CO2-Bilanz und Einkauf bei Lohndrückern. Ist doch auch was und kostet mehr als einmal Schwarzfahren.</p>
+
+<p>Wie gesagt, die Analogie hingt wie alle Analogien, aber sie erscheint mir im Moment recht lustig und erinnert mich, dass ich mal wieder <a href="http://de.wikipedia.org/wiki/George_Orwell">Orwell</a> lesen sollte. Anyway, betrachten wir aber das Internet, so gilt es immer zu bedenken, dass wir es hier mit einer grenzüberschreitenden, multinationalen Technologie zu tun haben. Dies ist insofern bedeutsam, da es ein freies Internet nur dann geben kann, wenn es wirklich an jedem Ort dieser verdammten Erde erreichbar, nutzbar und zugänglich ist. Unzensiert, ungefiltert, ungesperrt, versteht sich. Solidarität mit Internetrechtsbewegungen aus anderen Ländern ist dabei von besonderer Bedeutung, da es wenig bringt, wenn wir in Deutschland <a href="http://de.wikipedia.org/wiki/ACTA">ACTA</a> stoppen, die USA aber <a href="http://de.wikipedia.org/wiki/SOPA">SOPA</a> einführen. Ich glaube, ihr versteht, was ich meine.</p>
+
+<p>Diese lange Herleitung also dazu, euch mitzuteilen, dass Stoned Golem jetzt Mitglied in der <a href="http://internetdefenseleague.org/">Internet Defense League</a> ist, einer Vereinigung von Superhelden, die die Freiheit des Netzes verteidigen wollen. Superhelden ist dabei das passende Wort, denn die Ikonografie der Organisation ist ziemlich nerdig und orientiert sich an Comics. Pünktlich zum Start von <em><a href="http://www.thedarkknightrises.com/">The Dark Knight Rises</a></em> in den USA wurden die ersten <em>CAT-Lights</em> mit dem Symbol der League in Betrieb genommen. Hauptaufgabe der Vereinigung: Kommunikation und Information über kommende (vor allem us-amerikanische) Gesetze, die die Freiheit des Netzs einschränken könnten. Also nichts mit Online-Terrorismus oder so, bevor hier jemand auch nur daran denkt, diesen Diffamierungsklumpen in die Hand zu nehmen und damit um sich zu schmeißen.</p>
+
+<p>Aufmerksam wurde ich auf diese Organisation durch <a href="https://netzpolitik.org/2012/the-internet-defense-league/">Netzpolitik.org</a>, denen ich an dieser Stelle für die Information danken möchte. Darüber hinaus schließe ich mich ihrer Einschätzung an, dass wir vergleichbare europäische (oder zumindest deutsche) Unternehmungen bräuchten, da nach dem Scheitern von ACTA in Zukunft sich die Informationspolitik wohl massiv ändern wird, denn viele Politiker scheinen wohl der Meinung zu sein, das Gesetz an sich wäre okay gewesen, aber die Publicity war suboptimal. Ich wünsche mir ja schon länger eine Bürgerrechtsbewegung ähnlich der <a href="https://www.eff.org/">EFF</a> für den europäischen Raum, aber derzeit scheint sowas kaum am Horizont auszumachen zu sein.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wegen die Sache mit die BILD...]]></title>
+    <link href="stonedgolem.github.io/blog/2012/06/15/wegen-die-sache-mit-die-bild/"/>
+    <updated>2012-06-15T14:10:00+02:00</updated>
+    <id>stonedgolem.github.io/blog/2012/06/15/wegen-die-sache-mit-die-bild</id>
+    <content type="html"><![CDATA[<p>Es gibt Neuigkeiten &ldquo;wegen die Sache mit die BILD&rdquo;, die am 23.6. ungefragt in meinen Briefkasten* flattern soll/sollte. Der aktuelle Stand ist wohl, dass der Springer-Verlag die Aktion wie angekündigt durchziehen wird. Vertriebspartner soll wohl die Deutsche Post werde, was nichts anderes bedeutet, als dass die armen BriefzustellerInnen den ganzen Tag plakern und leiden müssen. Von den Mehreinnahmen, die die Post dank der Aktion erwarten darf, werden sie wohl nichts abbekommen&hellip; aber das hat ja auch niemand erwartet, dass die, die an diesem Tag wirkliche Arbeit leisten, dafür auch entlohnt werden.</p>
+
+<p>Die über 200.000 Absagen, die die Aktion von Campact bisher zusammengetragen hat, sind für Springer aber kein Problem. An jeden Briefkasten, der keine Bild erhalten soll, wird ein roter Umschlag versendet, der anstelle der BILD zugestellt werden soll. Inhalt des Umschlags: Geheim. [Quelle: <a href="http://blog.campact.de/2012/06/was-ist-gros-rot-und-kommt-mit-der-post/">Campact-Blog</a>]</p>
+
+<p>Aus diesem Post lassen sich drei Dingen ableiten.</p>
+
+<ol>
+<li><p> Ich versteh' die Sache mit dem neuen <a href="http://irights.info/?q=content/referentenentwurf-zum-leistungsschutzrecht-eine-erste-ausfuhrliche-analyse">Leistungsschutzrecht</a> langsam, welches sich hoffentlich noch verhindern lässt, und paraphrasiere nur noch mit direkter Verlinkung. Ob das was hilft, wenn der Titel des journalistischen Erzeugnisses in der URL selbst enthalten ist, darüber werde ich mich später mal auslassen.</p></li>
+<li><p>  Ich sollte schnell noch Springer widersprechen, dass sie mir <em>überhaupt irgendwas </em>zustellen. Oder gilt hier der &ldquo;Keine Werbung einfwerfen&rdquo; Sticker auf meinem Briefkasten?</p></li>
+<li><p> <strong>Wer auf Wundertüten und Geheimisse steht, sollte jetzt noch schnell der Zustellung der BILD widersprechen und sich an der Spannung erfreuen. Sind immerhin noch 10 Tage der Vorfreude, die bleiben.</strong></p></li>
+</ol>
+
+
+<p><strong>  </strong>Was den Inhalt des Umschlages angeht, tippe ich auf <a href="http://anthrax.com/">Anthrax</a>. Bleibt also bei bester Gesundheit.</p>
+
+<ul>
+<li>Ein netter Mensch hat mich auf einen Tippfehler hingewiesen. Ursprünglich stand an dieser Stelle &ldquo;<strong>Bierkasten</strong>&rdquo;, was ein so schöner Freudscher Verschreiber ist, dass ich den Text zwar berichtigt habe, dafür aber den Hinweis auf den Fehler an dieser Stelle setze. Prost!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Auf unser täglich Brot wetten wir heute]]></title>
+    <link href="stonedgolem.github.io/blog/2012/05/23/auf-unser-taglich-brot-wetten-wir-heute/"/>
+    <updated>2012-05-23T14:19:00+02:00</updated>
+    <id>stonedgolem.github.io/blog/2012/05/23/auf-unser-taglich-brot-wetten-wir-heute</id>
+    <content type="html"><![CDATA[<p>Ein von der Satiresendung <a href="http://www.x3.de/">Extra 3</a> empfohlener Beitrag der <a href="http://www.ard.de/">ARD</a> mit dem Titel &ldquo;<a href="http://mediathek.daserste.de/sendungen_a-z/799280_reportage-dokumentation/10592810_verzockt-und-verklagt-die-guten-geschaefte-der">Verzockt &ndash; und verklagt: Die guten Geschäft der Deutschen Bank</a>&rdquo; (aktuell noch in der Mediathek abrufbar, einfach auf den Link klicken) hat gestern auf Google+ zu einigen Diskussionen geführt. Einig waren sich wohl alle Beteiligten, dass Spekulationen mit Nahrungsmitteln ein absolutes &ldquo;No-Go&rdquo; sind. Und wie der Zufall es so will haben kurze Zeit später die Menschen von <a href="http://campact.de/">campact.de</a> eine Unterschriftenaktion gestartet, die unsere Minister dazu bewegen soll die Spekulation auf Lebensmittel wieder einzuschränken und zu verbieten.</p>
+
+<p>Wieder? Ja, genau. Wieder! <a href="https://www.campact.de/spekulation/info/5min">Denn erst im Jahr 2000 wurde das Verbot der Spekulation auf Nahrungsmittel gelockert</a>. Mit verheerenden Folgen, wie sich jetzt zeigt. Das Banksystem, das sich in der Krise von 2008 in seiner Gier als unfähig erwies eine stabile Wirtschaft aufrechtzuerhalten, wettet mit der selben Gier nach übertriebenen Renditen auf das, was Menschen zum täglichen Überleben brauchen. Um ihren Gewinn zu optimieren treiben sie die Kosten für Nahrungsmittel in die Höhe, was Hunger bei jenen zur Folge hat, die sich ihr Brot oder ihren Reis plötzlich nicht mehr leisten können.</p>
+
+<p><em>&ldquo;Hunger. Das klingt nicht so schlimm. Ein kleines Ziehen in der Magengegend. Das wird schon wieder.&rdquo; </em>Was die Fokussierung auf das Wort &ldquo;Hunger&rdquo; in der Berichterstattung der Medien leicht vergessen lässt ist das Sterben und der Tod, welche am Ende des Hungerleidens warten. Wer sich sein Essen nicht leisten kann wird sich wiederholt das Essen nicht leisten können, wer zu oft nicht isst, der oder die stirbt. Unabhängig von Alter, Geschlecht, Herkunft, Konstitution, Religion, Nationalität und was sich hier noch so anführen ließe.</p>
+
+<p>Nur an wenigen Stellen ist der Zusammenhang zwischen dem Gewinn des Einen und dem Tod des Anderen derart unmittelbar war im Punkt der Lebensmittelspekulation. Die anstehende EU-Finanzmarktreform bietet jetzt Gelegenheit, dieses Treiben wieder politisch zu unterbinden. Eine paar kleine Unterschrift einiger Minister könnten das Leben vieler Menschen grundlegend verbessern, wenn sich damit global die Lebensmittelpreise wieder stabilisieren. Damit diese aber ihren Stift aus der Tasche holen bedarf es vieler tausend kleiner Unterschrift der Bürger, die ihr Anliegen an die Politik herantragen.</p>
+
+<p>Lasst und handeln. <a href="http://www.campact.de/spekulation/home"><img src="http://www.campact.de/img/spekulation/sn1/MitmachenC.jpg" alt="Kampagne: Spekulation" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Keine Bild in meinen Briefkasten!]]></title>
+    <link href="stonedgolem.github.io/blog/2012/05/06/keine-bild-in-meinen-briefkasten/"/>
+    <updated>2012-05-06T00:36:00+02:00</updated>
+    <id>stonedgolem.github.io/blog/2012/05/06/keine-bild-in-meinen-briefkasten</id>
+    <content type="html"><![CDATA[<p>Das BILD-Blättchen (ich möchte dieses Druckerzeugnis auf keinen Fall &ldquo;Zeitung&rdquo; nennen!) feiert demnächst den 60. Geburtstag. Diesen will der Springer-Verlag so richtig feiern. Und weil die Springer-Leute uns so ganz dolle lieb haben, sollen wir am 23.6.2012 alle ein Gratis-BILD-Blättchen in den Briefkasten bekommen. Kein Wunder, dass die Anzeigenpreise für diese spezielle Ausgabe exorbitant sind und die Werbeeinnahme den Verkaufsverlust sicherlich überkompensieren werden &mdash; für Springer natürlich, nicht jedoch für den kleinen Kiosk an der Ecke, der an diesem Tage kein einziges BILD-Blättchen verhökern wird.</p>
+
+<p>Aber nicht mit Kommander! Die netten Menschen von Compact haben eine Aktion gestartet (hier die <a href="http://www.campact.de/bild/info/5min">5-Minuten-Info</a>), mit der man schon im <a href="http://www.campact.de/bild/ml1/mailer">Vorfeld der Zustellung widersprechen</a> kann. Bisher haben über 200.000 Menschen sich gegen die Zustellung der BILD am 23.6. gewährt &mdash; aber da geht doch noch was, oder?</p>
+
+<p>Also, macht mit, zeigt Springer die Zähne und bleibt BILD-frei, den BILD bildet keine Meinung sondern Vorurteile!</p>
+]]></content>
+  </entry>
+  
+</feed>

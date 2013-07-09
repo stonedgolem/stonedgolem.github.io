@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: stonedgolem.github.io/sitemap.xml 

@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Stoned Golem]]></title>
+  <link href="stonedgolem.github.io/atom.xml" rel="self"/>
+  <link href="stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:07:12+02:00</updated>
+  <id>stonedgolem.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Cygus]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Go on and Comment!]]></title>
+    <link href="stonedgolem.github.io/blog/2013/07/09/go-on-and-comment/"/>
+    <updated>2013-07-09T11:11:00+02:00</updated>
+    <id>stonedgolem.github.io/blog/2013/07/09/go-on-and-comment</id>
+    <content type="html"><![CDATA[<p>Mal wieder eine Pause. Mal wieder unangekündigt. Ein Vierteljahr gab es hier keine neuen Posts, während ich mich bei Google Plus oder Twitter rumtrieb und Ingress spielte. Gründe gibt es viele, aber wahrscheinlich wollte ich nicht öffentlich rumheulen, wie schwer es als Geisteswissenschaftler ist einen Job zu finden. Den hab ich zwar noch immer nicht, aber ich habe zumindest eine Vorstufe davon erreicht. Drückt mit also die Daumen, damit sich vielleicht daraus eine Arbeitsstelle entwickelt.</p>
+
+<p>Aber das ist gar nicht der Grund, warum ich diesen Post hier schreibe. Vielmehr wollte ich darauf hinweisen, dass Stoned Golem weiter geht. Und inhaltlich wachsen wird. Etwas weniger Politik, etwas mehr Entertainment bzw. Kunst. Den Anfang wird eine Rezension machen, die ich heute noch im Anschluss einzustellen gedenke. Derer werden demnächst wohl einige folgen, vor allem aus dem Bereich Hörspiel und Science Fiction.</p>
+
+<p>Dabei soll es aber nicht bleiben! Derzeit arbeite ich an der Übersetzung einer englischen Geschichte, die in Deutschland nicht sehr bekannt ist. Das Original ist inzwischen gemeinfrei und ich werde die Übersetzung unter die selbe Lizenz stellen wie das Blog. Außerdem plane ich eine Lesung zu ihr zu machen, um dann vielleicht noch ein Hörspiel hinterher zu schieben. Vorausgesetzt ich finde genug Leute, die Lust auf einsprechen haben.</p>
+
+<p>Titel und Autor der Geschichte werde ich noch geheim halten, bis die Übersetzung fertig ist. Ich will euch ja nicht jede Spannung nehmen.</p>
+
+<p>Doch das ist noch immer nicht alles, aber das Projekt halte ich lieber noch ganz geheim. Es kommt zwar gut vorran, ist aber noch nicht ganz in trockenen Tüchern. Vor allem muss ich schauen, wieviel Zeit mir nach dem 1.8. für das Projekt bleibt und ob diese ausreichen wird, das Projekt ernsthaft weiter zu verfolgen.</p>
+
+<p>Das Leben bleibt also wie immer: Spannend. Und einen kleinen Ausschnitt lässt sich an dieser Stelle verfolgen. Aber da zuschauen alleine nicht su lustig ist wie zuschauen <em>und</em> meckern, habe ich mich dazu entschlossen, doch wieder Kommentare auf Stoned Golem zuzulassen. Das ganz wird über den JavaScript-Dienst Disqus realisiert werden. Wer (sinnigerweise) NoScript oder so benutzt wird keine Veränderung auf den statischen Seiten sehen, weil Disqus schlicht nicht geladen wird. Alle anderen werden einen neuen Kommentarbereich finden, wo sie ihr Mecker hinterlassen können.</p>
+
+<p>Also, ran an die Tastaturen und schreibt mir, wie sehr ihr mich nicht vermisst habt!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brutality sells...]]></title>
+    <link href="stonedgolem.github.io/blog/2013/04/07/brutality-sells-dot-dot-dot/"/>
+    <updated>2013-04-07T16:01:00+02:00</updated>
+    <id>stonedgolem.github.io/blog/2013/04/07/brutality-sells-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>Was tut man nicht alles für Aufmerksamkeit, insbesondere wenn man mit ihr den eigenen Lebensunterhalt bestreitet. Nicht erst mit der Erfindung von Werbung, privaten Rundfunkprogrammen oder den 68zigern ist bekannt, dass &ldquo;sex sells&rdquo;. Was aber, wenn das rhythmische Zusammenspiel nackter Leiber die Auflage nicht mehr zu steigern vermag, weil der Markt gesättigt ist?</p>
+
+<p>Eine Möglichkeit, diesem Dilemma zu entfliehen, lässt sich an der Titanic und ihrem regelmäßigen Techtelmechtel mit Hitler-Covern beobachten. Sinkt die Auflage, wird Adolf reanimiert und auf die Titelseite gebracht, auch wenn es ansonsten kaum oder sogar keinen Bezug zu Nazis im Heft gibt. Das Antlitz des selbsternannten Größten Feldherren aller Zeiten sorgt für den nötigen Absatz um den Angestellten ordentliche Löhne zahlen zu können<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>.</p>
+
+<p>Weg Nummer zwei wurde von den Springermedien perfektioniert: &ldquo;Aufstachelnder Populismus&rdquo; bzw. &ldquo;populistische Hetzreden&rdquo; umschreibt es wohl am Besten, was sich täglich in der Bild lesen lässt. Zwar sinkt auch hier langsam die Auflage<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>, aber noch immer verkauft sie sich wie geschnitten Brot. Hinterher will es aber niemand gelesen haben.</p>
+
+<p>Eine letzte Möglichkeit ist, mit Schockeffekten an die markabare Neugierde und Schaulust der Leser*innen zu appellieren. Nachdem Sex und Porno in der Mitte der Gesellschaft angekommen sind und nur noch bedingt schocken<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> stellt Gewalt und Gore ein letztes Tabu dar. Auto-, Flugzeug- oder Bahnunfälle werden medial in aller Regel durch das direkte Zeigen zerstörter Technik und nicht anhand zermatschter Körper abgebildet; ein Foto verbeulten Metalls lässt automatisch an einen Unfall denken noch bevor wir die Überschrift oder auch nur einen Satz aus dem Artikel gelesen haben.</p>
+
+<p>Da Unfälle in aller Regel nicht planbar sind werden sie dennoch gelegentlich in den Medien abgebildet &mdash; unwillentlich, wie ich den Medienmacher*innen zugute halten muss. Vor allem das Fernsehen ist mit den beliebten <em>Live-Sendungen</em> anfällig dafür, Träger und Verbreiter unbeabsichtigter Gewaltdarstellungen zu werden: Man denke hierbei an den Unfall bei &ldquo;Wetten dass..&rdquo; oder den <a href="http://einestages.spiegel.de/static/topicalbumbackground/24247/selbstmord_vor_laufenden_kameras.html">Selbstmord von Budd Dwyer</a> im US-Fernsehen.</p>
+
+<p>Fälle wie diese sind tragisch, aber nicht den Medien anzulasten. Anders sieht es aber im aktuellen Fall von Kevin Ware, einem US-amerikanischen Basketballspieler aus. Vor einigen Tagen ist Ware bei einem wichtigen Spiel unglücklich gestürzt und hat sich dabei einen komplizierten Buch das Unterschenkels zugezogen. Der Knochen ist mindestens an einer Stelle durchgebrochen, so dass es schien, als hätte seine Wade ein weiteres Gelenk unterhalb des Knies. Mit dieser Verletzung wird er möglicherweise nie wieder seinen Sport professionell ausüben können.</p>
+
+<p>Hier ein Screenshot, wie Yahoo! Sports über dieses Ereignis berichtete:</p>
+
+<center><img src="stonedgolem.github.io/images/american-news.png"></center>
+
+
+<p>Man beachte den letzten Satz, der nur geschrieben wurde, damit Eltern mit traumatisch geschädigten Kindern die Website nicht verklagen können, wenn die Sprösslingen doch einen Blick riskieren sollte: <strong>WARNING: The image below is extremely graphic. Viewer discretion ist advised.</strong><sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup></p>
+
+<p>Die sicherste Möglichkeit, Menschen dazu zu bringen, etwas zu tun, ist es, ihnen genau das zu verbieten. Der Screenshot deutet das Bild an, welches die Betrachter*innen erwartet: Einen Ausschnitt der Live-Übertragung des Spiels, in dem sich der Unfall ereignete. Aber es ist kein Standbild, wie man vielleicht zuerst denken könnten.</p>
+
+<p>Oh nein, bei weitem nicht!</p>
+
+<p>In Zeiten von Youtube, wo sich so ziemlich jeder grausige Unfall voyeuristisch aufgearbeitet finden lässt<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup>, wirkt ein Standbild anachronistisch. Um mithalten zu können müssen die (Web-)Printmedien schon schwerere Geschütze auffahren. Und so läuft der Unfall von Kevin Ware in der sturen Dauerschleife eines animierten GIFs, welches sich gemäß Standard auch ohne Zutun der Betrachter*innen startet.</p>
+
+<p>Da stellt sich mir eine medientheoretische Frage: Ist die Nachricht über den Unfall und die persönliche Tragik eines Menschen nicht an sich schon sensationell genug, damit sie Aufmerksamkeit generiert? Muss zur Steigerung der Auflage und der Klickzahlen eine Endlosschleife das Opfer an sein Leiden erinnern? Wie muss sich Kevin Ware fühlen, wenn er diesen Moment wieder und wieder ansehen muss, nur weil er unbedarft auf einer Nachrichtenseite surft?</p>
+
+<p>Medienethik scheint oftmals ein Mienenfeld zu sein, welches Medienmacher*innen leider zu einfach unkontrolliert zur Explosion bringen können. Ich jedenfalls bin froh, dass wir derartige Zustände in Deutschland noch nicht erreicht haben und die Nachricht an sich einen Neuigkeitswert besitzt und dieser auch ohne &ldquo;graphical support&rdquo; verbreitet wird.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Wahrscheinlich bin ich an diesem Punkt naiv, aber ich hoffe immer, dass Menschen von dem Leben können, was sie gerne machen. Das darf auch in der Verlagsbranche so sein.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Trotz nackter Tatsachen, wie ich anfügen möchte, denn Springer verlässt sich nicht nur auf sein aufrührerisches Potential.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Es sei denn, man tritt als feministische Rockband in einer russischen Kirche auf.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+<li id="fn:4">
+<p>Es darf an dieser Stelle nicht vergessen werden, dass wir von den USA reden, dem Land, in dem man zwar Hakenkreuze, aber keine Brustnippel zeigen darf; dem Land, in dem man Schmerzensgeld für ein <em>selbst bestelltes</em> Heißgetränk einklagen kann, wenn man sich aus eigener Dummheit dran verbrühte, <em>nur weil auf der Verpackung kein Hinweis auf den <strong>heißen</strong> Inhalt angegeben war</em>!<a href="#fnref:4" rev="footnote">&#8617;</a></p></li>
+<li id="fn:5">
+<p>Extremisten und andere Idioten sollen sogar Hinrichtungen bei Youtube einstellen. Die Logik ist hier identisch mit der der Medien: Brutality sells&hellip;<a href="#fnref:5" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zur Einstellung des Google Readers]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers/"/>
+    <updated>2013-03-31T19:15:00+02:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers</id>
+    <content type="html"><![CDATA[<p>Okay, die Sache mit dem <strong>tl;dr</strong> <em>am Anfang</em> des Posts lasse ich sein, Die Idee finde ich zwar weiterhin nicht schlecht, aber die Platzierung ist bei genauerer Überlegung suboptimal und zerschießt das Layout. Anstatt mehr Übersichtlichkeit zu schaffen reduziere ich sie eher. War also &lsquo;ne dumme Idee.</p>
+
+<p>Ebenso doof, wie über die Osterfeiertage mit Fieber im Bett zu liegen. Zwar kann ich nun wieder ein paar Sachen am Stück machen, aber wirklich auf der Höhe bin ich noch nicht. Also seid ein wenig nachsichtig, wenn sich zu viele Fehler einschleichen sollten.</p>
+
+<p>Ein mindestens ebenso dumme Idee hatte Google in den letzten Wochen: Quasi nebenbei geben sie das <a href="http://www.heise.de/newsticker/meldung/Google-macht-den-RSS-Dienst-Reader-dicht-1822669.html">Ende ihres beliebten Dienstes &ldquo;Google Reader&rdquo; bekannt</a>. Was war der Aufschrei da groß &mdash; mindestens ebenso groß, wie die Lücke, die der Reader angeblich hinterlässt. Dies konnte man an allen Stellen des Internets, in der FAZ (aus Gründen des Leistungsschutrechts <em>nicht</em> verlinkt) und sogar im heiligen <a href="http://www.heise.de/ct/editorial/">c&rsquo;t-Editorial</a> nachlesen!</p>
+
+<p>Merkwürdig aber, dass Google den Dienst wegen mangelnder Nutzung einstellt&hellip;</p>
+
+<!-- more -->
+
+
+<h3>Google und die Journalisten</h3>
+
+<p>Es war kaum möglich, in den sozialen Medien die Einstellung des Google Readers zu verpassen, denn jeder, der ein Schreibwerkzeug (PC, Smartphone, Tablett, Hammer, Meißel und Steintafel) zur Hand hatte, schrieb sofort und vehement gegen Google an. Welches Recht sich auch die Datenkrake da raus nimmt, einen kostenlosen Dienst einzustellen! Wo kämen wir denn da hin, wenn das alle so machen würden?</p>
+
+<p>Klar, der Google Reader lief über Jahre hinweg zuverlässig und kostenlos, keine Frage. Auf Grund der Vormachtstellung des amerikanischen Internetgiganten lässt sich auch von einem Monopol in Sachen RSS-Aggregation sprechen. <em>Aber</em> dies bedeutet keinesfalls, dass Google nicht das Recht hätte, einen Dienst einzustellen, der für sie nicht profitable ist! Denn das ist die andere Seite der Medaille: Mit dem Reader hat Google kein Geld verdient. Dank deutscher <del>Hoch</del>Leistungs<del>schutzrechte</del>gesetze bestand sogar die relative Gefahr, dass Google künftig für die Bereitstellung des Dienstes hätte zahlen müssen! Jeder klar denkende Ökonom hätte die selbe Entscheidung getroffen.</p>
+
+<p>Hand auf&rsquo;s Herz, wer von euch benutzt viel RSS? Ich habe zwar ein paar Seiten, denen ich per RSS regelmäßig folge, aber ihre Anzahl ist so überschaubar, dass ich auch ohne Googles Hilfe diese Seiten gelesen und verfolgt bekomme. So wie mir dürfte es wohl den meisten Menschen gehen, weswegen das laute Medienecho, das der Ankündigung der Einstellung folgte, umso bemerkenswerter ist.</p>
+
+<p>Auf einmal mischten sie sich alle ein: Journalisten und Blogger, die ob Googles Entscheidung mehr als erbost waren und das Ende des Internets <em>wie wir es kennen</em> herbeischrieben. Nett, aber leider vollkommen am Thema vorbei, denn RSS gab es schon vor dem Google Reader &mdash; und es wird auch danach noch sein Nischendasein führen.</p>
+
+<p>Ein sehr gutes Beispiel für diese belustigende Art von Gehirnakrobatik lieferte vor allem <a href="http://www.heise.de/newsticker/meldung/Kommentar-Reader-Einstellung-zerstoert-Vertrauen-in-Google-1822798.html">Jörg Wirtgen in der ansonsten von mir sehr geschätzten c&rsquo;t</a>. Drei Dinge sind mir beim Lesen ins Auge gestochen.</p>
+
+<ol>
+<li><p>Der Vertrauensverlust, der mit der Einstellung eines kostenlosen, aber schon als selbstverständlich angesehenen Dienstes einhergeht, ist gemäß Autor so groß, dass man gleich der ganzen Firma den Rücken kehren und um alle Google-Produkte künftig einen großen Bogen macht könnte. Ich finde diese Reaktion zwar ein klein wenig übertrieben, aber sie ist zumindest eine denkbare Konsequenz. Leider scheint der Autor hier nicht zu Ende gedacht zu haben: Sein &ldquo;<em>nächstes Tablet wird vielleicht doch ein Amazon Kindle</em>&rdquo;! Wow&hellip; Das dem Kindle zu Grunde liegende Android ist zwar kaum mehr als solches zu Erkennen, aber gerade von einem Autor des führenden IT- und Technikmagazins in Deutschland erwarte ich eigentlich, dass er weiß, was sich unter der Haube eines Geräts verbirgt.</p></li>
+<li><p>Ich werde das Gefühl nicht los, dass den Journalisten ihr kostenloses Tool genommen wurde, mit dem sie bisher komfortable ihren Beruf bewältigen konnten, ohne <em>dafür jemals einen cent bezahlt zu haben</em>. Mit anderen Worten: Sie haben Einnahmen auf Grund der Leistung anderer generiert, dem ursprünglichen Dienstleister aber nichts von den Leistungen abgegeben. Wenn also der Bundestag ein Leistungsschutzrecht einführt, um damit vor allem Google zur Kasse zu bitten<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, weil sich der Konzern angeblich schamlos an der Leistung der Verlage bereichere, ist das Okay. Wenn der selbe Konzern aber einen kostenlosen Dienst einstellt, an dem sich andere zuvor ungeniert bereichert haben, ist Google trotzdem wieder böse<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>.</p></li>
+<li><p>Da vor allem Menschen, die Texte produzieren, von der Einstellung des Google Readers betroffen sind, lesen wir auch so viel über das Ende des Dienstes. Immerhin sind hier mal Menschen von einer Negativentwicklung betroffen, die in entsprechender Position sitzen, um sich selbst Gehör zu verschaffen.</p></li>
+</ol>
+
+
+<p>Was die Einstellung des Readers vor allem zeigt: Es ist nie gut, sich ganz auf einen Anbieter zu verlassen. Dabei ist es egal, ob er nun Microsoft, Apple, Google oder sonstwie heißen mag. Alternativlose Abhängigkeit programmiert Enttäuschung quasi vor.</p>
+
+<h3>Alternativen</h3>
+
+<p>Das Internet wäre aber nicht das Internet, wenn es nicht viele Alternativen gäben. So könnte man sich von einem monopolistischen Anbieter zum nächsten hangeln, was aber die Lösung des Problems nur verschieben würde. Denn wer garantiert, dass der nächste Dienst überhaupt so lange erfolgreich ist wie der Reader? Insbesondere in Zeiten der Finanzkrise gehen Firmen und Staaten schneller pleite als ich meine Blogposts schreiben kann.</p>
+
+<p>Eigene Alternativen sind in diesem Punkt wahrscheinlich nachhaltiger. Wer einen eigenen Server unterhält, der oder die hat mit <a href="http://selfoss.aditu.de/">Selfoss</a> und <a href="http://tt-rss.org/">Tiny Tiny RSS</a> gleich zwei Applikationen zur Verfügung, die den Reader komplett ersetzen und sogar für Synchronisation zwischen Rechner, Tablett und Smartphone sorgen.</p>
+
+<p>Selfoss hatte ich kurz auf meinem Pi angetesten, aber die Leistung des kleinen kam schnell an seine Grenzen: Die Aktualisierung der sechs Probefeeds, die ich eingerichtet hatte, war auch nach mehreren Minuten nicht abgeschlossen &mdash; und die ganze Zeit lief der Prozessor auf Volllast. Zum sinnvollen Betrieb von Selfoss hätte ich dies mehrmals die Stunde ausführen müssen, womit der ARM des Raspberry niemals mehr zur Ruhe gekommen wäre. Tiny Tiny RSS soll sogar noch mehr Ressourcen benötigen, so dass ich nicht mal den Versuch wagte.</p>
+
+<p>Schlussendlich habe ich für mich und meine paar Feeds dennoch einen Weg gefunden. Da ich ein Großteil meiner Arbeit auf der Konsole erledige habe ich auf meinem Pi <a href="http://www.newsbeuter.org/">Newsbeuter</a> und <a href="http://elinks.or.cz/">eLinks</a> installiert. Beide Programme sind für die Kommandozeile: Das erste dient als Feedreader, das zweite ist ein CLI-Browser, damit ich auch längere Artikel lesen kann, die nur kurze Teaser zur Verfügung stellen<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>.</p>
+
+<p>Ansteuern kann ich den Reader von überall via ssh, so dass auch eine gewisse &ldquo;Synchronisation&rdquo; gewährleistet ist, auch wenn ich de facto jetzt alle RSS-Feeds auf meinem Pi lese. Dank diverser Terminal-Emulatoren kann ich auch mit Android auf Newsbeuter zugreifen, womit ich mir im Endeffekt eine schlanke, aber meinen Bedürfnissen durchaus gerechte Lösung zusammengestellt habe.</p>
+
+<p>Newsbeuter setzt auf eine sqlite-Datenbank auf, was einige vielleicht abschrecken könnte. Wer sich daran stört, der oder die sollte sich <a href="">Canto</a> anschauen, welches ebenfalls auf der Kommandozeile läuft. Ich habe Newsbeuter den Vorzug gegeben, weil sich für mich die Bedienung &ldquo;intuitiver&rdquo; anfühlte. Mit anderen Worten: Reine Geschmacksgründe haben bei mir den Ausschlag gegeben.</p>
+
+<hr />
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>und natürlich, um Abmahnanwälten weiterhin ein sicheres Grundeinkommen zuzuschustern, weil Blogger ihnen als &ldquo;Kollateralschaden&rdquo; quasi auf dem Präsentierteller serviert  werden.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Hier scheint sich ein wenig die Schlange in den Schwanz zu beißen: Google ist böse, weil es die Leistung der Verlage anzapft und diese in Dienste bereitstellt, die hauptsächlich von Verlagsmitarbeitern genutzt werden, die wiederum Texte produzieren, die von Google ungerechtfertigt weiter verbreitet werden, die vor allem Journalisten lesen und nutzen, um damit Storys zu schreiben, die Google&hellip; Ich glaube, ich versteht, worauf ich hinaus will.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Heise macht dies beispielsweise bei allen Angeboten. Ist schon doof, wenn man sonst nur drei Zeilen des Artikels lesen könnten.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zeiteinteilung [ ZdT #20 ] ]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/27/zeiteinteilung/"/>
+    <updated>2013-03-27T23:03:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/27/zeiteinteilung</id>
+    <content type="html"><![CDATA[<blockquote><p>Tot durch Stillstand?</p><p>Ja, ich weiß, ich hab mich lang&#8217; nicht mehr bewegt!</p><footer><strong>Der Fall Böse</strong> <cite>Spie Mich Aus (2012)</cite></footer></blockquote>
+
+
+<p></p>
+
+<p>Zeit ist etwas, von dem niemand genug haben kann. Immer mehr Projekte wollen betreut werden, doch der Tag will einfach nicht länger werden. Sogar Hobbies können in Stress ausarten, weswegen man sich gut überlegen sollte, in was man seine Energie steckt.</p>
+
+<p>Stoned Golem macht mir viel Spaß, da ich mich hier nach Herzenslust austoben kann. Ob Rant, Rezension, Einblick in mein Leben oder aktueller Zwischenstand: Bisher hat hier alles seinen Platz gefunden, wenn ich mir Zeit genommen habe, meine Ideen in lesbare Posts umzuarbeiten.</p>
+
+<p>Jetzt habe ich neben SG noch zwei weitere Blogs. Einen betreue ich gelegentlich, wenn mir danach ist und sich was nennenswertes in der Hörspielwelt bewegt. Der andere ist mir ebenso eine Herzensangelegenheit wie SG. In meinem neuen Projekt versuche ich mein Englisch zu &ldquo;entrosten&rdquo; und meine Sprachkenntnisse zu reaktivieren.</p>
+
+<p>Wer möchte, kann sich das Resultat auf <a href="http://en.stonedgolem.de">en.stonedgolem.de</a> ansehen und einen Kommentar hinterlassen. Aber ich will im Grund keine Werbung für das neue Projekt machen, sondern mich eher hier entschuldigen. Die Schlagzahl an Posts wird definitiv abnehmen, da ich meine Zeit jetzt auf zwei Blogs aufteilen muss. Hinzu kommt noch, dass ein Post in Englisch ein klein wenig mehr Zeit erfordert als einer, den ich schnell in Deutsch &ldquo;dahinrotzen&rdquo; kann.</p>
+
+<p>Damit mir nicht langweilig wird werde ich auch zusehen, dass sich die Themen auf beiden Blogs nicht zu sehr überschneiden. Auf jeden Fall will ich keine eins zu eins Übersetzungen anfertigen. <em>Das</em> würde mich wirklich langweilen.</p>
+
+<p>Es bleibt also alles in Bewegung und damit spannend.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Introducing: The Humble Mobile Bundle]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/26/introducing-the-humble-mobile-bundle/"/>
+    <updated>2013-03-26T22:23:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/26/introducing-the-humble-mobile-bundle</id>
+    <content type="html"><![CDATA[<p>Eine schnelle Nachricht: Es gibt ein neues Humble Bundle!</p>
+
+<p><a href="http://www.humblebundle.com"><img class="center" src="stonedgolem.github.io/images/humble_mobile_bundle.png" title="The Humble Mobile Bundle" ></a></p>
+
+<p>Wie schon mit dem Music, dem eBook und dem THQ-Bundle geht das bekannte Projekt mit der aktuellen Veröffentlichung neue Wege: Zum ersten Mal gibt es keine Portierungen für Windows, Linux oder Mac! Ausschließlich Android-Games werden ausgeliefert. Diese scheinen aber auf dem ersten Blick ihr Geld mehr als Wert zu sein.</p>
+
+<p>Folgende Games sind enthalten:</p>
+
+<ul>
+<li>Anomaly: Korea</li>
+<li>The Room</li>
+<li>Metal Slug 3 ( * )</li>
+<li>Plants vs. Zombies</li>
+<li>Contre Jour</li>
+<li>Bladeslinger ( * )</li>
+</ul>
+
+
+<p>Die mit einem ( * ) markierten Spiele gibt es nur, wenn man gewillt ist, mehr als den Durchschnitt zu zahlen, der derzeit bei $5.53 liegt. Soviel kostet Anomaly: Korea fast alleine auf Google Play. Und als Bonus liegen bis auf Contre Jour alle Soundtracks der Spiele bei! Value for money also, denn bisher gab es <strong>keines der Spiele</strong> in einem vorherigen Bundle!</p>
+
+<p>Interessant finde ich, dass die Bundle-Macher derzeit verstärkt auf Android zu setzten scheinen, immerhin war das letzte Bundle auch ein &ldquo;Android-Bundle&rdquo;. Mal sehen, wie sich das in Zukunft entwickelt.</p>
+
+<p>Ich überlege mir jetzt erstmal, welches der Games ich auf meinem Nexus 7 die nächsten Stunden über zocken werde.</p>
+
+<p>Happy Gaming!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Umzug vollzogen]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/26/umzug-vollzogen/"/>
+    <updated>2013-03-26T19:46:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/26/umzug-vollzogen</id>
+    <content type="html"><![CDATA[<h3>tl;dr</h3>
+
+<ol>
+<li><p>Der Umzug ist vollzogen und die URLs werden geändert</p></li>
+<li><p>Umzug bedingt einige Fehler im neuen Code</p></li>
+<li><p>Ab heute geht es statisch weiter</p></li>
+</ol>
+
+
+<hr />
+
+<p>Der Umzug ist vollzogen. Auch die alten Posts von WordPress haben in der Zwischenzeit hier ein neue Heimat gefunden. Zeit also, den letzten Schritt zu gehen und <em>Stoned Golem</em> komplett auf statisch umzustellen</p>
+
+<!-- more -->
+
+
+<p>Zwei Tage hat es von den ersten Gehversuchen mit OctoPress bis zur kompletten Umstellung gedauert. Wenn du das hier siehst und dich wunderst, dass sich <em>Stoned Golem</em> stark verändert hat, dann fasse ich die letzten Tagen nochmal kurz zusammen.</p>
+
+<p>Nachdem ich ein &ldquo;memory limit&rdquo; durch PHP Plugins in WordPress erfahren habe, habe ich mich für einen Umzug entschieden. Da ich schon länger mit dem   Gedanken gespielt habe, mir einen statischen Blog zuzulegen, war dies die passende Initialzündung. Nach einigem Suchen viel die Entscheidung auf OctoPress, welches mir im Zusammenhang mit github gleich eine Plattform bot, meine Post zu veröffentlichen.</p>
+
+<p>Ausgestattet mit einem sehr rudimentären Verständnis von HTML, aber mit viel Enthusiasmus habe ich mich ans Umsetzen meiner Vorstellungen gemacht. Schnell war ein Template gefunden, welches mir zusagte, die ersten elementaren Funktionen (flattr) wurden integriert, neues Impressum und neue Datenschutzbestimmungen wurden gesetzt. Letztere wurden nötig, weil ich hier inzwischen auch Google Plus, Twitter und in nächster Zukunft auch Google Analytics einsetze. Leider, wie ich sagen muss. Aber mir bleibt keine andere Möglichkeit mehr, wenn ich sehen möchte, ob überhaupt jemand hier liest, was ich schreibe.</p>
+
+<p>Der dynamische Blog ist nicht aus der Welt, sondern nur verschoben: Für eine gewisse Übergangszeit wird es noch unter <a href="http://wordpress.stonedgolem.de">wordpress.stonedgolem.de</a> erreichbar sein. Wie lange ich diese Installation noch aufrecht erhalte, vermag ich nicht zusagen. Irgendwann wird es aber verschwinden, spätestens dann, wenn ich alle Posts hier durchgeschaut und überarbeitet habe. Das aber noch seine Zeit brachen, denn es hat sich eine stattliche Anzahl an Beiträgen gesammelt.</p>
+
+<p>Vor allem Bilder können mit dem Umzug verschwunden sein. Zumindest jene, die ich bei WordPress direkt hochgeladen habe werden wahrscheinlich nicht mehr angezeigt werden. Bilder, die extern auf Picasa/Google verweisen, sollten nicht betroffen sein. Ein schneller Blick über die alten Posts hat ergeben, dass ich mit den Formatierungen ansonsten im Großen und Ganzen zufrieden bin. Da ich aber nur ungefähr 30 Beiträge oberflächlich angesehen habe gehe ich davon aus, dass noch eine ganze Menge verbugt ist. In einer ruhigen Minute werde ich mir das mal genauer anschauen.</p>
+
+<p>Ansonsten freue ich mich tierisch, dass hier wieder Normalität einkehrt und ich mich in Zukunft eher auf&rsquo;s Schreiben von Posts als auf&rsquo;s Basteln am Template konzentrieren kann.</p>
+
+<p>Wer möchte, kann mir eine Email schreiben und mir mitteilen, wie das neue Konzept gefällt. Auch bin ich weiterhin über Twitter und Google Plus erreichbar.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Der erste Tag mit OctoPress]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/25/der-erste-tag-mit-octopress/"/>
+    <updated>2013-03-25T22:11:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/25/der-erste-tag-mit-octopress</id>
+    <content type="html"><![CDATA[<h3>tl;dr</h3>
+
+<ol>
+<li><p>Umstellung gelungen</p>
+
+<p> Die Umstellung ist gelungen und ich bin mit dem Ergenbnis zufrieden; jetzt stehen Umzugsarbeiten um.</p></li>
+<li><p>Neuerungen im Bezug auf die Nutzung von Octopress</p>
+
+<p> <strong>tl;dr</strong> wird jetzt immer zur Einleitung benutzt. Ebenso wird wohl Google Analytics demnächst hier eingesetzt werden.</p></li>
+<li><p>Details zum Umzug</p>
+
+<p> Die dynmische und statische Version von Stoned Golem werden demnächst die URLs tauschen, aber beide bleiben online. Vorerst.</p></li>
+</ol>
+
+
+<hr />
+
+<p>Es ist vollbracht. OctoPress läuft, das Template gefällt und der Blog steht. Zwar klaffen noch viele Lücken und ich muss noch die alten Posts überführen, aber es scheint, als könnte ich WordPress demnächst dicht machen. Aber wie stelle ich das am Geschicktesten an? Und welche Zukunft sehe ich für dieses Blog?</p>
+
+<!-- more -->
+
+
+<h3>Der Tag in der Retrospektive</h3>
+
+<p>Nach einem Tag basteln kann ich folgendes Fazit ziehen: WordPress ist schneller zu konfigurieren. Kenntnisse in den Sprachen des Webs (html, css, php etc. pp.) sind beim großen Monster nicht nötig. Funktionen können schnell durch kleine Plugins ergänzt werden, Themes sind in Hülle und Fülle verhanden. Die Zahl der Plugins ist Legion, aber ihre Nutzung hat dagegen einen hohen Preis, denn jedes Plugin siedelt sich im RAM des Servers ein. So lange, bis das Limit erreicht ist. Und dann funktioniert die Website einfach nicht mehr. Als ich mit <em>Stoned Golem</em> in die Memory-Falle gelaufen bin, gingen sprichwörtlich die Lichter aus: Ein Einloggen in den Admin-Bereich war nicht mehr möglich. Folglich konnte ich auch das eine Plugin, dass ich zu viel installiert habe, nicht mehr löschen.</p>
+
+<p>Zum Glück versuche ich immer sparsam mit meinen Ressourcen umzugehen, so dass ich noch Luft nach oben hatte und das Limit erhöhen konnte. Auch wenn ich glimpflich davon gekommen bin, so habe ich dennoch meine Lektion gelernt. Ansonsten würde ich jetzt nicht hier mit OctoPress schreiben.</p>
+
+<p>Wie gesagt und wie es zu erwarten gewesen war, ist WordPress in der Benutzung um einige Potenzen einfacher. Im Prinzip dauert es nicht sehr lange, bis WordPress produktiv genutzt werden kann, dementsprechend sind auch schnell die Post beisammen. Die Einfachheit ist es aber auch, die vom Schreiben ablenken kann, denn neue Plugins sind immer nur einen Klick entfernt. Wenn die Schreibe stockt, dann verliert man sich schnell in den unzähligen Möglichkeiten, die WordPress bietet.</p>
+
+<p>Diese Stunden des Spielens standen nun zumindest bei mir am Anfang der OctoPress Nutzung. Einiges habe ich ja schon umsetzen könne &mdash; und auch bei der noch offenen Frage der Kommentare bin ich schon einen Schritt weiter. Die Funktion steht im Grund, nur leider ist es mir bisher nicht möglich gewesen, dies auch noch in <em>schön</em> zu gestalten. An dieser Stelle machten sich meine Unkenntnisse der Websprachen zu deutlich bemerkbar.</p>
+
+<p>Andere Punkte wie die <a href="www.flattr.com">Flattr</a>-Integration konnte ich mir mit meinen Kenntnissen noch zusammenkopieren und in lauffähigen Code umwandeln. Ich muss zugeben, ich bin schon ein klein wenig Stolz auf mich. Auch im Template habe ich ein wenig rumgebastelt und insgesamt bin ich zufrieden mit dem Ergebnis. Das Blog sieht einfach schon aus: Funktional und doch ausgelegt für Bleiwüste. Das klingt nach mir.</p>
+
+<h3>Die Zukunft von Stoned Golem</h3>
+
+<p>Ich denke, ich werde bei statischen Seiten bleiben. Es gefällt mir einfach besser, meine Posts in einem Editor mit Auszeichnungssprache zu schreiben als in einem dynamischen WYSIWYG-Dingsbums, das die Schrift klein rendert und bei dem ich immer wieder zum HTML-Editor wechseln muss, weil irgendwelche kryptische Artefakte sich im WYSIWYG Bereich zwar erstellen, aber nicht wieder entfernen lassen. Da bin ich mit dem Editor meiner Wahl besser bedient und muss mich weniger mit der Formatierung rumärgern.</p>
+
+<p>Durch die schleichende Umstellung auf statische Seiten wird sich vieles ändern. Kommentare fliegen vorerst raus, da bin ich mir schon ziemlich sicher. Wer mich Kontaktieren möchte, der oder die kann mir eine Email schreiben. Auch bin ich in den sozialen Netzwerken <a href="plus.google.com">Google Plus</a> und <a href="twitter.com">Twitter</a> aktiv und dort erreichbar. Ein Update zu meinem Post kann ich immer noch schreiben, wenn ich vollkommen falsch liegen sollte oder mich die Ereignisse schlichtweg überholt haben. Und natürlich besteht weiterhin die Option, dass ich bei Bedarf doch wieder auf eine Kommentarfunktion zurückgreife. Ich weiß zu wenig über <a href="www.disqus.com">Disqus</a>, als dass ich ad hoc sagen könnte, wie <em>schlimm</em> es wirklich ist.</p>
+
+<p>Allerdings werde ich etwas ändern in der Art, wie ich meine Post aufarbeite. In Zukunft werde ich immer ein <strong>tl;dr</strong> (<a href="http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read">too long, didn&rsquo;t read</a>) einfügen, gefolgt von einer kleinen Einleitung, die maximal ein bis zwei Absätze lang sein soll. Da ich auch zu denen gehöre, die lieber mehr sagen, als eigentlich nötig wäre, ist dies eine gute Übung für mich, mich auf das wesentliche zu fokussieren. Für die Leser * innen hat das den angenehmen Effekt, dass sie schon auf der Startseite sehen können, ob sie der Post interessiert oder nicht. Außerdem wird die Startseite mit dieser Taktik nicht zu lang. Ich mag es einfach persönlich nicht, wenn ich bei Google etwas finde, auf eine Seite weitergeleitet werde, mir einen Wolf scrolle und dann das Gesuchte dort nicht finde, weil es aktualisiert wurde. Muss meiner Meinung nach nicht sein.</p>
+
+<h3>Was steht an</h3>
+
+<p>Ich muss die alten Artikel aus dem Wordpress extrahieren, in Markdown umwandeln und dann durchschauen, ob dabei irgendwas fürchterlich schief gegangen ist. Dies wird ein wenig dauern, deswegen werde ich den dynamischen Blog noch eine Weile online lassen, ihn allerdings auf eine neue Subdomain legen. Mit anderen Worten: Ich tausche die beiden Seiten einfach aus, lasse aber beide noch online.</p>
+
+<p>Neben den neuen Kommentare muss ich auf der statischen Seite noch einige der &ldquo;pages&rdquo; wie About und Impressum überarbeiten. About gibt es momentan gar nicht, aber ich habe schon eine schöne Idee, wie ich das angehen kann. Da diese Seite jetzt bei <a href="www.github.com">github</a> liegt, habe ich derzeit überhaupt keinen Zugriff auf irgendwelche Zugriffsdaten, weswegen ich wohl oder über auf <a href="http://www.google.com/analytics/">Google Analytics</a> zurückgreifen werde. Ist nicht toll, aber naja. Sobald ich aber meinen Disclaimer entsprechend geändert habe, werde ich es wohl auch umsetzen.</p>
+
+<p>Leider kann ich die neue Website nicht auf meinem aktuellen Webspace hosten. Okay, ich könnte, es wäre mir aber zu aufwendig. Da ich keinen ssh-Zugriff auf die Server habe, kann ich nicht mit git arbeiten. Im Endeffekt würde ich also alles bei github hosten und erstellen und müsste dann manuell die erstellten Seiten per ftp auf meinen Webspace kopieren. Kurz gesagt: Erhöhter Aufwand dafür, dass der Blog doppelt im Netz vorhanden ist. Da kann ich auf einfach das Angebot von github direkt nutzen.</p>
+
+<p>Welche Aufgabe der angemietete Webspace in Zukunft haben wird, weiß ich noch nicht genau, aber mir wird schon was einfallen. Er ist weder teuer noch leistungsstark, wie man unschwer am erreichten memory limit von Stoned Golem erkennen kann &mdash; aber er bietet ein paar Funktionen, die ich angenehm finde, weil ich auch irgendwo faul bin. Also bleibt er vorerst bestehen. Und ganz ehrlich: Ich denke, es wird sich schon eine Verwendung finden lassen.</p>
+
+<p>Da mir gerade nicht mehr einfällt und es noch viele, viele Baustellen gibt, die ich bearbeiten muss, sollte dies als Zwischenstand reichen.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Und wieder ein Punkt auf meiner Liste weniger]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger/"/>
+    <updated>2013-03-25T16:15:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger</id>
+    <content type="html"><![CDATA[<p>Und wieder gibt es nette Neuigkeiten zu verkünden. Meine Liste der zu erledigenden Dinge ist sage und schreibe zwei Punkte kürzer geworden. Das Arbeiten von mehreren Rechnern aus ist nun möglich und <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">dank diesem Post hier</a> hat auch der Geisteswissenschaftler in mir verstanden, wie genau ich das zu bewerkstelligen habe. Wenn ich jetzt nicht immer noch die letzten Kommandos vergessen würde, dann würde ich auch schneller ans Ziel kommen. Aber man kann ja bekanntlich nicht alles haben.</p>
+
+<p>Und wer will schon Schokolade <em>und</em> Eis, oder?!</p>
+
+<!-- more -->
+
+
+<p>Leider verhält es sich so auch mit Kategorien und Tags, die wie bei Blogger in einem Punkt zusammengefasst sind. Eine schöne Trennung der beiden Punkte wie bei WordPress scheint es nicht zu geben. Macht nichts, dann muss ich mir halt vorher sehr genau meine Kategorien überlegen. Es gibt schlimmeres. Dafür gefällt mir die Arbeitsweise hier sehr gut.</p>
+
+<p>Schließlich kann man doch nicht auch noch <strong>Kokosstreussel</strong> auf seinem Schokoladeneis erwarten&hellip;</p>
+
+<p>Bleiben also noch die Frage der Kommentare offen. Ich weiß nicht, wie schnell ich das geregelt bekomme und ob überhaupt. Ich habe einen Ansatzpunkt, aber dafür bräuchte ich wahrscheinlich ein klein wenig mehr Informatikwissen, als ich im Moment habe.</p>
+
+<p>Aber hey, sehen wir es mal positiv: Wir haben hier einen Geisteswissenschaftler, der es alleine schaffte, sich mit git, octopress und github einen statischen Blog zu bauen. Ich bin begeistert :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ein Anfang ist gemacht]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht/"/>
+    <updated>2013-03-25T15:37:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht</id>
+    <content type="html"><![CDATA[<p>So, der Anfang ist gemacht und die ersten Fragen beginnen sich zu formen</p>
+
+<ul>
+<li>Wie integriere ich <em>tags</em>?</li>
+</ul>
+
+
+<p>Im Output der Website steht zwar etwas davon, aber ich finde derzeit keine Lösung, wie ich sie umsetzen soll.</p>
+
+<ul>
+<li>Wie integriere ich am besten Kommentare?</li>
+</ul>
+
+
+<p>Ich hab zwar <a href="https://blog.caurea.org/2012/03/31/this-blog-has-comments-again.html">hier eine Lösung</a> gefunden, aber ich bin ja ein kleiner unbedarfter Honk, deswegen habe ich den Autoren eine Mail geschrieben und bin gespannt, ob ich eine Antwort bekomme.</p>
+
+<ul>
+<li>Auch die Frage nach der Multirechnernutzung ist noch offen.</li>
+</ul>
+
+
+<p>Aber ich denke, dass sind alles Startprobleme. Immerhin ist dies ein für mich vollkommen neues System und ich denke, da sind ein, zwei Tage Einarbeitsungszeit ein vergleichsweise kleines Opfer.</p>
+
+<p>Außerdem kann ich die Ablenkung gerade gut gebrauchen. Und da ich mir nicht nur den Kopf zerbrechen sollte, dachte ich, ich schreibe mal schnell einen kleinen Update-Post</p>
+
+<h3>Memo an mich selbst:</h3>
+
+<p>Ich sollte die Rechtschreibprüfung in vim aktivieren. Könnte sich in Zukunft auszahlen, wenn der Editor jetzt auch noch meine Websites macht.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[PHP nervt ...]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/25/php-nervt/"/>
+    <updated>2013-03-25T14:17:28+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/25/php-nervt</id>
+    <content type="html"><![CDATA[<p>Dies ist ein kleines Blog, das vor allem Buchstaben über den Äther schubst. Keine großen Ansprüche, wenig Besucher, kaum Aufwand und Anforderung. Aber das Dynamische Trio WordPress/MySQL/PHP belegt auf dem Server derzeit soviel Platz im RAM, dass mir sogar schon das Backend verschlossen bleibt. Ich hab zwar jetzt das PHP memory_limit erhöht, aber auf Dauer sehe ich es nicht ein, so viele Ressourcen für ein wenig Palaver zu verbraten.</p>
+
+<p>Ich bin schon länger am Überlegen, ob ich nicht auf statische Weblogs umsteigen sollte. Gründe dafür gibt es viele: Weniger Ressourcen, die verschwendet werden sowie <a href="http://de.wikipedia.org/wiki/Markdown">Markdown</a> und <a href="www.vim.org">vim</a> zum editieren der Einträge und damit auch kein webbasiertes Backend. Eine git-Unterstützung wäre dann noch das nonplusultra. Im Gegenzug würden die Kommentare vorerst wegfallen, da ich nicht auf proprietäre Lösungen wie Disqus setzten möchte. Aber so wenig, wie hier los ist, wär das auch kein großer Verlust. Denke ich mir gerade und bleibe bei der Meinung, so lange niemand laut widerspricht.</p>
+
+<p>Ideen, welche System zum Einsatz kommen könnten, gab es viele: <a href="ikiwiki.info">Ikiwiki</a>, <a href="https://github.com/an0/Letterpress">LetterPress CMS</a>, <a href="getkirby.com">Kirby</a>, <a href="https://github.com/mojombo/jekyll">Jekyll</a>, <a href="http://docs.getpelican.com/en/3.1.1/">Pelican</a>&hellip; Kirby hat mich zwar auf den Geschmack von statischen Seiten gebracht, flog aber raus, da es ein proprietäres System ist. Ikiwiki finde ich zwar im Handling sehr geil, aber die Dokumentation der Nutzung als Blog lässt sehr zu wünschen übrig. Das Ergebnis gefällt mir derzeit noch nicht so sehr, weswegen ich lieber etwas nehme, das von Haus aus als Blog gedacht ist. LetterPress ist noch ziemlich jung, wird aber momentan von mir beobachtet. Pelican scheint nett zu sein, aber irgendwie&hellip; ich weiß auch nicht.</p>
+
+<p>And the winner is: <a href="http://octopress.org/">OctoPress</a>. Läuft zwar auf Ruby, aber ich habe mich im Zusammenhang mit tent schon sehr damit beschäftigt. Dafür ist das System schon recht weit vorgeschritten, die Unterstützung scheint zu stimmen und die Anpassungen, die mir vorschweben, scheinen damit möglich zu sein. Darüber hinaus kann ich die Seite erstmal kostenlos auf github hosten, um zu schauen, ob sich der Workflow gut anfühlt.  Denn so lange ich mir nicht hunderprozentig sicher bin, wohin die Reise gehen soll, wird erstmal WP an dieser Stelle weiterhin seinen Dienst tun.</p>
+
+<p>Inzwischen ist Octotpress sogar eingerichtet und ich experimentiere momentan mit einer <a href="http://stonedgolem.github.com">statischen Version von Stoned Golem</a>. Wer mag, kann einen Blick riskieren. Inhalte folgen in den nächsten Stunden. Hoffe ich.</p>
+
+<p>&mdash;- <strong>Update</strong></p>
+
+<p>Die ersten Gehversuche mit dem statischen Post sehen schon ganz gut aus. Allerdings habe ich bisher nur Zugriff von einem Rechner aus. Das muss sich schnellstmöglich ändern :)</p>
+
+<p><strong>tl;dr</strong></p>
+
+<p><em>Das Dynamische Trio (aka DDT) WordPress/MySQL/PHP nervt und verbrät zu viele Ressourcen</em></p>
+
+<p><em>Statisches Weblog mit OctoPress und GitHub als Alternative eingerichtet. URL: <a href="stonedgolem.github.com">stonedgolem.github.com</a></em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ein wichtiger Post]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/25/ein-wichitiger/"/>
+    <updated>2013-03-25T13:36:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/25/ein-wichitiger</id>
+    <content type="html"><![CDATA[<p>Dieser Post ist wichtig, denn ich muss schauen, ob ich auch auf anderen Rechnern an das Repository komme. Und vor allem: Wie! Denn eine <em>Ein-Rechner-Lösung</em> ist für den mordernen homo mobilius keine Lösung mehr.</p>
+
+<p>Wünscht mir also Glück, dass es vielleicht hinaut. Man kann ja nie wissen.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Neues Hörbuch bei MDR Sputnik]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik/"/>
+    <updated>2013-03-24T16:54:59+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik</id>
+    <content type="html"><![CDATA[<p>Ich habe mich in letzter Zeit viel mit Hörspielen beschäftigt. Wie man sie am besten selber Aufzeichnen kann. Wie es in der Szene insgesamt so steht, da ich sie seit 2009 nicht mehr aktiv verfolgt habe. Wo man sie legal downloaden kann. Bei diesen Recherchen bin ich (wieder) auf MDR SPUTNIK aufmerksam geworden: SPUTNIK ist die digitale Ausgabe des MDR, die mit dem Hörerlebnis in regelmäßigen Abständen Hörbücher als kostenlosen Podcast bringt.</p>
+
+<p>Der aktuelle Podcast trägt den vielversprechenden Titel <em>&ldquo;<a href="http://www.sputnik.de/hoererlebnis">Abserviert &ndash; mein Leben als Humankapital</a>&rdquo;</em>, geschrieben von <a href="http://de.wikipedia.org/wiki/Iain_Levison">Iain Levison</a>. Der Autor sagt mir zwar nichts, aber ich kann ja auch nicht alles kennen. Auf Grund meiner aktuellen, privaten Lebenssituation kann ich mich dem Reiz dieses Titels nicht entziehen und werde dem Hörbuch mal eine ausgedehntere Chance geben.</p>
+
+<p>Normalerweise denke ich mir in diesen Fällen, ich sollte das Fundstück erstmal hören und bewerten bevor ich es in die Welt hinausposaune. Aber ich kenne mich auch und die Rezension könnte ein wenig auf sich warten lassen. Und deswegen poste ich erstmal die Links, auch wenn jemand die Sachen schon kennen sollte. Lieber einmal zuviel auf etwas hingewiesen werden also es zu verpassen. Oder wie seht ihr das?</p>
+
+<p>Denn zu spät kommt man in dieser schnelllebigen Welt leider schon viel zu oft.</p>
+
+<hr />
+
+<p><strong>tl;dr</strong></p>
+
+<p><strong>Kostenloser Download</strong></p>
+
+<p>Das Hörbuch &ldquo;<a href="http://www.sputnik.de/hoererlebnis">Abserviert &ndash; mein Leben als Humankapital</a>&rdquo; als kostenloser Podcast bei MDR SPUTNIK</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gedanken zum Sprachgebrauch]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/18/gedanken-zum-sprachgebrauch/"/>
+    <updated>2013-03-18T12:32:24+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/18/gedanken-zum-sprachgebrauch</id>
+    <content type="html"><![CDATA[<p>Wir leben in einer männlich dominierten Gesellschaft und sind es uns meistens nicht einmal bewusst. Wenn wir selber Angehöriger des privilegierten Teils sind fällt es uns schwer, die Diskriminierung als solche überhaupt wahrzunehmen: Die verantwortlichen Prozesse wirken zumeist auf subtile Art, weswegen sie oftmals nicht nur schwer zu erkennen sondern auch schwer zu benennen sind. Erklärungskonstrukte, die auf gesellschaftliches Fehlverhalten hinweisen und es analysieren möchten, werden auf Grund ihres konstruierten Charakters als lächerlich abgewiesen. Sollte sich die Diskussion damit nicht abwürgen lassen, geht es ins persönliche: &ldquo;Es sind ja nur die hässlichen Weiber, die den Emanzenquatsch wieder aufwärmen.&rdquo; Als wenn Schönheit irgendeine Relevanz für Diskussionsverhalten und argumentative Fähigkeiten hätte. Ein Blick in den Kommentarbereich von Spiegel Online reicht, um diese und ähnliche Aussagen in ausreichender Stückzahl zu finden. Die männliche Dominanz rottet sich gerne zusammen, um sich selbst zu verteidigen.</p>
+
+<p>Aktuell ist das Thema groß in den Medien: Vergewaltigungen in Indien und ausgefüllte Dirndl in Deutschland. Schnell kommt aus männlicher Richtung der Vorwurf, der lokale #aufschrei wäre ein Luxusproblem der hiesigen Damen. Im Vergleich zu Indien brauchen sie sich doch gar nicht beschweren. Argumentationsmuster dieser Art zeigen deutlich, wie wenig Empathie auf männlicher Seite für das Anliegen des anderen Geschlechts vorhanden ist.</p>
+
+<p>Andere Gruppen ((und damit meine ich die Piraten!)) versuchen die Diskussion zu umschiffen, indem sie die Gegenwart verklären. &ldquo;Geschlecht ist doch voll 80ziger und wir sind doch alle so post-gender.&rdquo; Klar, deswegen sind Spitzenpositionen überproportinonal männlich besetzt und deswegen verdienen Frauen im Schnitt auch weniger als ihre Kollegen. Alles, weil wir alle so toll gleichberechtigt sind.</p>
+
+<p>Wir sind alle keine Heilige und der Großteil wird es auch nie werden. Aber bedeutet das im Umkehrschluss, dass wir uns einen Scheiß um unsere Mitmenschen kümmern müssen? Aus diesem Grund versucht dieses Blog eine geschlechtssensible Sprache zu verwenden. Ich nutze die &ldquo;*innen&rdquo; Form zum gendern, weil ich es schön finde. Aber ich gender nicht immer. Oftmals vergesse ich es schlichtweg. Man könnte mich dafür kritisieren, aber auch ich bin in der Welt verfangen, die mich umgibt. Ich versuche es wenigstens. Und je öfter ich es mache, desto selbstverständlicher wird es für mich. Je selbstverständlicher es für mich wird, desto weniger werde ich es vergessen.</p>
+
+<p>Also, liebe Leser*innen, es ist alles eine Frage der Übung. Auch das lesen fällt mit der Zeit leichter, wenn man daran gewöhnt ist.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Frauen und was sie sich alles gefallen zu lassen haben! [ZdT #19]]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/18/frauen-und-was-sie-sich-alles-gefallen-zu-lassen-haben-zdt-19/"/>
+    <updated>2013-03-18T11:41:37+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/18/frauen-und-was-sie-sich-alles-gefallen-zu-lassen-haben-zdt-19</id>
+    <content type="html"><![CDATA[<blockquote><p>&ldquo;Besonders umstritten bei den zähen Debatten über den Abschlusstext war eine Formulierung, wonach Gewalt gegen Frauen nicht durch Sitten, Traditionen oder religiöse Ansichten gerechtfertigt werden kann. Muslimische Länder wie der Iran, Libyen und der Sudan, aber auch Russland und der Vatikan hatten sich für eine schwächere Wortwahl eingesetzt[.]&rdquo;</p></blockquote>
+
+<p>(Artikel &ldquo;Ohne Ausnahme, ohne Ausrede&rdquo; aus der taz vom 18. März 2013, Seite 2.)</p>
+
+<!-- more -->
+
+
+<p>In Indien wurde am Wochenende eine Schweizer Touristin vor den Augen ihre Mannes vergewaltigt. Die Region, in der die Tat verübt wurde, befindet sich in der Nähe des weltberühmten Tadsch Mahal und hat laut taz ein Geschlechterverhältnis von 1000 zu 85. Als Reaktion auf dieses Verbrechen sollte in der UNO eine Resolution verabschiedet werden, die Gewalt gegen Frauen generell ächtet und mögliche Begründungen von Vorne herein ausschließt, damit sich niemand mehr herausreden kann: &ldquo;Ja, Gewalt gegen Frauen ist böse. Aber wir haben das ja schon immer gemacht und bisher haben sich die Dinger auch nicht beschwert. Also ist es wohl okay, wenn wir es auch weiterhin machen.&rdquo; Ausreden dieser Art wären dann nicht mehr möglich.</p>
+
+<p>Interessant an der Meldung ist vor allem, wer sich nicht für eine generelle Absage an patriarchalischer Gewaltausübung durchringen konnte: Islamische Länder, Russland und der Vatikan. Ich bin mir sicher, dass wird bei nicht wenigen <em>Deutschen</em> zu gut dokumentierbarer Schizophrenie führen, da schnell mit der rassischtisen Keule um sich geschlagen werden wird: &ldquo;Die Islamisten waren schon immer so. Die konnten ja noch nie mit Frauen. Ein Grund mehr, diese terroristische Religion in &lsquo;<em>Schland </em>zu verbieten, &rdquo; wird es an ungezählten Stammtischen dieser Welt tönen, seien sie nun physikalisch existent oder binär virtuell.</p>
+
+<p>Ist das eigene Weltbild erstmal unreflektiert bestätigt, ist es auch egal, dass die anderen beiden Schuldigen unter den Tisch gefallen lassen wurden. Ist auch besser sie nicht zu nennen, denn sie könnten die Stammtische in ernsthafte argumentative Bedrängnis bringen!</p>
+
+<p>Fangen wir mit Russland an. Lupenreine Demokratie unter Diktator, Zar, <em>Präsident</em> Wladimir I. und östlichster Zipfel unseres Kontinents. Reicht bis nach Asien und ist bekannt für Ausschreitungen gegen Minderheiten. Für freie Meinungsäußerung gibt es hier auch schon mal zwei Jahre Strafarbeit. Das wird aber von uns fleißig toleriert, weil uns viel am russischen Gas an der russischen Freundschaft gelegen ist. So lange <em>die</em> also Rohstoffe haben, die <em>wir</em> wollen, genießen sie Narrenfreiheit. Und sollte Schröders Gazprom irgendwann mal nicht mehr liefern, dann können wir alles nochmal neu verhandeln und gegebenenfalls unsere Ausrichtung überdenken. Dank dem schmutzabweisenden <em>Merkel-Effekt </em>wird nichts an uns hängen bleiben. Auch nicht die tolerierten Menschenrechtsverletzungen im demokratischen Musterland. Im Zweifelsfall gehört <em>der Russe</em> halt nicht zu Europa.</p>
+
+<p>Apropos Zugehörigkeit. Erinnert sich noch jemand an die Abwehrfeuer, als Christian Wulff ((er möge seine aus unserer Steuer finanzierte, lebenslange und bedingungslose Grundsicherung selig haben!)) die Zugehörigkeit des Islams zu Deutschland proklamierte? Damals war viel über die christliche Tradition zu lesen, die dieses Land so maßgeblich und über Jahrhunderte hinweg geprägt hat. Im Sinne des Leitkulturgedankens war damit ein weiterer Einfluss neben dem dominanten vollkommen ausgeschlossen. Die CSU hat ihr Revier erneut dem Christentum markiert und die Diskussion beendet.</p>
+
+<p>Also ich das letzte Mal fern sah, war gerade zufälliger Weise der Beginn des Konklaves. Ach, was würde viel über die christliche Tradition und die immense Bedeutung des Vatikans für die Christenheit schwadroniert. Der selbe Vatikan übrigens, der es nicht cool findet, wenn Frauen nirgends mehr ungestraft geschlagen werden dürfen. Mann muss hier doch auch an die Tradition denken und sie achten. Wenn es mal wieder nötig werden sollte, Hexen zu verbrennen, ist es ganz gut, sich zuvor <em>nicht </em>gegen Gewalt gegen Frauen ausgesprochen zu haben. Das bringt einen sonst in Erklärungsnot.</p>
+
+<p>Dies ist also elementarer Bestandteil von Deutschland. Zumindest solange, wie ein Argument gegen den Islam gebraucht wird. Aber das mit den Frauen&hellip; Mann muss ja nicht jeden Tradition auf Punkt und Komma einhalten. &ldquo;<a href="http://www.funnyordie.com/videos/c0cf508ff8/prop-8-the-musical-starring-jack-black-john-c-reilly-and-many-more-from-fod-team-jack-black-craig-robinson-john-c-reilly-and-rashida-jones">Pick and choose</a>&rdquo; ist auch nicht erst seit gestern ein Bestandteil des Mehrheitschristentums.</p>
+
+<p>Hier manifestiert sich eine bittere Tragik: Die Vergewaltigungen in Indien zeigen das Ausmaß und die hässlichsten Auswüchse von Patriarchat und sexueller Diskriminierung. Die Haltung des Vatikans als ein Stellvertreter der von uns viel beschworenen christlichen Tradition offenbart, wie fest männliche Dominanz noch in unseren Köpfen verwurzelt ist: Es ist Vertretern dieser Tradition nicht einmal möglich, Gewalt gegen Frauen global, pauschal und ausnahmslos zu verdammen.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Unerwarteter Schneefall im Winter.]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/18/unerwarteter-schneefall-im-winter/"/>
+    <updated>2013-03-18T10:16:31+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/18/unerwarteter-schneefall-im-winter</id>
+    <content type="html"><![CDATA[<p>Hamburg (sgna &ndash; stoned golem news agency)</p>
+
+<p>Die heimliche Bundeshauptstadt Hamburg versank in der Nacht auf Montag unter einer mehrere Zentimeter messenden Schicht Neuschnee. Der absolut unerwartete und heftige Schneefall bescherte Hamburger S-Bahn Fahrer*Innen Berliner Verhältnisse und sorgte für Verspätungen, wie man sie sonst nur vom BER-Hauptstadtflughafen kennt. Der Winterdienst wurde wieder einberufen und bereitet sich mit Hochdruck darauf vor, das entstandene Chaos in den nächsten Tagen eventuell unter Kontrolle zu bekommen. Die zuständigen Stellen der Stadt weisen jeden Vorwurf der Überforderung vehement zurück. Hierzu der Pressesatirikersprecher der Stadt: &ldquo;Wer rechnet denn schon mit Schnee im Winter?&rdquo;</p>
+
+<p><img class="center" src="stonedgolem.github.io/images/schnee.jpg" title="'telefonierende Bücher im Schnee'" ></p>
+
+<p>Leser*Innen dieses Blogs übersandten uns Beweisfotos zur aktuellen Wetterlage der Hansestadt. Ein Leser kommentierte sein Bild mit den Worten: &ldquo;Ich schwöre, das war gestern noch nicht da!&rdquo;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Perry Rhodan Doku in der Arte-Mediathek]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/17/perry-rhodan-doku-in-der-arte-mediathek/"/>
+    <updated>2013-03-17T17:41:27+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/17/perry-rhodan-doku-in-der-arte-mediathek</id>
+    <content type="html"><![CDATA[<p><a href="http://www.perry-rhodan.net/">Perry Rhodan</a>. Unser Mann im All. Deutschlands erfolgreichste Science Fiction Serie. Seit 1961 erscheinen die regelmäßigen Heftromane im Pabel-Moewig-Verlag ((der selbe Verlag übrigens, der die überaus fragwürdigen &ldquo;Landser&rdquo;-Heftchen herausbringt)): Fast 2700 Folgen sind bisher erschienen und das Phänomen wird noch immer weiter geschrieben. Grund genug, eine Dokumentation über diese Serie zu bringen. Und weil sich dies der öffentlich-rechtliche Rundfunk dachte, lässt sich die Dokumentation &ldquo;<a href="http://videos.arte.tv/de/videos/perry-rhodan-unser-mann-im-all--7379086.html">Perry Rhodan &ndash; Unser Mann im All</a>&rdquo; in der Arte-Mediathek noch anschauen.</p>
+
+<p>Viel Spaß damit!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Der Grund für die Funkstille]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille/"/>
+    <updated>2013-03-15T09:29:04+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille</id>
+    <content type="html"><![CDATA[<p>Es ist die Woche der schlechten Nachrichten in der IT-Welt. Zwar ist keine wirkliche Hiobsbotschaft von apokalyptischen Ausmaß dabei, aber die Nachrichten reichten aus, um mich zu einigen Änderungen zu bewegen. Ausgerüstet mit einem Raspberry Pi, einer Fritzbox und einem DSL16.000 Anschluss habe ich begonnen, mich von den großen Anbietern zu emanzipieren. Die Zeit, die dafür nötig war, habe ich von der Zeit abgezweigt, die ich normalerweise für mein Blog aufwende. Das offensichtliche Resultat war hier die Funkstille, dafür kann ich jetzt ssl-geschützt von überall auf meine eigene Cloud zugreifen.</p>
+
+<!-- more -->
+
+
+<h2>Was ist passiert?</h2>
+
+<p>Angefangen hat alles mit <a href="http://www.infoworld.com/d/the-industry-standard/when-your-data-not-your-data-when-its-in-the-cloud-213988">dieser kleinen Meldung</a>, die <a href="http://blog.fefe.de/">fefe auf seinem Blog</a> verlinkt hat. Klar, Kinderpornografie ist schrecklich und absolut verachtenswert, aber die Art, wie sie hier aufgedeckt wurde, stimmt mich ebenso nachdenklich. In meinen Augen steht das Scannen von privaten Daten auf einer Stufe mit dem unbefugten Eindringen in eine Wohnung. Ohne richterlichen Beschluss und Anfangsverdacht hätten die Daten der Person meiner Meinung nach nicht auf Grund einer &ldquo;pauschalen und routinemäßigen&rdquo; Untersuchung gescannt werden dürfen. Orwell und &ldquo;<a href="http://www.youtube.com/watch?v=SGD2q2vewzQ">Du bist Terrorist</a>&rdquo; lassen grüßen.</p>
+
+<p>Dann gibt Google zwei Dingen bekannt. 1. <a href="http://stonedgolem.de/?p=657">Ad-Blocker werden nicht mehr für Android im Play-Store angeboten</a>. 2. <a href="http://www.heise.de/newsticker/meldung/Kommentar-Reader-Einstellung-zerstoert-Vertrauen-in-Google-1822798.html">Der Google Reader wird eingestellt</a>. Zu Punkt 1 habe ich mich ja schon geäußert, zu Punkt 2, insbesondere zu dem verlinkten Artikel muss ich aber noch ein paar Worte verlieren, weil der Autor einfach knuffig ist. Wer den Artikel nicht gelesen hat, sollte den nächsten Absatz einfach überspringen.</p>
+
+<p>Der Autor ist drollig. Wie in den Kommentaren schon richtig angemerkt begründet, er sein &ldquo;Geschäftsmodell Journalismus&rdquo; auf der Arbeit von Google, ebenso wie Google sein &ldquo;Geschäftsmodell Reader&rdquo; auf die Arbeit der RSS-Anbieter aufbaut. Während Google nun dank Leistungsschutzrecht für sein Geschäftsmodell zur Kasse gebeten werden kann, darf der Journalist sich ausheulen, dass ihm sein kostenloser Lutscher weggenommen wird. Seine Konsequenz: &ldquo;Mir wurde einmal weh getan, deswegen gehe ich dem Leidverursacher komplett aus dem Wege&rdquo;. Zum Beispiel, in dem er sich anstatt eines Android-Tabletts ein Amazon Kindle Fire HD holt. Hmmm &hellip; da war doch was? Ach ja, die Kindle-Dinger laufen auf Android, auch wenn es wegen der vielen Anpassungen nicht mehr so offensichtlich ist. Auch der Wechsel von Chrome zu Firefox ist irgendwie lustig, da Google einer der Hauptfinanzierer von Mozilla ist. Und von Gmail zu Outlook.com zu wechseln &hellip; Nun ja, dazu fällt mir nichts mehr ein. Anstatt also ein über nunmehr Jahre gewachsenes und beständiges Angebot zu nutzen setzt er auf den Neuling, der erstmal beweisen muss, seinen Dienst überhaupt so lange aufrecht zu erhalten wie Google Gmail? Überzeugt mich nicht wirklich.</p>
+
+<p>Abseits der &ldquo;beleidigte-Leberwurst&rdquo;-Attitüde des Artikels gibt es eine Aussage, die ich doch unterstützen kann: Sich auf einen Anbieter zu verlassen programmiert Enttäuschungen vor. Entweder, weil ein geliebter Dienst eingestellt wird. Oder weil mit den eigenen Daten schlampig umgegangen wurde. Oder weil sich der Workflow ein wenig veränderte. Oder, oder, oder.</p>
+
+<h2>Gegenmaßnahmen</h2>
+
+<p>Es gibt nun einige Möglichkeiten, wie man derartigen Problemen begegnen könnte. Anbieterhopping wäre zwar eine davon, aber sie ist wenig praktikabel. Ständig alles neu eingeben und neu einpflegen? I don&rsquo;t think so.</p>
+
+<p>Eine andere Möglichkeit ist die vielzitierte Hilfe zur Selbsthilfe. Ein wenig Kenntnisse in Linux, einen günstigen Ein-Platinen-Rechner, das eine oder andere Handbuch und die gute alte Internetrecherche gibt die Kontrolle über die eigenen Sachen zurück. Es ist kein Geheimnis, dass ich meinen Raspberry Pi liebe, seit dem ich ihn habe, weil ich jetzt zum ersten Mal einen eigenen Server mit vollem root-Zugriff zur Verfügung habe. In den letzten Tagen habe ich mehr über die Administration von Servern gelernt als ich den zwei Jahren davor, einfach, weil ich selbst etwas zur Hand hatte, das ich im Zweifelsfall kaputtspielen kann. Neben dem reinen Entdeckergeist habe ich auch damit begonnen, mich von einigen Diensten, die ich mehr oder weniger sporadisch nutze, zu trennen.</p>
+
+<p>Dropbox hat es als erstes erwischt, auch wenn es ursprünglich nicht intendiert war. Die Installation und Einrichtung von <a href="https://owncloud.org/">Owncloud</a> war eher eine Nebenidee, die aufkam, weil ich die benötigte Infrastruktur am Pi zuvor schon wegen anderer Projekte aufgebaut hatte.</p>
+
+<p>Angefangen hatte es mit <a href="http://ampache.org/">Ampache</a>, einen Dienst, der es ermöglicht, Musik vom Webspeicher zu streamen. Ich wollte die Möglichkeit zum Streamen nutzen, um neu aufgenommene Hörspiele direkt über&rsquo;s Tablett und den Rechner abzuhören. Erst wenn mir das Hörspiel gefällt, wollte ich es mit Audacity zurechtschneiden und in meine Sammlung integrieren. Bei Nichtgefallen wollte ich die Aufnahme einfach löschen. Die Folge diese Idee: Ich hatte einen voll funktionsfähigen Webserver auf meinem Pi installiert.</p>
+
+<p>Nachdem ich schon einen vollwertigen HTTP-Server eingerichtet hatte, konnte ich diesen auch nutzen um ein eigenes Wiki zu pflegen, in dem ich Gedanken, Notizen und weiß-der-Teufel-was würde festhalten könnte. Gesagt, gegoggelt, entschieden und getan: Das <a href="http://ikiwiki.info/">Ikiwiki</a> war schnell aufgesetzt und funktionierte im lokalen Netzwerk. Aber was, wenn ich nicht daheim bin? Wenn ich von woanders auf meine Daten zugreifen will? Ein DynDNS-Dienst musste her und da kam mir meine Fritzbox zugute. Mit dem neuen Dienst MyFritz war das dynamische DNS schnell eingerichtet und die Weiterleitung klappt wunderbar.</p>
+
+<p>Damit hatte ich auf struktureller Seite schon aller Voraussetzungen zur Nutzung von Owncloud erfüllt. Es fehlte nur noch ein Speicherstick als Datenträger und die Installation der eigentlichen Cloud-Software. Ade Dropbox, hallo 32 GB eigener Speicher, der du bist für mich zugänglich überall, wo es Internet gibt.</p>
+
+<p>By the way: Wer wie ich viele Ogg Vorbis Dateien hat und nutzt sollte sich nicht auf den Ampache-Dienst von Owncloud verlassen. Dieser erkennt nur MP3s und funktioniert auch ansonsten nicht so gut wie ein echtes Ampache, weswegen ich weiterhin Ampache neben Owncloud betreibe.</p>
+
+<h2>Was kommt?</h2>
+
+<p>Owncloud hat mich auf den Geschmack gebracht. Die vergleichsweise einfache Einrichtung gepaart mit dem Gefühl, die eigenen Daten wieder unter Kontrolle zu haben, animiert mich, weitere Experimente zu unternehmen. Derzeit überlege ich, ob ich dank eigenem Server nicht an einem der vielen dezentralen Netzwerken partizipiere. Diaspora*, Friendica, LiberTree und Tent stehen derzeit in der engeren Auswahl als nächstes erprobt zu werden. Wer möchte kann gerne weitere Empfehlungen hinzufügen.</p>
+
+<p>Aus meiner Sicht wichtig ist, dass wir uns wieder bewusst werden, woher das Internet kommt: Nicht die großen und zentralistischen Firmen haben es uns gebracht, sondern Dezentralität und Do-It-Yourself-Einstellungen, gepaart mit einem ordentlichen Schuss Experimentierfreude! Wir sollten diese Stärken nicht &ldquo;einfach so&rdquo; aus der Hand geben und unser Internet dem Firmen überlassen. Dazu gehört, das eigene Handeln gelegentlich zu Überdenken und Alternativen auszuprobieren, auch wenn es ein wenig Frickelarbeit erfordert.</p>
+
+<p>Im Endeffekt ist ja auch Stoned Golem aus dieser Überlegung heraus entstanden, denn sonst wäre ich vielleicht nie von Blogger auf eine selbstgehostete Lösung gewechselt. Insofern stellt mein jetziges Handeln nur eine konsequente Fortführung dar.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Von Zwickmühlen, Popos und Kniffen. Oder: Werbung so lange das Datenvolumen reicht.]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht/"/>
+    <updated>2013-03-14T16:09:13+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht</id>
+    <content type="html"><![CDATA[<p>Die Kurzform: <a href="http://www.heise.de/newsticker/meldung/Google-wirft-Werbeblocker-aus-dem-Android-Play-Store-1822706.html">Google verbannt Werbeblocker-Apps aus dem Play Store, weil sie gegen Vertragsbestimmungen verstoßen</a>. Formal ist das richtig, weil besagte Apps tatsächlich in die Funktionsweise anderer Apps eingreifen und diese verändern. Und zwar in der Form, dass sie das Herunterladen und Anzeigen der Werbung unterbinden. Man könnte sich also fragen: So what? Dann musst du halt die Werbung schauen, damit die Entwickler, die dir <em>kostenlos </em>ein Programm zur Verfügung gestellt haben, auch ein wenig Einnahmen generieren können.</p>
+
+<p>So legitim dies auch klingt: Ich frage mich gerade ernsthaft, ob der wahre Nutznießer dieser Aktion nicht ganz wo anders zu vermuten ist.</p>
+
+<!-- more -->
+
+
+<p>Das auch-so freie Internet ist (leider) ein Internet der Werbestrategen. Diese These lässt sich sehr leicht verifizieren, indem man den Ad-Blocker des Browsers vorübergehend  deaktiviert und <a href="http://spiegel.de">Spiegel Online</a> oder <a href="http://heise.de">Heise</a> ansteuert. Ich bin immer wieder bass erstaunt, wie verändert die Website aussehen, wenn ich mal in den Genuss komme, sie ohne aktivierten Ad-Blocker anzusehen. Plötzlich (und zumeist unerwartet) werden ich dann mit der geballten, bunten Werbewelt konfrontiert, die ich ansonsten mit der Konsequenten Vermeidung von ProSieben, RTL und Co. umgehe.</p>
+
+<p>Kurzum: Das Verschwinden von AdBlock Plus auf egal welchem Browser am Desktop-Computer würde mir massiv auf die Eier gehen. Aber mehr auch nicht. Wenn ich nicht die Alternative hätte, Werbung rauszufiltern, würde ich damit auch leben lernen. Irgendwie. Hat ja in meiner Jugend auch geklappt, als ich noch Privatfernsehen geschaut habe. Und aus mir ist <em>trotz</em> Werbung noch etwas geworden!</p>
+
+<p>Anders verhält es mit Werbung auf meinen mobilen Endgeräten, die einen eigenen Zugang zum Internet haben. Dieser Zugang wird zwar immer gerne als Flatrate bezeichnet, aber so wirklich <em>flat</em> ist der nicht. Nur wenige hundert Megabyte können im Monat mit brauchbarer Geschwindigkeit an das Gerät weitergeleitet werden,  danach wird es zu lahm für mindestens 70 Prozent meiner Anwendungsfälle. Mit dem Wegfall der Schutzmaßnahmen gegen die Werbung also wird Traffic signifikant ansteigen, da Werbung per Definition bunt, animiert und überhaupt übergroß ausgeliefert wird. Der Traffic wird also spürbar erhöht für etwas, dass niemand von uns braucht oder haben möchte. Schönen Dank auch.</p>
+
+<p>Werbung findet sich in vielen kostenlosen Apps. Wenn es eine Kaufversion gibt, die gegen einmalige Bezahlung die Werbung abschaltet, dann greife ich in der Regel auch zu dieser, wenn ich das Programm für nützlich erachte. Wirklich ärgerlich sind aber Programme, die keine Kaufversion anbieten und sich rein über Werbung finanzieren wollen. Ich frage mich ernsthaft, ob der wahre Gewinner in diesem Fall nicht eher der Handyprovider ist, da hier sinnlose Datenmengen durch die Telefonleitung geschoben werden, die mich a) nerven, b) dem Entwickler nicht viel einbringen und die c) mein Datenvolumen auffressen. Ist dieses erschöpft bin ich in den Arsch gekniffen und werde wohl den Rest des Monats mit der Drosslung leben müssen. Passiert dies aber mehrmals würden sich nicht wenige Menschen zu fragen beginnen, ob sie nicht doch ein größeres Volumen bräuchten. Und das spült richtig Geld in die Kassen der Provider, die sich jedes MB derzeit stattlich bezahlen lassen.</p>
+
+<p>Dieser Zwickmühle wird man wohl nur durch noch mehr Recherche entgehen können, um brauchbare Alternativen <em>ohne</em> <del></del>Werbung zu finden. Ich hab ja sonst nichts zu  tun &hellip;</p>
+
+<p>P.S.: AdBlock Plus et. al. sind natürlich nicht vom Erdboden verschwunden, nur weil sie nicht mehr direkt über Google Play angeboten werden. Mit dem <a href="http://f-droid.org/">F-Droid Market</a>, in dem nur freie Software gelistet wird, sind die meisten Ad-Blocker noch vertreten. Es stellt sich halt nur wie so oft die Frage, ob diese Alternative wiederum nur von der &ldquo;technikaffinen Nutzergruppe&rdquo; (a.k.a. Nerds) genutzt wird und die Mehrheit diese Option gar nicht bewusst wahrnimmt.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hörspiele mitschneiden mit dem Pi]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/"/>
+    <updated>2013-03-11T21:09:22+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi</id>
+    <content type="html"><![CDATA[<p>Der Raspberry Pi ist schon ein toller Kleinstrechner. Vor allem der geringe Stromverbrauch von gerade mal 3,5 Watt prädestiniert ihn für Einsätze, die einen dauerhaft arbeitenden Rechner erfordern: Ob als kleiner OwnCloud-Server oder für kleinste private Websites, mit dem Pi lassen sich derartige Wünsche schnell und kostengünstig realisieren. Aber auch für Fans der gepflegten, auditiven Unterhaltung eignen sich der Pi hervorragend: Mit nur einem kleinen Programm lassen sich problemlos MP3-Radiostreams aufzeichnen. Dies füllt entweder die Musiksammlung oder den Hörspielordner, je nach dem, zu welchem Zweck das Programm genutzt wird.</p>
+
+<!-- more -->
+
+
+<h2>Einige Vorbemerkungen: Worum geht&rsquo;s?</h2>
+
+<p>Da es genug Websites gibt, die die Aufnahme von Musikradios erklären, möchte ich an dieser Stelle speziell auf die Möglichkeiten zur Hörspielaufnahme eingehen. Alle Radiosender des öffentlich-rechtlichen Rundfunks stehen auch als Stream zur Verfügung, so dass es nahe liegend ist, diese Mitzuschneiden, um kostengünstig die Hörspielsammlung aufzustocken. Allein im deutschsprachigen Raum werden pro Woche um die 50 bis 70 Hörstücke gesendet, unter denen sich einige Perlen finden lassen.</p>
+
+<p>Die meisten dieser Stücke wurden mit Geldern aus der Rundfunkgebühr bezahlt und sollten zumindest meiner Meinung nach ohnehin allen jederzeit und kostenlos zur Verfügung stehen. Geschicktes Taktieren der privaten Rundfunkanstalten verhindert aber, dass die gemeinschaftlich finanzierten Produktionen gesamtgesellschaftlich abrufbar sind. Zwar sieht der aktuelle Rundfunkstaatsvertrag vor, dass Produktionen bis zu sieben Tage online als Download angeboten werden dürfen, aber dies ist trotzdem nicht immer der Fall: So steht der aktuelle &ldquo;Plan B Krimi&rdquo; von Eins Live, der den schönen Titel <a href="http://www.einslive.de/sendungen/plan_b/krimi/2013/03/130307_road_of_the_dead.jsp">Road of the Dead</a> trägt, nur als Stream aber nicht als Download zur Verfügung. Als Begründung werden nur &ldquo;rechtliche Gründe&rdquo; angegeben.</p>
+
+<p>Wohl dem also, der sich nicht auf die Gnade der Rundfunkanstalten verlässt! Privatkopien und Rundfunkaufzeichnungen sind in Deutschland <del>noch</del> nicht verboten und es ist dabei sogar egal, ob tatsächlich über Funk, also Radio, oder über&rsquo;s Internet aufgezeichnet wird. Das Mitschneiden der MP3 Streams hat gegenüber Kassetten den deutlichen Vorteil, dass sich die Dateien leicht mit weiteren Programmen bearbeiten und beliebig und ohne Qualitätsverlust auf verschiedenen Datenträgern sichern lassen. Einziger Nachteil: Der Rechner musste immer laufen, was den Stromverbrauch in die Höhe trieb. Die dadurch entstehenden Kosten sind im Vergleich zu den Preisen der Kauffassungen der Radiohörspiele, wie sie beispielsweise der Hörverlag anbietet, nicht sonderlich hoch. Aber wir haben deren Produktion schon mit den Rundfunkgebühren bezahlt und werden dann nochmal zur Kasse gebeten, wenn wir das Hörspiel zu jeder Zeit abspielen wollen.</p>
+
+<p>Wie dem auch sei, mit dem Raspberry Pi minimieren sich jetzt die Stromkosten auf einen Bruchteil und der Aufnahme steht kein schlechtes ökologisches Gewissen mehr im Wege.</p>
+
+<h2>Was wird gebraucht?</h2>
+
+<p>Die Liste stellt keine <em>Minimalkonfiguration</em> dar. Um Neulinge nicht zu überfordern werde ich auf den Einsatz von Techniken wie ssh verzichten, denn wer ssh kennt, der oder die wird auch problemlos nachfolgendes mit ssh anwenden können. Wer wirklich viele Hörspiele aufnehmen möchte und den Pi rund um die Uhr als Server für alles mögliche betreibt, sollte sich ohnehin mit Fernadministration auseinander gesetzt haben, da sie das Leben deutlich vereinfachen.</p>
+
+<p>Mit der Aufnahme ist der Pi auch nicht wirklich ausgelastet. Ich betreibe nebenbei noch einen kleinen Webserver, ein Ikiwiki und Ampache auf dem Kleinen und hatte bisher keine Probleme bei der Performance. Auch nicht, wenn ich mehrere Hörspiele parallel mitgeschnitten habe.</p>
+
+<p>Für Menschen, die sich schon ein wenig besser mit Linux auskennen und die schnell wissen wollen, wie sie ihren Pi zum Hörspielrekorder machen, gibt es am Ende des Artikels eine Schnellübersicht der wichtigsten Schritte. Es soll ja niemand gezwungen werden, mehr zu lesen, als notwendig.</p>
+
+<p>Benötigt werden:</p>
+
+<ul>
+<li><p>ein Raspberry Pi Model A oder B;</p></li>
+<li><p>ein Netzwerkkabel (nur bei Model B) <em>oder </em>ein WLAN-Stick zum Verbinden des Pis mit dem Router;</p></li>
+<li><p>eine SD-Karte mit einem installierten <a href="http://www.raspberrypi.org/downloads">Raspbian &ldquo;wheezy&rdquo;</a> (<a href="http://elinux.org/RPi_Easy_SD_Card_Setup">hier gibt es noch ein wenig Hilfe zur Installation</a>);</p></li>
+<li><p>Tastatur und Maus;</p></li>
+<li><p>einen Monitor oder Fernseher;</p></li>
+<li><p>ein entsprechendes Kabel, um den Pi an den Monitor zu schließen;</p></li>
+<li><p>ein USB-Hub ist beim Model A zwingend erforderlich, da nur ein USB-Port zur Verfügung steht. Beim Model B kann das Hub optional sein. Für den Einsatz des Pis mit ssh kann bei beiden Modellen auf das Hub verzichtet werden.</p></li>
+<li><p>Zur Speichererweiterung lässt sich auch optional ein USB-Stick verwenden, auf dem die aufgezeichneten Streams geschrieben werden.</p></li>
+</ul>
+
+
+<h2>Installation der benötigten Software</h2>
+
+<p>Nachdem der Pi angeschlossen und das Grundsystem mit der <a href="http://raspberrycenter.de/handbuch/grundinstallation-raspi-config">raspi_config</a> eingestellt wurde, bootet ihr euren Pi ganz normal. Im Grunde ist es egal, ob ihr in die grafische Oberfläche LXDE bootet oder ihr euch mit der Kosoleneingabe begnügt. Da sich dieses Tutorial aber vor allem an Neulinge richtet, gehe ich davon aus, dass LXDE gebootet wurde.</p>
+
+<p>Mit der Grundinstallation von Raspbian wheezy sind die meisten Programme schon enthalten, die wir für unsere Aufgabe benötigen. Lediglich das Programm <em>streamripper </em>muss nachinstalliert werden. <em>streamripper</em> ist das Programm, welches später für das Mitschneiden der Streams zuständig sein wird. Damit es<em> </em>installiert werden kann wird eine bestehende Verbindung mit dem Internet benötigt, die auch bei allem, was folgt, als gegeben angenommen wird. Versichert euch also, dass euer Pi mit dem Router verbunden ist und ins Internet gelangt. Am einfachsten lässt sich dies mit einem Raspberry Pi Modell B und einem LAN-Kabel erreichen, welches den Rechner direkt mit eurem Router verbindet.</p>
+
+<p>Öffnet unter LXDE das Programm &ldquo;LXTerminal&rdquo;. Dieses Programm emuliert eine Kommandozeile, über die ihr die folgenden Befehle an den Rechner übermittelt. Bevor wir aber neue Programme installieren sollte überprüft werden, ob alle Programme auf dem neusten Stand sind. Dazu geben wir folgendes in die Konsole ein:</p>
+
+<pre><code>sudo aptitude update &amp;&amp; sudo aptitude safe-upgrade
+</code></pre>
+
+<p>Im Grunde sind dies zwei Befehle: Der erste weist den Paketmanager <em>aptitude</em> an die neusten Paketlisten zuladen, der zweite Befehl schlägt aktualisierte Pakete zur Installation vor und installiert diese nach eine Bestätigung. Sobald euer System auf dem neusten Stand ist wird es Zeit, <em>streamripper </em>zu installieren. Dies ist wiederum einfach mit folgenden Befehl möglich:</p>
+
+<pre><code>sudo aptitude install streamripper
+</code></pre>
+
+<p>Damit sind wir mit der Vorbereitung der Software auch schon fertig. Auf geht&rsquo;s zum lustigen Timer-Programmieren.</p>
+
+<h2>Zwischenspiel: Was will ich eigentlich aufnehmen?</h2>
+
+<p>Spätestens jetzt wird einigen auffallen, dass sie gar nicht die regulären Hörspielzeiten der Radiosender kennen. Oder zwar Zeit und Sender wissen, aber nicht die URL des Streams. Zwar lassen sich alle diese Fragen durch elementares Googlen beantworten, aber auf Dauer wäre das doch ziemlich umständlich. Soviel Mühe muss man sich auch nicht machen, wenn man die <a href="http://hoerdat.de/">Hörspieldatenbank</a> kennt! Auf dieser Seite finden sich nicht nur Einträge zu vielen deutschsprachigen Hörspielproduktionen sondern auch Informationen zu anstehenden Sendungen des deutschen, österreichisches und schweizerischen Rundfunks! Praktischer Weise mit Sendezeit, geplanter Laufzeit und Link auf den Stream des Senders. Schaut euch ein wenig dort um und sucht euch eine oder mehrere Sendungen raus, die ihr Aufnehmen wollt.</p>
+
+<p>Leider zeigt HoerDat nur Sendungen des öffentlich-rechtlichen Rundfunks an. Private Radiosender wie 89.0RTL spielen gelegentlich Hörspiele oder haben sie zumindest früher mal gespielt. Diese lassen sich zwar ebenso mit streamripper aufnehmen, wenn die URL des Streams bekannt ist, aber die Sendezeiten finden sich nicht bei HoerDat. Dennoch: Eine Übersicht, die besser und vollständiger als HoerDat ist, werdet ihr so schnell nicht finden. Und wenn doch, dann nennt sie mir bitte!</p>
+
+<h2>Aufnahmen mit <em>streamripper</em></h2>
+
+<p><em>streamripper</em> ist eigentlich zur Aufnahme von Musikstücken konzipiert: Im Idealfall läuft das Programm die ganze Zeit und schneidet einen Stream mit, der auf der Festplatte automatisch in kleinere Songdateien aufgespalten wird. Diese Dateien werden anhand der im Stream enthaltenden  ID-Tags benannt, so dass sich die Songs später komfortabel finden lassen. Auch wenn es für einige absonderlich sein mag: <em>streamripper </em>hat keine grafische Benutzeroberfläche, sondern es wird komplett in der Kommandozeile ausgeführt und nur über diese gesteuert.</p>
+
+<p>Das Aufteilen der Tracks mag im ersten Moment vielversprechend klingen, bei Hörspielaufnahmen hat es mich immer genervt, weswegen ich die Optionen &ldquo;-a&rdquo;, &ldquo;-A&rdquo;, &ldquo;-s&rdquo; und &ldquo;-l&rdquo; grundsätzlich als Optionen beim Start von <em>streamripper </em>angeben. Die Option &ldquo;-a&rdquo; sorgt dafür, dass der gesamte Stream in eine einzige MP3-Datei geschrieben wird. Würde ich die Option &ldquo;-A&rdquo; weglassen, würden zusätzlich zur großen Datei noch die geteilten Dateien auf die Festplatte geschrieben werden. Ich hätte also alles doppelt gespeichert: Einmal in der großen und einmal in den kleinen Files. Da mir die große Datei zur weiteren Verarbeitung ausreicht verzichte ich also auf das Erstellen der kleinen. Die Option &ldquo;-s&rdquo; sorgt dafür, dass kein eigener Ordner mit dem Streamnamen (beispielsweise NDR Info oder SWR) angelegt wird, in dem sich dann die Dateien befinden. Ich nutze diese Option, da ich mit &ldquo;-d /PFAD/ZUM/ORDNER&rdquo; schon zuvor festgelegt habe, wo ich die Datei gespeichert haben möchte. Zu guter letzt sorgt die Option &ldquo;-l&rdquo; dafür, dass sich <em>streamripper</em> nach der angegebenen Anzahl von <strong>SEKUNDEN </strong>selbst beendet.</p>
+
+<p>Dies sind bei weitem nicht alle Optionen, die <em>streamripper </em>bietet. Wer sich für weitere Optionen interessiert, der oder die sollte im Terminal folgendes eingeben:</p>
+
+<pre><code>man streamripper
+</code></pre>
+
+<p>Mit diesem Befehl wird das Online-Handbuch von <em>streamripper </em>angezeigt, das detaillierte Informationen zu allen Optionen bietet.</p>
+
+<p>Kommen wir also zum praktischen Teil und nehmen wir etwas auf. Hierfür müssen wir <em>streamripper</em> mit einem Befehl in der Konsole starten. Dieser Befehl setzt sich im Falle von <em>streamripper </em>aus drei Teilen zusammen: Dem Programmnamen <em>streamripper, </em>der URL des Streams, der aufgezeichnet werden soll, und weiteren Optionen, die wie der Name schon sagt, optional angegeben werden können.</p>
+
+<p>Folgender Befehl beginnt die sofortige Aufnahme von Deutschlandradio Kultur:</p>
+
+<pre><code>streamripper http://www.dradio.de/streaming/dkultur.m3u
+</code></pre>
+
+<p>Mit dieser Einstellung wird <em>streamripper </em>so lange Deutschlandradio aufnehmen, bis ihr entweder den Rechner ausschaltet oder ihr &ldquo;Strg+C&rdquo; im Terminal drückt: Mit dieser Tastenkombination lassen sich alle Programme, die im Terminal ausgeführt werden, beendet. Der Stream wird in eurem Home-Verzeichnis (auch &ldquo;Persönlicher Ordner&rdquo; genannt) gespeichert, wo jetzt ein neuer Ordner mit dem Titel &ldquo;Deutschlanradio Kultur &ndash; MP3&#8221;erschienen sein sollte.</p>
+
+<p>Mit den schon genannten Optionen würde eine Aufnahme beispielsweise so aussehen:</p>
+
+<pre><code>streamripper http://www.dradio.de/streaming/dkultur.m3u -d /home/pi/DKultur/ -a -A -s -l 4200
+</code></pre>
+
+<p>Wie zuvor starten wir <em>streamripper </em>mit der URL von Dradio Kultur, aber diesmal setzten wir selbst den Ordner und erzeugen dafür den Ordner &ldquo;DKultur&rdquo; in unserem Home-Verzeichnis. Sollte der angegebene Ordner beim Start von Streamripper nicht existieren, wird er einfach angelegt, sofern ihr dort Schreibrechte habt. Aber keine Sorge, als Benutzer &ldquo;pi&rdquo;, der standardmäßig bei Raspbian angelegt ist, habt ihr Schreibrechte im Ordner &ldquo;/home/pi&#8221;und allen darunter liegenden Ordnern. Die Bedeutung der Optionen &rdquo;-a&#8221;, &ldquo;-A&rdquo; und &ldquo;-s&rdquo; habe ich schon erklärt und mit der Option &ldquo;-l 4200&rdquo; bricht <em>streamripper </em>die Aufnahme nach exakt 4200 Sekunden ab und beendet sich selbst.</p>
+
+<p>Wir könnten nun alle Radiosender beginnen aufzunehmen, die uns interessieren, aber aus Rücksicht auf unsere Festplatte werden wir <em>streamripper </em>nicht die ganze Zeit laufen lassen, sondern es zu einer bestimmten Zeit starten und beenden.Wie schon aufgezeigt ist beendet kein Problem, aber leider bietet <em>streamripper</em> keine Option an, dass es sich selbst zu einer bestimmten Zeit startet. Und hier kommt das Programm <em>cron </em>ins Spiel.</p>
+
+<h2>Zeitgesteuerte Aufnahmen mit <em>cron</em></h2>
+
+<p><em>cron </em>ist ein Systemprogramm von Raspbian, das zeitgesteuerte Aufgaben ausführen kann. In einer Datei wird dafür der Zeitpunkt und die zu erledigende Aufgabe eingegeben. Um in die Tabelle zu gelangen, in der diese angaben zu machen sind, geben wir in der Konsole folgenden Befehl ein:</p>
+
+<pre><code>crontab -e
+</code></pre>
+
+<p>In der letzten Zeile der Datei, die sich öffnet, können wir eingeben, zu welcher Zeit wir wollen, dass <em>cron </em>ohne unser weiteres Zutun <em>streamripper </em>ausführt. Um die Funktion von <em>cron </em>an reinem Beispiel aufzeigen zu können, nehmen wir an, dass wir am 4. Mai 2013 um 21:05 auf NDR Info das Hörspiel &ldquo;Kap der Finsternis&rdquo; aufnehmen wollen. Die Angaben sind übrigens nicht fiktiv und der entsprechende Eintrag in der <em>crontab </em>würde so aussehen:</p>
+
+<pre><code>00 21 4 5 * streamripper http://ndrstream.ic.llnwd.net/stream/ndrstream_ndrinfo_hi_mp3 -d /home/pi/Kap_der_Finsternis/ -a -A -s -l 4200
+</code></pre>
+
+<p>Die Eingaben 00, 21, 4, 5 und * definieren den Zeitpunkt, zu dem <em>cron</em> den nachfolgenden Befehl ausführen soll. Die Zahlen bedeuten dabei folgendes:</p>
+
+<ul>
+<li><p>die erste steht für die Minute;</p></li>
+<li><p>die zweite für die Stunde;</p></li>
+<li><p>die dritte für den Tag des Monats;</p></li>
+<li><p>die vierte für den Monat</p></li>
+<li><p>und die fünfte für den Tag der Woche.</p></li>
+</ul>
+
+
+<p>Ihr seht also, ich lasse die Aufnahme 5 Minute vor dem eigentlichen Sendebeginn beginnen, um damit eventuelle zeitliche Schwankungen zu umgehen. Im Grunde wäre es auch egal gewesen, ob ich die Minute mit &ldquo;0&rdquo; oder &ldquo;00&rdquo; angegeben hätte: <em>cron </em>interpretiert beides als &ldquo;zur vollen Stunde&rdquo; und ich schreibe die Doppelnull in der Zeitangabe, weil es für mich auf diese Art lesbarer ist.</p>
+
+<p>Apropos lesbar: Die Angabe &ldquo;<em>&rdquo; bedeutet &ldquo;egal&rdquo; bzw. &ldquo;jeder/jeden&rdquo;. Mit der oben präsentierten Schreibweise habe ich <em>cron </em>gesagt, es soll <em>streamripper </em>am 4.5. um 21:00 Uhr ausführen und zwar an jedem Wochentag bzw. unabhängig davon, welcher Wochentag es ist. Hätte ich beispeislweise das &ldquo;</em>&rdquo; durch ein &ldquo;mon&rdquo; für Montag ersetzt, dann hätte <em>cron </em>die Aufgabe nur ausgeführt an einem 4.5., der gleichzeitig ein Montag ist!</p>
+
+<p>Wer sich jetzt über die komische Angabe wundert, dem oder der sei noch gesagt, dass <em>cron </em>eigentlich für regelmäßig wiederkehrende Aufgaben entwickelt wurde, die automatisch ausgeführt werden sollten. Eine Zeitangabe wie &ldquo;00 5 * * mon&rdquo; ergebt wieder mehr Sinn: Jeden Montag um 5 Uhr soll unabhängig vom Datun ein bestimmtes Programm ausgeführt werden.</p>
+
+<p>Nachdem wie den Eintrag in die <em>crontab </em>geschrieben haben, muss diese nur noch gespeichert und geschlossen werden. Wenn ihr ein Standard-Raspbian verwendet, dann wird der Editor höchstwahrscheinlich <em>nano </em>sein, der sich bei der Eingabe von &ldquo;crontab -e&rdquo; geöffnet hat. In diesem Fall drückt nach der Eingabe einfach &ldquo;Strg+O&rdquo; gefolgt von Enter und beendet <em>nano </em>mit &ldquo;Strg+X&rdquo;.</p>
+
+<p>Damit habt ihr euren Pi programmiert das Hörspiel aufzunehmen. Der Rechner wird dies auch zuverlässig machen, sofern er eingeschaltet ist und Internet zur Verfügung hat.</p>
+
+<p>Ich hoffe, ich konnte dir mit diesem Tutorial helfen und dich nebenbei noch ein wenig in die Bedienung von Programmen auf der Kommandozeile einführen. Für alle, die das schon kannten, gibt es hier wie Versprochen die Schnellübersicht:</p>
+
+<h2>Der Raspi als Aufnahmegerät in 6 Schritten:</h2>
+
+<ol>
+<li><p> Raspbian installieren und den Rechner ans Netz hängen.</p></li>
+<li><p> Den Rechner mit</p>
+
+<p>sudo aptitude update &amp;&amp; sudo aptitude safe-upgrade</p></li>
+</ol>
+
+
+<p>aktualisieren.</p>
+
+<ol>
+<li><p> <em>streamripper</em> installieren:</p>
+
+<p>sudo aptitude install streamripper</p></li>
+<li><p> Die <em>crontab </em>mit</p>
+
+<p>crontab -e</p></li>
+</ol>
+
+
+<p>öffnen, um den Start von <em>streamripper </em>zu Programmieren.</p>
+
+<ol>
+<li><p> <em>crontab </em>speichern und schließen.</p></li>
+<li><p> Warten, bis die Zeit des Hörspiels gekommen ist, sicherstellen, dass der Raspi über Strom und Internet verfügt und nach der Aufnhame das Hörspiel genießen.</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jahreszeitenshuffle]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/11/jahreszeitenshuffle/"/>
+    <updated>2013-03-11T14:38:44+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/11/jahreszeitenshuffle</id>
+    <content type="html"><![CDATA[<blockquote><p>&ldquo;Leise rieselt der Schnee,</p>
+
+<p>still und starr liegt der See.&#8221;</p></blockquote>
+
+<p>(Aus dem Lied <em>Weihnachtsgruß </em>von Eduard Ebel, 1895.)</p>
+
+<!-- more -->
+
+
+<p>Schnee im Sommer! Also, ich meine jetzt nicht Koks oder so, sondern echtes, gefrorenes Wasser, das vom Himmel fällt. Es schneit. Und zwar mit sturer Präzession wenige Wochen vor Ostern. Weiße Weihnacht? War gestern! Das ist doch sowas von 80ziger! Und wenn die versteckten Eier heutzutage gefunden werden sollen, dann sollte man in diesen feuchten Massen eher auf die braunen oder gefärbten setzen als auf die klassisch weißen! Times are changing, leb damit! Aber der Klimawandel ist nicht real. Nee, niemals nicht einmal! Wie kommt ihr denn auf sowas?</p>
+
+<p>Jetzt mal im Ernst, kann sich noch jemand an blühende Ostern und weiße Weihnachten erinnern? Ich habe zwar ein dumpfes Gefühl in mir, dass es so rum sein sollte, aber wirklich erinnern, wann das das letzte Mal so war, kann ich mich nicht. Ich bin mal gespannt, ob sich mittelfristig das Wetter der katholischen Tradition beugt oder ob sich die kirchlichen Feiertage der Umwelt anpassen.</p>
+
+<p>Es gibt aber auch noch eine dritte Möglichkeit: Wir passen unsere Erzählungen an. Dann kommt Santa halt in Bermuda-Shorts und Flip-Flops und der Hase passt mit seinem Fell eh viel besser in den Winter als in den milden Frühling. Der muss doch Schwitzen wie sonstwas, das Langohr, wenn Frühling wäre!</p>
+]]></content>
+  </entry>
+  
+</feed>

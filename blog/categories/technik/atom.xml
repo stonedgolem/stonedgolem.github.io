@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Technik | Stoned Golem]]></title>
+  <link href="stonedgolem.github.io/blog/categories/technik/atom.xml" rel="self"/>
+  <link href="stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:07:12+02:00</updated>
+  <id>stonedgolem.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Cygus]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ein Anfang ist gemacht]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht/"/>
+    <updated>2013-03-25T15:37:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht</id>
+    <content type="html"><![CDATA[<p>So, der Anfang ist gemacht und die ersten Fragen beginnen sich zu formen</p>
+
+<ul>
+<li>Wie integriere ich <em>tags</em>?</li>
+</ul>
+
+
+<p>Im Output der Website steht zwar etwas davon, aber ich finde derzeit keine Lösung, wie ich sie umsetzen soll.</p>
+
+<ul>
+<li>Wie integriere ich am besten Kommentare?</li>
+</ul>
+
+
+<p>Ich hab zwar <a href="https://blog.caurea.org/2012/03/31/this-blog-has-comments-again.html">hier eine Lösung</a> gefunden, aber ich bin ja ein kleiner unbedarfter Honk, deswegen habe ich den Autoren eine Mail geschrieben und bin gespannt, ob ich eine Antwort bekomme.</p>
+
+<ul>
+<li>Auch die Frage nach der Multirechnernutzung ist noch offen.</li>
+</ul>
+
+
+<p>Aber ich denke, dass sind alles Startprobleme. Immerhin ist dies ein für mich vollkommen neues System und ich denke, da sind ein, zwei Tage Einarbeitsungszeit ein vergleichsweise kleines Opfer.</p>
+
+<p>Außerdem kann ich die Ablenkung gerade gut gebrauchen. Und da ich mir nicht nur den Kopf zerbrechen sollte, dachte ich, ich schreibe mal schnell einen kleinen Update-Post</p>
+
+<h3>Memo an mich selbst:</h3>
+
+<p>Ich sollte die Rechtschreibprüfung in vim aktivieren. Könnte sich in Zukunft auszahlen, wenn der Editor jetzt auch noch meine Websites macht.</p>
+]]></content>
+  </entry>
+  
+</feed>

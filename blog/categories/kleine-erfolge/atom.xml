@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: kleine Erfolge | Stoned Golem]]></title>
+  <link href="stonedgolem.github.io/blog/categories/kleine-erfolge/atom.xml" rel="self"/>
+  <link href="stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:07:12+02:00</updated>
+  <id>stonedgolem.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Cygus]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Und wieder ein Punkt auf meiner Liste weniger]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger/"/>
+    <updated>2013-03-25T16:15:00+01:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger</id>
+    <content type="html"><![CDATA[<p>Und wieder gibt es nette Neuigkeiten zu verkünden. Meine Liste der zu erledigenden Dinge ist sage und schreibe zwei Punkte kürzer geworden. Das Arbeiten von mehreren Rechnern aus ist nun möglich und <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">dank diesem Post hier</a> hat auch der Geisteswissenschaftler in mir verstanden, wie genau ich das zu bewerkstelligen habe. Wenn ich jetzt nicht immer noch die letzten Kommandos vergessen würde, dann würde ich auch schneller ans Ziel kommen. Aber man kann ja bekanntlich nicht alles haben.</p>
+
+<p>Und wer will schon Schokolade <em>und</em> Eis, oder?!</p>
+
+<!-- more -->
+
+
+<p>Leider verhält es sich so auch mit Kategorien und Tags, die wie bei Blogger in einem Punkt zusammengefasst sind. Eine schöne Trennung der beiden Punkte wie bei WordPress scheint es nicht zu geben. Macht nichts, dann muss ich mir halt vorher sehr genau meine Kategorien überlegen. Es gibt schlimmeres. Dafür gefällt mir die Arbeitsweise hier sehr gut.</p>
+
+<p>Schließlich kann man doch nicht auch noch <strong>Kokosstreussel</strong> auf seinem Schokoladeneis erwarten&hellip;</p>
+
+<p>Bleiben also noch die Frage der Kommentare offen. Ich weiß nicht, wie schnell ich das geregelt bekomme und ob überhaupt. Ich habe einen Ansatzpunkt, aber dafür bräuchte ich wahrscheinlich ein klein wenig mehr Informatikwissen, als ich im Moment habe.</p>
+
+<p>Aber hey, sehen wir es mal positiv: Wir haben hier einen Geisteswissenschaftler, der es alleine schaffte, sich mit git, octopress und github einen statischen Blog zu bauen. Ich bin begeistert :)</p>
+]]></content>
+  </entry>
+  
+</feed>

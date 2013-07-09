@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Google Reader | Stoned Golem]]></title>
+  <link href="stonedgolem.github.io/blog/categories/google-reader/atom.xml" rel="self"/>
+  <link href="stonedgolem.github.io/"/>
+  <updated>2013-07-09T14:07:12+02:00</updated>
+  <id>stonedgolem.github.io/</id>
+  <author>
+    <name><![CDATA[Florian Cygus]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Zur Einstellung des Google Readers]]></title>
+    <link href="stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers/"/>
+    <updated>2013-03-31T19:15:00+02:00</updated>
+    <id>stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers</id>
+    <content type="html"><![CDATA[<p>Okay, die Sache mit dem <strong>tl;dr</strong> <em>am Anfang</em> des Posts lasse ich sein, Die Idee finde ich zwar weiterhin nicht schlecht, aber die Platzierung ist bei genauerer Überlegung suboptimal und zerschießt das Layout. Anstatt mehr Übersichtlichkeit zu schaffen reduziere ich sie eher. War also &lsquo;ne dumme Idee.</p>
+
+<p>Ebenso doof, wie über die Osterfeiertage mit Fieber im Bett zu liegen. Zwar kann ich nun wieder ein paar Sachen am Stück machen, aber wirklich auf der Höhe bin ich noch nicht. Also seid ein wenig nachsichtig, wenn sich zu viele Fehler einschleichen sollten.</p>
+
+<p>Ein mindestens ebenso dumme Idee hatte Google in den letzten Wochen: Quasi nebenbei geben sie das <a href="http://www.heise.de/newsticker/meldung/Google-macht-den-RSS-Dienst-Reader-dicht-1822669.html">Ende ihres beliebten Dienstes &ldquo;Google Reader&rdquo; bekannt</a>. Was war der Aufschrei da groß &mdash; mindestens ebenso groß, wie die Lücke, die der Reader angeblich hinterlässt. Dies konnte man an allen Stellen des Internets, in der FAZ (aus Gründen des Leistungsschutrechts <em>nicht</em> verlinkt) und sogar im heiligen <a href="http://www.heise.de/ct/editorial/">c&rsquo;t-Editorial</a> nachlesen!</p>
+
+<p>Merkwürdig aber, dass Google den Dienst wegen mangelnder Nutzung einstellt&hellip;</p>
+
+<!-- more -->
+
+
+<h3>Google und die Journalisten</h3>
+
+<p>Es war kaum möglich, in den sozialen Medien die Einstellung des Google Readers zu verpassen, denn jeder, der ein Schreibwerkzeug (PC, Smartphone, Tablett, Hammer, Meißel und Steintafel) zur Hand hatte, schrieb sofort und vehement gegen Google an. Welches Recht sich auch die Datenkrake da raus nimmt, einen kostenlosen Dienst einzustellen! Wo kämen wir denn da hin, wenn das alle so machen würden?</p>
+
+<p>Klar, der Google Reader lief über Jahre hinweg zuverlässig und kostenlos, keine Frage. Auf Grund der Vormachtstellung des amerikanischen Internetgiganten lässt sich auch von einem Monopol in Sachen RSS-Aggregation sprechen. <em>Aber</em> dies bedeutet keinesfalls, dass Google nicht das Recht hätte, einen Dienst einzustellen, der für sie nicht profitable ist! Denn das ist die andere Seite der Medaille: Mit dem Reader hat Google kein Geld verdient. Dank deutscher <del>Hoch</del>Leistungs<del>schutzrechte</del>gesetze bestand sogar die relative Gefahr, dass Google künftig für die Bereitstellung des Dienstes hätte zahlen müssen! Jeder klar denkende Ökonom hätte die selbe Entscheidung getroffen.</p>
+
+<p>Hand auf&rsquo;s Herz, wer von euch benutzt viel RSS? Ich habe zwar ein paar Seiten, denen ich per RSS regelmäßig folge, aber ihre Anzahl ist so überschaubar, dass ich auch ohne Googles Hilfe diese Seiten gelesen und verfolgt bekomme. So wie mir dürfte es wohl den meisten Menschen gehen, weswegen das laute Medienecho, das der Ankündigung der Einstellung folgte, umso bemerkenswerter ist.</p>
+
+<p>Auf einmal mischten sie sich alle ein: Journalisten und Blogger, die ob Googles Entscheidung mehr als erbost waren und das Ende des Internets <em>wie wir es kennen</em> herbeischrieben. Nett, aber leider vollkommen am Thema vorbei, denn RSS gab es schon vor dem Google Reader &mdash; und es wird auch danach noch sein Nischendasein führen.</p>
+
+<p>Ein sehr gutes Beispiel für diese belustigende Art von Gehirnakrobatik lieferte vor allem <a href="http://www.heise.de/newsticker/meldung/Kommentar-Reader-Einstellung-zerstoert-Vertrauen-in-Google-1822798.html">Jörg Wirtgen in der ansonsten von mir sehr geschätzten c&rsquo;t</a>. Drei Dinge sind mir beim Lesen ins Auge gestochen.</p>
+
+<ol>
+<li><p>Der Vertrauensverlust, der mit der Einstellung eines kostenlosen, aber schon als selbstverständlich angesehenen Dienstes einhergeht, ist gemäß Autor so groß, dass man gleich der ganzen Firma den Rücken kehren und um alle Google-Produkte künftig einen großen Bogen macht könnte. Ich finde diese Reaktion zwar ein klein wenig übertrieben, aber sie ist zumindest eine denkbare Konsequenz. Leider scheint der Autor hier nicht zu Ende gedacht zu haben: Sein &ldquo;<em>nächstes Tablet wird vielleicht doch ein Amazon Kindle</em>&rdquo;! Wow&hellip; Das dem Kindle zu Grunde liegende Android ist zwar kaum mehr als solches zu Erkennen, aber gerade von einem Autor des führenden IT- und Technikmagazins in Deutschland erwarte ich eigentlich, dass er weiß, was sich unter der Haube eines Geräts verbirgt.</p></li>
+<li><p>Ich werde das Gefühl nicht los, dass den Journalisten ihr kostenloses Tool genommen wurde, mit dem sie bisher komfortable ihren Beruf bewältigen konnten, ohne <em>dafür jemals einen cent bezahlt zu haben</em>. Mit anderen Worten: Sie haben Einnahmen auf Grund der Leistung anderer generiert, dem ursprünglichen Dienstleister aber nichts von den Leistungen abgegeben. Wenn also der Bundestag ein Leistungsschutzrecht einführt, um damit vor allem Google zur Kasse zu bitten<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, weil sich der Konzern angeblich schamlos an der Leistung der Verlage bereichere, ist das Okay. Wenn der selbe Konzern aber einen kostenlosen Dienst einstellt, an dem sich andere zuvor ungeniert bereichert haben, ist Google trotzdem wieder böse<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>.</p></li>
+<li><p>Da vor allem Menschen, die Texte produzieren, von der Einstellung des Google Readers betroffen sind, lesen wir auch so viel über das Ende des Dienstes. Immerhin sind hier mal Menschen von einer Negativentwicklung betroffen, die in entsprechender Position sitzen, um sich selbst Gehör zu verschaffen.</p></li>
+</ol>
+
+
+<p>Was die Einstellung des Readers vor allem zeigt: Es ist nie gut, sich ganz auf einen Anbieter zu verlassen. Dabei ist es egal, ob er nun Microsoft, Apple, Google oder sonstwie heißen mag. Alternativlose Abhängigkeit programmiert Enttäuschung quasi vor.</p>
+
+<h3>Alternativen</h3>
+
+<p>Das Internet wäre aber nicht das Internet, wenn es nicht viele Alternativen gäben. So könnte man sich von einem monopolistischen Anbieter zum nächsten hangeln, was aber die Lösung des Problems nur verschieben würde. Denn wer garantiert, dass der nächste Dienst überhaupt so lange erfolgreich ist wie der Reader? Insbesondere in Zeiten der Finanzkrise gehen Firmen und Staaten schneller pleite als ich meine Blogposts schreiben kann.</p>
+
+<p>Eigene Alternativen sind in diesem Punkt wahrscheinlich nachhaltiger. Wer einen eigenen Server unterhält, der oder die hat mit <a href="http://selfoss.aditu.de/">Selfoss</a> und <a href="http://tt-rss.org/">Tiny Tiny RSS</a> gleich zwei Applikationen zur Verfügung, die den Reader komplett ersetzen und sogar für Synchronisation zwischen Rechner, Tablett und Smartphone sorgen.</p>
+
+<p>Selfoss hatte ich kurz auf meinem Pi angetesten, aber die Leistung des kleinen kam schnell an seine Grenzen: Die Aktualisierung der sechs Probefeeds, die ich eingerichtet hatte, war auch nach mehreren Minuten nicht abgeschlossen &mdash; und die ganze Zeit lief der Prozessor auf Volllast. Zum sinnvollen Betrieb von Selfoss hätte ich dies mehrmals die Stunde ausführen müssen, womit der ARM des Raspberry niemals mehr zur Ruhe gekommen wäre. Tiny Tiny RSS soll sogar noch mehr Ressourcen benötigen, so dass ich nicht mal den Versuch wagte.</p>
+
+<p>Schlussendlich habe ich für mich und meine paar Feeds dennoch einen Weg gefunden. Da ich ein Großteil meiner Arbeit auf der Konsole erledige habe ich auf meinem Pi <a href="http://www.newsbeuter.org/">Newsbeuter</a> und <a href="http://elinks.or.cz/">eLinks</a> installiert. Beide Programme sind für die Kommandozeile: Das erste dient als Feedreader, das zweite ist ein CLI-Browser, damit ich auch längere Artikel lesen kann, die nur kurze Teaser zur Verfügung stellen<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>.</p>
+
+<p>Ansteuern kann ich den Reader von überall via ssh, so dass auch eine gewisse &ldquo;Synchronisation&rdquo; gewährleistet ist, auch wenn ich de facto jetzt alle RSS-Feeds auf meinem Pi lese. Dank diverser Terminal-Emulatoren kann ich auch mit Android auf Newsbeuter zugreifen, womit ich mir im Endeffekt eine schlanke, aber meinen Bedürfnissen durchaus gerechte Lösung zusammengestellt habe.</p>
+
+<p>Newsbeuter setzt auf eine sqlite-Datenbank auf, was einige vielleicht abschrecken könnte. Wer sich daran stört, der oder die sollte sich <a href="">Canto</a> anschauen, welches ebenfalls auf der Kommandozeile läuft. Ich habe Newsbeuter den Vorzug gegeben, weil sich für mich die Bedienung &ldquo;intuitiver&rdquo; anfühlte. Mit anderen Worten: Reine Geschmacksgründe haben bei mir den Ausschlag gegeben.</p>
+
+<hr />
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>und natürlich, um Abmahnanwälten weiterhin ein sicheres Grundeinkommen zuzuschustern, weil Blogger ihnen als &ldquo;Kollateralschaden&rdquo; quasi auf dem Präsentierteller serviert  werden.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Hier scheint sich ein wenig die Schlange in den Schwanz zu beißen: Google ist böse, weil es die Leistung der Verlage anzapft und diese in Dienste bereitstellt, die hauptsächlich von Verlagsmitarbeitern genutzt werden, die wiederum Texte produzieren, die von Google ungerechtfertigt weiter verbreitet werden, die vor allem Journalisten lesen und nutzen, um damit Storys zu schreiben, die Google&hellip; Ich glaube, ich versteht, worauf ich hinaus will.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Heise macht dies beispielsweise bei allen Angeboten. Ist schon doof, wenn man sonst nur drei Zeilen des Artikels lesen könnten.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

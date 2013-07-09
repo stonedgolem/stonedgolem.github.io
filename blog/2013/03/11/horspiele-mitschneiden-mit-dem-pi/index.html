@@ -1,0 +1,427 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Hörspiele mitschneiden mit dem Pi - Stoned Golem</title>
+  <meta name="author" content="Florian Cygus">
+
+  
+  <meta name="description" content="Der Raspberry Pi ist schon ein toller Kleinstrechner. Vor allem der geringe Stromverbrauch von gerade mal 3,5 Watt prädestiniert ihn für Einsätze, &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Stoned Golem" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39631435-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Stoned Golem</a></h1>
+  
+    <h2>*-* ... und wir wissen, dass es keine Wunder gibt ... *-*</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:stonedgolem.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Hörspiele Mitschneiden Mit Dem Pi</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-11T21:09:22+01:00" pubdate data-updated="true">Mar 11<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Der Raspberry Pi ist schon ein toller Kleinstrechner. Vor allem der geringe Stromverbrauch von gerade mal 3,5 Watt prädestiniert ihn für Einsätze, die einen dauerhaft arbeitenden Rechner erfordern: Ob als kleiner OwnCloud-Server oder für kleinste private Websites, mit dem Pi lassen sich derartige Wünsche schnell und kostengünstig realisieren. Aber auch für Fans der gepflegten, auditiven Unterhaltung eignen sich der Pi hervorragend: Mit nur einem kleinen Programm lassen sich problemlos MP3-Radiostreams aufzeichnen. Dies füllt entweder die Musiksammlung oder den Hörspielordner, je nach dem, zu welchem Zweck das Programm genutzt wird.</p>
+
+<!-- more -->
+
+
+<h2>Einige Vorbemerkungen: Worum geht&rsquo;s?</h2>
+
+<p>Da es genug Websites gibt, die die Aufnahme von Musikradios erklären, möchte ich an dieser Stelle speziell auf die Möglichkeiten zur Hörspielaufnahme eingehen. Alle Radiosender des öffentlich-rechtlichen Rundfunks stehen auch als Stream zur Verfügung, so dass es nahe liegend ist, diese Mitzuschneiden, um kostengünstig die Hörspielsammlung aufzustocken. Allein im deutschsprachigen Raum werden pro Woche um die 50 bis 70 Hörstücke gesendet, unter denen sich einige Perlen finden lassen.</p>
+
+<p>Die meisten dieser Stücke wurden mit Geldern aus der Rundfunkgebühr bezahlt und sollten zumindest meiner Meinung nach ohnehin allen jederzeit und kostenlos zur Verfügung stehen. Geschicktes Taktieren der privaten Rundfunkanstalten verhindert aber, dass die gemeinschaftlich finanzierten Produktionen gesamtgesellschaftlich abrufbar sind. Zwar sieht der aktuelle Rundfunkstaatsvertrag vor, dass Produktionen bis zu sieben Tage online als Download angeboten werden dürfen, aber dies ist trotzdem nicht immer der Fall: So steht der aktuelle &ldquo;Plan B Krimi&rdquo; von Eins Live, der den schönen Titel <a href="http://www.einslive.de/sendungen/plan_b/krimi/2013/03/130307_road_of_the_dead.jsp">Road of the Dead</a> trägt, nur als Stream aber nicht als Download zur Verfügung. Als Begründung werden nur &ldquo;rechtliche Gründe&rdquo; angegeben.</p>
+
+<p>Wohl dem also, der sich nicht auf die Gnade der Rundfunkanstalten verlässt! Privatkopien und Rundfunkaufzeichnungen sind in Deutschland <del>noch</del> nicht verboten und es ist dabei sogar egal, ob tatsächlich über Funk, also Radio, oder über&rsquo;s Internet aufgezeichnet wird. Das Mitschneiden der MP3 Streams hat gegenüber Kassetten den deutlichen Vorteil, dass sich die Dateien leicht mit weiteren Programmen bearbeiten und beliebig und ohne Qualitätsverlust auf verschiedenen Datenträgern sichern lassen. Einziger Nachteil: Der Rechner musste immer laufen, was den Stromverbrauch in die Höhe trieb. Die dadurch entstehenden Kosten sind im Vergleich zu den Preisen der Kauffassungen der Radiohörspiele, wie sie beispielsweise der Hörverlag anbietet, nicht sonderlich hoch. Aber wir haben deren Produktion schon mit den Rundfunkgebühren bezahlt und werden dann nochmal zur Kasse gebeten, wenn wir das Hörspiel zu jeder Zeit abspielen wollen.</p>
+
+<p>Wie dem auch sei, mit dem Raspberry Pi minimieren sich jetzt die Stromkosten auf einen Bruchteil und der Aufnahme steht kein schlechtes ökologisches Gewissen mehr im Wege.</p>
+
+<h2>Was wird gebraucht?</h2>
+
+<p>Die Liste stellt keine <em>Minimalkonfiguration</em> dar. Um Neulinge nicht zu überfordern werde ich auf den Einsatz von Techniken wie ssh verzichten, denn wer ssh kennt, der oder die wird auch problemlos nachfolgendes mit ssh anwenden können. Wer wirklich viele Hörspiele aufnehmen möchte und den Pi rund um die Uhr als Server für alles mögliche betreibt, sollte sich ohnehin mit Fernadministration auseinander gesetzt haben, da sie das Leben deutlich vereinfachen.</p>
+
+<p>Mit der Aufnahme ist der Pi auch nicht wirklich ausgelastet. Ich betreibe nebenbei noch einen kleinen Webserver, ein Ikiwiki und Ampache auf dem Kleinen und hatte bisher keine Probleme bei der Performance. Auch nicht, wenn ich mehrere Hörspiele parallel mitgeschnitten habe.</p>
+
+<p>Für Menschen, die sich schon ein wenig besser mit Linux auskennen und die schnell wissen wollen, wie sie ihren Pi zum Hörspielrekorder machen, gibt es am Ende des Artikels eine Schnellübersicht der wichtigsten Schritte. Es soll ja niemand gezwungen werden, mehr zu lesen, als notwendig.</p>
+
+<p>Benötigt werden:</p>
+
+<ul>
+<li><p>ein Raspberry Pi Model A oder B;</p></li>
+<li><p>ein Netzwerkkabel (nur bei Model B) <em>oder </em>ein WLAN-Stick zum Verbinden des Pis mit dem Router;</p></li>
+<li><p>eine SD-Karte mit einem installierten <a href="http://www.raspberrypi.org/downloads">Raspbian &ldquo;wheezy&rdquo;</a> (<a href="http://elinux.org/RPi_Easy_SD_Card_Setup">hier gibt es noch ein wenig Hilfe zur Installation</a>);</p></li>
+<li><p>Tastatur und Maus;</p></li>
+<li><p>einen Monitor oder Fernseher;</p></li>
+<li><p>ein entsprechendes Kabel, um den Pi an den Monitor zu schließen;</p></li>
+<li><p>ein USB-Hub ist beim Model A zwingend erforderlich, da nur ein USB-Port zur Verfügung steht. Beim Model B kann das Hub optional sein. Für den Einsatz des Pis mit ssh kann bei beiden Modellen auf das Hub verzichtet werden.</p></li>
+<li><p>Zur Speichererweiterung lässt sich auch optional ein USB-Stick verwenden, auf dem die aufgezeichneten Streams geschrieben werden.</p></li>
+</ul>
+
+
+<h2>Installation der benötigten Software</h2>
+
+<p>Nachdem der Pi angeschlossen und das Grundsystem mit der <a href="http://raspberrycenter.de/handbuch/grundinstallation-raspi-config">raspi_config</a> eingestellt wurde, bootet ihr euren Pi ganz normal. Im Grunde ist es egal, ob ihr in die grafische Oberfläche LXDE bootet oder ihr euch mit der Kosoleneingabe begnügt. Da sich dieses Tutorial aber vor allem an Neulinge richtet, gehe ich davon aus, dass LXDE gebootet wurde.</p>
+
+<p>Mit der Grundinstallation von Raspbian wheezy sind die meisten Programme schon enthalten, die wir für unsere Aufgabe benötigen. Lediglich das Programm <em>streamripper </em>muss nachinstalliert werden. <em>streamripper</em> ist das Programm, welches später für das Mitschneiden der Streams zuständig sein wird. Damit es<em> </em>installiert werden kann wird eine bestehende Verbindung mit dem Internet benötigt, die auch bei allem, was folgt, als gegeben angenommen wird. Versichert euch also, dass euer Pi mit dem Router verbunden ist und ins Internet gelangt. Am einfachsten lässt sich dies mit einem Raspberry Pi Modell B und einem LAN-Kabel erreichen, welches den Rechner direkt mit eurem Router verbindet.</p>
+
+<p>Öffnet unter LXDE das Programm &ldquo;LXTerminal&rdquo;. Dieses Programm emuliert eine Kommandozeile, über die ihr die folgenden Befehle an den Rechner übermittelt. Bevor wir aber neue Programme installieren sollte überprüft werden, ob alle Programme auf dem neusten Stand sind. Dazu geben wir folgendes in die Konsole ein:</p>
+
+<pre><code>sudo aptitude update &amp;&amp; sudo aptitude safe-upgrade
+</code></pre>
+
+<p>Im Grunde sind dies zwei Befehle: Der erste weist den Paketmanager <em>aptitude</em> an die neusten Paketlisten zuladen, der zweite Befehl schlägt aktualisierte Pakete zur Installation vor und installiert diese nach eine Bestätigung. Sobald euer System auf dem neusten Stand ist wird es Zeit, <em>streamripper </em>zu installieren. Dies ist wiederum einfach mit folgenden Befehl möglich:</p>
+
+<pre><code>sudo aptitude install streamripper
+</code></pre>
+
+<p>Damit sind wir mit der Vorbereitung der Software auch schon fertig. Auf geht&rsquo;s zum lustigen Timer-Programmieren.</p>
+
+<h2>Zwischenspiel: Was will ich eigentlich aufnehmen?</h2>
+
+<p>Spätestens jetzt wird einigen auffallen, dass sie gar nicht die regulären Hörspielzeiten der Radiosender kennen. Oder zwar Zeit und Sender wissen, aber nicht die URL des Streams. Zwar lassen sich alle diese Fragen durch elementares Googlen beantworten, aber auf Dauer wäre das doch ziemlich umständlich. Soviel Mühe muss man sich auch nicht machen, wenn man die <a href="http://hoerdat.de/">Hörspieldatenbank</a> kennt! Auf dieser Seite finden sich nicht nur Einträge zu vielen deutschsprachigen Hörspielproduktionen sondern auch Informationen zu anstehenden Sendungen des deutschen, österreichisches und schweizerischen Rundfunks! Praktischer Weise mit Sendezeit, geplanter Laufzeit und Link auf den Stream des Senders. Schaut euch ein wenig dort um und sucht euch eine oder mehrere Sendungen raus, die ihr Aufnehmen wollt.</p>
+
+<p>Leider zeigt HoerDat nur Sendungen des öffentlich-rechtlichen Rundfunks an. Private Radiosender wie 89.0RTL spielen gelegentlich Hörspiele oder haben sie zumindest früher mal gespielt. Diese lassen sich zwar ebenso mit streamripper aufnehmen, wenn die URL des Streams bekannt ist, aber die Sendezeiten finden sich nicht bei HoerDat. Dennoch: Eine Übersicht, die besser und vollständiger als HoerDat ist, werdet ihr so schnell nicht finden. Und wenn doch, dann nennt sie mir bitte!</p>
+
+<h2>Aufnahmen mit <em>streamripper</em></h2>
+
+<p><em>streamripper</em> ist eigentlich zur Aufnahme von Musikstücken konzipiert: Im Idealfall läuft das Programm die ganze Zeit und schneidet einen Stream mit, der auf der Festplatte automatisch in kleinere Songdateien aufgespalten wird. Diese Dateien werden anhand der im Stream enthaltenden  ID-Tags benannt, so dass sich die Songs später komfortabel finden lassen. Auch wenn es für einige absonderlich sein mag: <em>streamripper </em>hat keine grafische Benutzeroberfläche, sondern es wird komplett in der Kommandozeile ausgeführt und nur über diese gesteuert.</p>
+
+<p>Das Aufteilen der Tracks mag im ersten Moment vielversprechend klingen, bei Hörspielaufnahmen hat es mich immer genervt, weswegen ich die Optionen &ldquo;-a&rdquo;, &ldquo;-A&rdquo;, &ldquo;-s&rdquo; und &ldquo;-l&rdquo; grundsätzlich als Optionen beim Start von <em>streamripper </em>angeben. Die Option &ldquo;-a&rdquo; sorgt dafür, dass der gesamte Stream in eine einzige MP3-Datei geschrieben wird. Würde ich die Option &ldquo;-A&rdquo; weglassen, würden zusätzlich zur großen Datei noch die geteilten Dateien auf die Festplatte geschrieben werden. Ich hätte also alles doppelt gespeichert: Einmal in der großen und einmal in den kleinen Files. Da mir die große Datei zur weiteren Verarbeitung ausreicht verzichte ich also auf das Erstellen der kleinen. Die Option &ldquo;-s&rdquo; sorgt dafür, dass kein eigener Ordner mit dem Streamnamen (beispielsweise NDR Info oder SWR) angelegt wird, in dem sich dann die Dateien befinden. Ich nutze diese Option, da ich mit &ldquo;-d /PFAD/ZUM/ORDNER&rdquo; schon zuvor festgelegt habe, wo ich die Datei gespeichert haben möchte. Zu guter letzt sorgt die Option &ldquo;-l&rdquo; dafür, dass sich <em>streamripper</em> nach der angegebenen Anzahl von <strong>SEKUNDEN </strong>selbst beendet.</p>
+
+<p>Dies sind bei weitem nicht alle Optionen, die <em>streamripper </em>bietet. Wer sich für weitere Optionen interessiert, der oder die sollte im Terminal folgendes eingeben:</p>
+
+<pre><code>man streamripper
+</code></pre>
+
+<p>Mit diesem Befehl wird das Online-Handbuch von <em>streamripper </em>angezeigt, das detaillierte Informationen zu allen Optionen bietet.</p>
+
+<p>Kommen wir also zum praktischen Teil und nehmen wir etwas auf. Hierfür müssen wir <em>streamripper</em> mit einem Befehl in der Konsole starten. Dieser Befehl setzt sich im Falle von <em>streamripper </em>aus drei Teilen zusammen: Dem Programmnamen <em>streamripper, </em>der URL des Streams, der aufgezeichnet werden soll, und weiteren Optionen, die wie der Name schon sagt, optional angegeben werden können.</p>
+
+<p>Folgender Befehl beginnt die sofortige Aufnahme von Deutschlandradio Kultur:</p>
+
+<pre><code>streamripper http://www.dradio.de/streaming/dkultur.m3u
+</code></pre>
+
+<p>Mit dieser Einstellung wird <em>streamripper </em>so lange Deutschlandradio aufnehmen, bis ihr entweder den Rechner ausschaltet oder ihr &ldquo;Strg+C&rdquo; im Terminal drückt: Mit dieser Tastenkombination lassen sich alle Programme, die im Terminal ausgeführt werden, beendet. Der Stream wird in eurem Home-Verzeichnis (auch &ldquo;Persönlicher Ordner&rdquo; genannt) gespeichert, wo jetzt ein neuer Ordner mit dem Titel &ldquo;Deutschlanradio Kultur &ndash; MP3&#8221;erschienen sein sollte.</p>
+
+<p>Mit den schon genannten Optionen würde eine Aufnahme beispielsweise so aussehen:</p>
+
+<pre><code>streamripper http://www.dradio.de/streaming/dkultur.m3u -d /home/pi/DKultur/ -a -A -s -l 4200
+</code></pre>
+
+<p>Wie zuvor starten wir <em>streamripper </em>mit der URL von Dradio Kultur, aber diesmal setzten wir selbst den Ordner und erzeugen dafür den Ordner &ldquo;DKultur&rdquo; in unserem Home-Verzeichnis. Sollte der angegebene Ordner beim Start von Streamripper nicht existieren, wird er einfach angelegt, sofern ihr dort Schreibrechte habt. Aber keine Sorge, als Benutzer &ldquo;pi&rdquo;, der standardmäßig bei Raspbian angelegt ist, habt ihr Schreibrechte im Ordner &ldquo;/home/pi&#8221;und allen darunter liegenden Ordnern. Die Bedeutung der Optionen &rdquo;-a&#8221;, &ldquo;-A&rdquo; und &ldquo;-s&rdquo; habe ich schon erklärt und mit der Option &ldquo;-l 4200&rdquo; bricht <em>streamripper </em>die Aufnahme nach exakt 4200 Sekunden ab und beendet sich selbst.</p>
+
+<p>Wir könnten nun alle Radiosender beginnen aufzunehmen, die uns interessieren, aber aus Rücksicht auf unsere Festplatte werden wir <em>streamripper </em>nicht die ganze Zeit laufen lassen, sondern es zu einer bestimmten Zeit starten und beenden.Wie schon aufgezeigt ist beendet kein Problem, aber leider bietet <em>streamripper</em> keine Option an, dass es sich selbst zu einer bestimmten Zeit startet. Und hier kommt das Programm <em>cron </em>ins Spiel.</p>
+
+<h2>Zeitgesteuerte Aufnahmen mit <em>cron</em></h2>
+
+<p><em>cron </em>ist ein Systemprogramm von Raspbian, das zeitgesteuerte Aufgaben ausführen kann. In einer Datei wird dafür der Zeitpunkt und die zu erledigende Aufgabe eingegeben. Um in die Tabelle zu gelangen, in der diese angaben zu machen sind, geben wir in der Konsole folgenden Befehl ein:</p>
+
+<pre><code>crontab -e
+</code></pre>
+
+<p>In der letzten Zeile der Datei, die sich öffnet, können wir eingeben, zu welcher Zeit wir wollen, dass <em>cron </em>ohne unser weiteres Zutun <em>streamripper </em>ausführt. Um die Funktion von <em>cron </em>an reinem Beispiel aufzeigen zu können, nehmen wir an, dass wir am 4. Mai 2013 um 21:05 auf NDR Info das Hörspiel &ldquo;Kap der Finsternis&rdquo; aufnehmen wollen. Die Angaben sind übrigens nicht fiktiv und der entsprechende Eintrag in der <em>crontab </em>würde so aussehen:</p>
+
+<pre><code>00 21 4 5 * streamripper http://ndrstream.ic.llnwd.net/stream/ndrstream_ndrinfo_hi_mp3 -d /home/pi/Kap_der_Finsternis/ -a -A -s -l 4200
+</code></pre>
+
+<p>Die Eingaben 00, 21, 4, 5 und * definieren den Zeitpunkt, zu dem <em>cron</em> den nachfolgenden Befehl ausführen soll. Die Zahlen bedeuten dabei folgendes:</p>
+
+<ul>
+<li><p>die erste steht für die Minute;</p></li>
+<li><p>die zweite für die Stunde;</p></li>
+<li><p>die dritte für den Tag des Monats;</p></li>
+<li><p>die vierte für den Monat</p></li>
+<li><p>und die fünfte für den Tag der Woche.</p></li>
+</ul>
+
+
+<p>Ihr seht also, ich lasse die Aufnahme 5 Minute vor dem eigentlichen Sendebeginn beginnen, um damit eventuelle zeitliche Schwankungen zu umgehen. Im Grunde wäre es auch egal gewesen, ob ich die Minute mit &ldquo;0&rdquo; oder &ldquo;00&rdquo; angegeben hätte: <em>cron </em>interpretiert beides als &ldquo;zur vollen Stunde&rdquo; und ich schreibe die Doppelnull in der Zeitangabe, weil es für mich auf diese Art lesbarer ist.</p>
+
+<p>Apropos lesbar: Die Angabe &ldquo;<em>&rdquo; bedeutet &ldquo;egal&rdquo; bzw. &ldquo;jeder/jeden&rdquo;. Mit der oben präsentierten Schreibweise habe ich <em>cron </em>gesagt, es soll <em>streamripper </em>am 4.5. um 21:00 Uhr ausführen und zwar an jedem Wochentag bzw. unabhängig davon, welcher Wochentag es ist. Hätte ich beispeislweise das &ldquo;</em>&rdquo; durch ein &ldquo;mon&rdquo; für Montag ersetzt, dann hätte <em>cron </em>die Aufgabe nur ausgeführt an einem 4.5., der gleichzeitig ein Montag ist!</p>
+
+<p>Wer sich jetzt über die komische Angabe wundert, dem oder der sei noch gesagt, dass <em>cron </em>eigentlich für regelmäßig wiederkehrende Aufgaben entwickelt wurde, die automatisch ausgeführt werden sollten. Eine Zeitangabe wie &ldquo;00 5 * * mon&rdquo; ergebt wieder mehr Sinn: Jeden Montag um 5 Uhr soll unabhängig vom Datun ein bestimmtes Programm ausgeführt werden.</p>
+
+<p>Nachdem wie den Eintrag in die <em>crontab </em>geschrieben haben, muss diese nur noch gespeichert und geschlossen werden. Wenn ihr ein Standard-Raspbian verwendet, dann wird der Editor höchstwahrscheinlich <em>nano </em>sein, der sich bei der Eingabe von &ldquo;crontab -e&rdquo; geöffnet hat. In diesem Fall drückt nach der Eingabe einfach &ldquo;Strg+O&rdquo; gefolgt von Enter und beendet <em>nano </em>mit &ldquo;Strg+X&rdquo;.</p>
+
+<p>Damit habt ihr euren Pi programmiert das Hörspiel aufzunehmen. Der Rechner wird dies auch zuverlässig machen, sofern er eingeschaltet ist und Internet zur Verfügung hat.</p>
+
+<p>Ich hoffe, ich konnte dir mit diesem Tutorial helfen und dich nebenbei noch ein wenig in die Bedienung von Programmen auf der Kommandozeile einführen. Für alle, die das schon kannten, gibt es hier wie Versprochen die Schnellübersicht:</p>
+
+<h2>Der Raspi als Aufnahmegerät in 6 Schritten:</h2>
+
+<ol>
+<li><p> Raspbian installieren und den Rechner ans Netz hängen.</p></li>
+<li><p> Den Rechner mit</p>
+
+<p>sudo aptitude update &amp;&amp; sudo aptitude safe-upgrade</p></li>
+</ol>
+
+
+<p>aktualisieren.</p>
+
+<ol>
+<li><p> <em>streamripper</em> installieren:</p>
+
+<p>sudo aptitude install streamripper</p></li>
+<li><p> Die <em>crontab </em>mit</p>
+
+<p>crontab -e</p></li>
+</ol>
+
+
+<p>öffnen, um den Start von <em>streamripper </em>zu Programmieren.</p>
+
+<ol>
+<li><p> <em>crontab </em>speichern und schließen.</p></li>
+<li><p> Warten, bis die Zeit des Hörspiels gekommen ist, sicherstellen, dass der Raspi über Strom und Internet verfügt und nach der Aufnhame das Hörspiel genießen.</p></li>
+</ol>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Florian Cygus</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-11T21:09:22+01:00" pubdate data-updated="true">Mar 11<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/computer/'>Computer</a>, <a class='category' href='/blog/categories/horspiel/'>Hörspiel</a>, <a class='category' href='/blog/categories/software/'>Software</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/" data-via="stonedgolem" data-counturl="stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/03/11/jahreszeitenshuffle/" title="Previous Post: Jahreszeitenshuffle">&laquo; Jahreszeitenshuffle</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht/" title="Next Post: Von Zwickmühlen, Popos und Kniffen. Oder: Werbung so lange das Datenvolumen reicht.">Von Zwickmühlen, Popos und Kniffen. Oder: Werbung so lange das Datenvolumen reicht. &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/07/09/go-on-and-comment/">Go on and Comment!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/04/07/brutality-sells-dot-dot-dot/">Brutality Sells...</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/03/31/zur-einstellung-des-google-readers/">Zur Einstellung Des Google Readers</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/03/27/zeiteinteilung/">Zeiteinteilung [ ZdT #20 ]</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/03/26/introducing-the-humble-mobile-bundle/">Introducing: The Humble Mobile Bundle</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/100390503096913841992?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Florian Cygus -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'stonedgolem';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/';
+        var disqus_url = 'stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
