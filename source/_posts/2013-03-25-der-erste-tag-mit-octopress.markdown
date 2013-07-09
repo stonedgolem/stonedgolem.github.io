@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Der erste Tag mit OctoPress"
+date: 2013-03-25 22:11
+comments: true
+categories: [Umzug, statische Blogs]
+---
+
+###tl;dr
+
+1. Umstellung gelungen
+
+	Die Umstellung ist gelungen und ich bin mit dem Ergenbnis zufrieden; jetzt stehen Umzugsarbeiten um.
+
+2. Neuerungen im Bezug auf die Nutzung von Octopress
+
+	**tl;dr** wird jetzt immer zur Einleitung benutzt. Ebenso wird wohl Google Analytics demnächst hier eingesetzt werden.
+
+3. Details zum Umzug
+
+	Die dynmische und statische Version von Stoned Golem werden demnächst die URLs tauschen, aber beide bleiben online. Vorerst.
+
+------
+
+Es ist vollbracht. OctoPress läuft, das Template gefällt und der Blog steht. Zwar klaffen noch viele Lücken und ich muss noch die alten Posts überführen, aber es scheint, als könnte ich WordPress demnächst dicht machen. Aber wie stelle ich das am Geschicktesten an? Und welche Zukunft sehe ich für dieses Blog?
+
+<!-- more -->
+
+### Der Tag in der Retrospektive
+
+Nach einem Tag basteln kann ich folgendes Fazit ziehen: WordPress ist schneller zu konfigurieren. Kenntnisse in den Sprachen des Webs (html, css, php etc. pp.) sind beim großen Monster nicht nötig. Funktionen können schnell durch kleine Plugins ergänzt werden, Themes sind in Hülle und Fülle verhanden. Die Zahl der Plugins ist Legion, aber ihre Nutzung hat dagegen einen hohen Preis, denn jedes Plugin siedelt sich im RAM des Servers ein. So lange, bis das Limit erreicht ist. Und dann funktioniert die Website einfach nicht mehr. Als ich mit _Stoned Golem_ in die Memory-Falle gelaufen bin, gingen sprichwörtlich die Lichter aus: Ein Einloggen in den Admin-Bereich war nicht mehr möglich. Folglich konnte ich auch das eine Plugin, dass ich zu viel installiert habe, nicht mehr löschen.
+
+Zum Glück versuche ich immer sparsam mit meinen Ressourcen umzugehen, so dass ich noch Luft nach oben hatte und das Limit erhöhen konnte. Auch wenn ich glimpflich davon gekommen bin, so habe ich dennoch meine Lektion gelernt. Ansonsten würde ich jetzt nicht hier mit OctoPress schreiben.
+
+Wie gesagt und wie es zu erwarten gewesen war, ist WordPress in der Benutzung um einige Potenzen einfacher. Im Prinzip dauert es nicht sehr lange, bis WordPress produktiv genutzt werden kann, dementsprechend sind auch schnell die Post beisammen. Die Einfachheit ist es aber auch, die vom Schreiben ablenken kann, denn neue Plugins sind immer nur einen Klick entfernt. Wenn die Schreibe stockt, dann verliert man sich schnell in den unzähligen Möglichkeiten, die WordPress bietet.
+
+Diese Stunden des Spielens standen nun zumindest bei mir am Anfang der OctoPress Nutzung. Einiges habe ich ja schon umsetzen könne -- und auch bei der noch offenen Frage der Kommentare bin ich schon einen Schritt weiter. Die Funktion steht im Grund, nur leider ist es mir bisher nicht möglich gewesen, dies auch noch in _schön_ zu gestalten. An dieser Stelle machten sich meine Unkenntnisse der Websprachen zu deutlich bemerkbar.
+
+Andere Punkte wie die [Flattr](www.flattr.com)-Integration konnte ich mir mit meinen Kenntnissen noch zusammenkopieren und in lauffähigen Code umwandeln. Ich muss zugeben, ich bin schon ein klein wenig Stolz auf mich. Auch im Template habe ich ein wenig rumgebastelt und insgesamt bin ich zufrieden mit dem Ergebnis. Das Blog sieht einfach schon aus: Funktional und doch ausgelegt für Bleiwüste. Das klingt nach mir.
+
+###Die Zukunft von Stoned Golem
+
+Ich denke, ich werde bei statischen Seiten bleiben. Es gefällt mir einfach besser, meine Posts in einem Editor mit Auszeichnungssprache zu schreiben als in einem dynamischen WYSIWYG-Dingsbums, das die Schrift klein rendert und bei dem ich immer wieder zum HTML-Editor wechseln muss, weil irgendwelche kryptische Artefakte sich im WYSIWYG Bereich zwar erstellen, aber nicht wieder entfernen lassen. Da bin ich mit dem Editor meiner Wahl besser bedient und muss mich weniger mit der Formatierung rumärgern.
+
+Durch die schleichende Umstellung auf statische Seiten wird sich vieles ändern. Kommentare fliegen vorerst raus, da bin ich mir schon ziemlich sicher. Wer mich Kontaktieren möchte, der oder die kann mir eine Email schreiben. Auch bin ich in den sozialen Netzwerken [Google Plus](plus.google.com) und [Twitter](twitter.com) aktiv und dort erreichbar. Ein Update zu meinem Post kann ich immer noch schreiben, wenn ich vollkommen falsch liegen sollte oder mich die Ereignisse schlichtweg überholt haben. Und natürlich besteht weiterhin die Option, dass ich bei Bedarf doch wieder auf eine Kommentarfunktion zurückgreife. Ich weiß zu wenig über [Disqus](www.disqus.com), als dass ich ad hoc sagen könnte, wie _schlimm_ es wirklich ist.
+
+Allerdings werde ich etwas ändern in der Art, wie ich meine Post aufarbeite. In Zukunft werde ich immer ein **tl;dr** ([too long, didn't read](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)) einfügen, gefolgt von einer kleinen Einleitung, die maximal ein bis zwei Absätze lang sein soll. Da ich auch zu denen gehöre, die lieber mehr sagen, als eigentlich nötig wäre, ist dies eine gute Übung für mich, mich auf das wesentliche zu fokussieren. Für die Leser * innen hat das den angenehmen Effekt, dass sie schon auf der Startseite sehen können, ob sie der Post interessiert oder nicht. Außerdem wird die Startseite mit dieser Taktik nicht zu lang. Ich mag es einfach persönlich nicht, wenn ich bei Google etwas finde, auf eine Seite weitergeleitet werde, mir einen Wolf scrolle und dann das Gesuchte dort nicht finde, weil es aktualisiert wurde. Muss meiner Meinung nach nicht sein.
+
+### Was steht an
+
+Ich muss die alten Artikel aus dem Wordpress extrahieren, in Markdown umwandeln und dann durchschauen, ob dabei irgendwas fürchterlich schief gegangen ist. Dies wird ein wenig dauern, deswegen werde ich den dynamischen Blog noch eine Weile online lassen, ihn allerdings auf eine neue Subdomain legen. Mit anderen Worten: Ich tausche die beiden Seiten einfach aus, lasse aber beide noch online.
+
+Neben den neuen Kommentare muss ich auf der statischen Seite noch einige der "pages" wie About und Impressum überarbeiten. About gibt es momentan gar nicht, aber ich habe schon eine schöne Idee, wie ich das angehen kann. Da diese Seite jetzt bei [github](www.github.com) liegt, habe ich derzeit überhaupt keinen Zugriff auf irgendwelche Zugriffsdaten, weswegen ich wohl oder über auf [Google Analytics](http://www.google.com/analytics/) zurückgreifen werde. Ist nicht toll, aber naja. Sobald ich aber meinen Disclaimer entsprechend geändert habe, werde ich es wohl auch umsetzen.
+
+Leider kann ich die neue Website nicht auf meinem aktuellen Webspace hosten. Okay, ich könnte, es wäre mir aber zu aufwendig. Da ich keinen ssh-Zugriff auf die Server habe, kann ich nicht mit git arbeiten. Im Endeffekt würde ich also alles bei github hosten und erstellen und müsste dann manuell die erstellten Seiten per ftp auf meinen Webspace kopieren. Kurz gesagt: Erhöhter Aufwand dafür, dass der Blog doppelt im Netz vorhanden ist. Da kann ich auf einfach das Angebot von github direkt nutzen.
+
+Welche Aufgabe der angemietete Webspace in Zukunft haben wird, weiß ich noch nicht genau, aber mir wird schon was einfallen. Er ist weder teuer noch leistungsstark, wie man unschwer am erreichten memory limit von Stoned Golem erkennen kann -- aber er bietet ein paar Funktionen, die ich angenehm finde, weil ich auch irgendwo faul bin. Also bleibt er vorerst bestehen. Und ganz ehrlich: Ich denke, es wird sich schon eine Verwendung finden lassen.
+
+Da mir gerade nicht mehr einfällt und es noch viele, viele Baustellen gibt, die ich bearbeiten muss, sollte dies als Zwischenstand reichen.

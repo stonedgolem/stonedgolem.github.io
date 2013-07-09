@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2013-03-25 13:17:28
+layout: post
+slug: php-nervt
+title: PHP nervt ...
+wordpress_id: 689
+categories:
+- In eigener Sache
+- Software
+tags:
+- Alternativen
+- GitHub
+- OctoPress
+- statische Weblogs
+---
+
+Dies ist ein kleines Blog, das vor allem Buchstaben über den Äther schubst. Keine großen Ansprüche, wenig Besucher, kaum Aufwand und Anforderung. Aber das Dynamische Trio WordPress/MySQL/PHP belegt auf dem Server derzeit soviel Platz im RAM, dass mir sogar schon das Backend verschlossen bleibt. Ich hab zwar jetzt das PHP memory_limit erhöht, aber auf Dauer sehe ich es nicht ein, so viele Ressourcen für ein wenig Palaver zu verbraten.
+
+Ich bin schon länger am Überlegen, ob ich nicht auf statische Weblogs umsteigen sollte. Gründe dafür gibt es viele: Weniger Ressourcen, die verschwendet werden sowie [Markdown](http://de.wikipedia.org/wiki/Markdown) und [vim](www.vim.org) zum editieren der Einträge und damit auch kein webbasiertes Backend. Eine git-Unterstützung wäre dann noch das nonplusultra. Im Gegenzug würden die Kommentare vorerst wegfallen, da ich nicht auf proprietäre Lösungen wie Disqus setzten möchte. Aber so wenig, wie hier los ist, wär das auch kein großer Verlust. Denke ich mir gerade und bleibe bei der Meinung, so lange niemand laut widerspricht.
+
+Ideen, welche System zum Einsatz kommen könnten, gab es viele: [Ikiwiki](ikiwiki.info), [LetterPress CMS](https://github.com/an0/Letterpress), [Kirby](getkirby.com), [Jekyll](https://github.com/mojombo/jekyll), [Pelican](http://docs.getpelican.com/en/3.1.1/)... Kirby hat mich zwar auf den Geschmack von statischen Seiten gebracht, flog aber raus, da es ein proprietäres System ist. Ikiwiki finde ich zwar im Handling sehr geil, aber die Dokumentation der Nutzung als Blog lässt sehr zu wünschen übrig. Das Ergebnis gefällt mir derzeit noch nicht so sehr, weswegen ich lieber etwas nehme, das von Haus aus als Blog gedacht ist. LetterPress ist noch ziemlich jung, wird aber momentan von mir beobachtet. Pelican scheint nett zu sein, aber irgendwie... ich weiß auch nicht.
+
+And the winner is: [OctoPress](http://octopress.org/). Läuft zwar auf Ruby, aber ich habe mich im Zusammenhang mit tent schon sehr damit beschäftigt. Dafür ist das System schon recht weit vorgeschritten, die Unterstützung scheint zu stimmen und die Anpassungen, die mir vorschweben, scheinen damit möglich zu sein. Darüber hinaus kann ich die Seite erstmal kostenlos auf github hosten, um zu schauen, ob sich der Workflow gut anfühlt.  Denn so lange ich mir nicht hunderprozentig sicher bin, wohin die Reise gehen soll, wird erstmal WP an dieser Stelle weiterhin seinen Dienst tun.
+
+Inzwischen ist Octotpress sogar eingerichtet und ich experimentiere momentan mit einer [statischen Version von Stoned Golem](http://stonedgolem.github.com). Wer mag, kann einen Blick riskieren. Inhalte folgen in den nächsten Stunden. Hoffe ich.
+
+--- **Update**
+
+Die ersten Gehversuche mit dem statischen Post sehen schon ganz gut aus. Allerdings habe ich bisher nur Zugriff von einem Rechner aus. Das muss sich schnellstmöglich ändern :)
+
+**tl;dr**
+
+_Das Dynamische Trio (aka DDT) WordPress/MySQL/PHP nervt und verbrät zu viele Ressourcen_
+
+_Statisches Weblog mit OctoPress und GitHub als Alternative eingerichtet. URL: [stonedgolem.github.com](stonedgolem.github.com)_

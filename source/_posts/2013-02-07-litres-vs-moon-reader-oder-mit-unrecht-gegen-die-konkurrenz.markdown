@@ -1,0 +1,34 @@
+---
+comments: true
+date: 2013-02-07 16:29:35
+layout: post
+slug: litres-vs-moon-reader-oder-mit-unrecht-gegen-die-konkurrenz
+title: 'LitRes vs. Moon+ Reader. Oder: Mit Unrecht gegen die Konkurrenz'
+wordpress_id: 522
+categories:
+- Urheberrecht
+tags:
+- Android
+- eBooks
+- freier Markt
+- LitRes
+- Moon+ Reader
+---
+
+Ich hab auf diesem Blog schon an verschiedenster Stelle meine Gedanken zum Urheberrecht geäußert und werde wohl auch immer wieder hier und dort einige Überlegungen einfließen lassen. Was mich vor allem stört ist die Tatsache, dass das Copyright eigentlich den Wettbewerb zwischen Firmen reglementieren sollte, nun aber gegen Nutzer in Stellung gebracht wird. Wurde bei ihrem ersten Aufkommen die Collagen-Technik von Künstlern noch als intelligente und schützenswerte Reorganisation der Umwelt gefeiert, so dürfen im Kindergarten angefertigte "Schnipselplakate" nicht mehr präsentiert werden, weil sonst eventuell eine Abmahnung droht. Auch der jugendliche Spieltrieb, der neumodisch in _Remixen_ seinen Niederschlag findet, wird dank Coypright schnell zu einer höchst kriminellen Straftat, die individuell schwerwiegendere Folgen haben kann als einer vergewaltigten Frau die Hilfe zu verweigern.
+
+Die Fronten in diesem Streit sind ebenso verhärtet wie zwischen Google/YouTube und der GEMA: An eine gütliche Einigung glaube ich nicht mehr. Das nachfolgende Beispiel wirft aber die Frage auf, ob ein derart rigides Copyright wirklich erstrebenswert ist, denn es ist ein Musterbeispiel davon, wie juristische Winkelzüge vorgebraucht werden um sich mehrere unliebsamer Konkurrenten zu entledigen. Vorhang auf für beinahe mafiöse Verhältnisse im Google Play Store: Eine Geschichte in neun Opfern und mindestens einer Erpressung.
+
+<!-- more -->Bevor ich mit der Kriminalgeschichte beginne stelle ich erstmal den Angeklagten ein wenig näher vor. Die beschuldigte App, um die es im folgenden maßgeblich gehen wird, hört auf den schönen Namen [Moon+ Reader](http://www.moondownload.com/index.html). Es gibt sie in einer werbefinanzierten und für den Nutzer kostenlosen und einer werbefreien Pro-Version. Moon+ gehört zur Reihe der eBook-Lese-Apps, von denen sich unzählige auf Google Play finden lassen. Das Besondere an Moon+ ist meiner Meinung nach der Funktionsumfang und die sinnigen Features, die das Programm zu einer leichtgewichtigen, schnellen und universalen Lese-App machen: Von DRM-geschützten Werken einmal abgesehen (die ich eh so gut es geht meide) hat Moon+ bisher jeder Datei geöffnet, die ich der App zum Anzeigen übertragen habe: Ob ePUBs, PDFs, CBRs und CBZ, bis jetzt konnte ich alles lesen ohne auf eine andere App zugreifen zu müssen.
+
+Dieser Funktionsumfang war aber damals nicht der ausschlaggebende Grund, warum Moon+ für mich zu einem unentbehrlichen Begleiter wurde, denn den Umfang an anzeigbaren Formaten habe ich erst mit der Zeit entdeckt. Entscheidet war für mich beim Kauf der App, dass sie direkt auf OPDS-Server zugreifen kann, so dass ich aus der App heraus Bücher laden konnte ohne den Umweg über den Browser zu gehen. Moon+ unterstützt dabei nicht nur freie [OPDS-Server](http://en.wikipedia.org/wiki/OPDS), die kostenlose Werke zur Verfügung stellen: Es können auch passwortgeschützte Server angesprochen werden, weswegen ich sowohl meine tägliche taz direkt aus Moon+ heraus laden als auch auf mein Konto bei [beam-ebooks](http://www.beam-ebooks.de/) zugreifen kann. Anbindungen dieser Art machen das Leben leichter -- und diesem Luxus waren mir die 5 USD wert, die die werbefreie App kostet.
+
+Diese App verschwand nun pünktlich zum Monatswechsel aus dem digitalen Regalen von Google Play: Izzy, eine der deutschsprachigen Koryphäen im eBook-Segment und [Betreiber eines renommierten OPDS-Servers](http://www.androidpit.de/3-333-freie-eBooks-im-ePub-Format), berichtete auf AndroidPit, über die plötzliche Unerreichbarkeit [beider Versionen von Moon+ Reader ](http://www.androidpit.de/moon-reader-aus-dem-playstore-entfernt-entwickler-bittet-um-hilfe). Als Begründung wurde angegeben, dass die Software gegen das Copyright verstoßen würde. Das Problem: Der Reader selbst verletzt keine Rechte, sondern es lassen sich über ihn die schon angeführten OPDS-Server zugreifen. Mehr noch: Die Nutzer*innen können selbst weitere OPDS-Server konfigurieren. LitRes, die russische Firma, die die Löschung von Moon+ beantragt hat, macht genau diese OPDS-Fähigkeit Moon+ zum Vorwurf und versucht durch die Löschung Druck auf den Entwickler auszuüben, bestimmte IPs zu sperren, auf denen angeblich illegal kopierte Bücher zugänglich gemacht werden.
+
+Die Forderung ist hirnrissig. Würde eine solche Argumentation anerkannt werden, dann müssten auch alle Browser bestimmte IPs aussperren. Aber darum geht es in diesem konkreten Fall nicht, denn der Verweis auf das Urheberrecht ist nur ein Nebenkriegsschauplatz, der die eigentlichen Intentionen von LitRes verschleiern sollte: Unliebsame Konkurrenz, deren Apps einen vergleichbaren (und besseren) Funktionsumfang aufwiesen wie die App des Anklägers, wurden auf diese Weise aus dem Verkehr gezogen. Mindestens diesen Monat wird Moon+ nicht auf Google Play zum Download angeboten werden -- die App von LitRes aber schon. Den Einnahmeausfall des Moon+ Entwicklers wird wohl nicht ersetzt werden.
+
+Dieser Missbrauch des Urheberrechts, der dazu führte, dass sich ein Anbieter einen Wettbewerbsvorteil erschleicht, war intendiert. Daran gibt es für mich keinen Zweifel und die Aktionen von LitRes machen dies eindeutig klar. Denn andere eBook-Leseapp-Anbieter, die nicht von der ersten Welle der Sperrungen betroffen waren, haben eine <del>nette</del> [Email von LitRes bekommen](http://www.androidpit.de/de/android/forum/thread/507061/Moon-Reader-aus-dem-Playstore-entfernt-helft-Seany?si=60), mit der Aufforderung, bestimmte IPs zu sperren. Sollten sie es nicht tun, könnten sie ja am Beispiel von Moon+ sehen, was auf sie zukommen würde. Gemeinhin wird dies als Straftatsbestand der Erpressung anerkannt.
+
+LitRes wird wohl keine Konsequenzen von Seiten Googles ob das geschäftschädigenden Verhaltens zu befürchten haben. Ungestraft bleiben sie aber nicht. Die durchschnittliche Bewertung der App sank von soliden vier Sternen auf unter zwei. In den Kommentaren machten die Nutzer auf das Schicksal von Moon+ aufmerksam.
+
+Dem Entwickler von Moon+, der mit der App auch seine Familie ernährt, schlug eine unglaubliche Solidarität entgegen. Ein schönes Beispiel, dass im Netz nicht alles schlecht ist. Denn das Verhalten von LitRes ist kein Internetverhalten, sondern etwas, dass sie in der "freien Wirtschaft" und im "lupenreinen demokratischen Staate" Russland gelernt haben. Gleichzeitig macht das Beispiel deutlich, dass wir eine dringende Reform des Urheberrechts brauchen. Denn dass Mitbewerber auf Grund einer bloßen und unhaltbaren Anschuldigung existenziell bedroht werden können, das geht eindeutig zu weit.
