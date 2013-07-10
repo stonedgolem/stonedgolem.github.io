@@ -1,0 +1,14 @@
+{% if post %}
+{% assign item = post %}
+{% else %}
+{% assign item = page %}
+{% endif %}
+
+{% capture flattr_url %}{{ site.url }}{{ item.url }}{% endcapture %}
+
+{% capture flattr_title %}{% if item.title %}{{ item.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+
+{% capture flattr_description %}{% if item.description %}{{ item.description}}{% else index == true %}{{ site.description }}{% endif %}{% endcapture %}
+
+{% capture flattr_param %}url={{ flattr_url | cgi_escape }}&amp;user_id={{site.flattr_user | cgi_escape }}&amp;title={{ flattr_title | cgi_escape }}&amp;category=text&amp;description={{ flattr_description | truncate: 1000 | cgi_escape }}&amp;tags={{ item.categories | join: "," | cgi_escape }}{% endcapture %}
+

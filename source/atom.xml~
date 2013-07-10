@@ -21,14 +21,7 @@ layout: nil
     <link href="{{ site.url }}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ post.id }}</id>
-    {% if site.flattr_user %}
-    {% include flattr_param.html %}
-    <link rel="payment" href="https://flattr.com/submit/auto?{{ flattr_param }}" type="text/html" />
-    {% endif %}
-    <content type="html"><![CDATA[
-	{% if site.flattr_user %} {% include flattr_feed_button.html %} {% endif %}
-      {{ post.content | expand_urls: site.url | cdata_escape }}
-    ]]></content>
+    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
   </entry>
   {% endfor %}
 </feed>
