@@ -4,7 +4,7 @@
   <title><![CDATA[Stoned Golem]]></title>
   <link href="http://stonedgolem.github.io/atom.xml" rel="self"/>
   <link href="http://stonedgolem.github.io/"/>
-  <updated>2013-07-09T14:34:19+02:00</updated>
+  <updated>2013-07-10T08:14:43+02:00</updated>
   <id>http://stonedgolem.github.io/</id>
   <author>
     <name><![CDATA[Florian Cygus]]></name>
@@ -18,7 +18,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/07/09/go-on-and-comment/"/>
     <updated>2013-07-09T11:11:00+02:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/07/09/go-on-and-comment</id>
-    <content type="html"><![CDATA[<p>Mal wieder eine Pause. Mal wieder unangekündigt. Ein Vierteljahr gab es hier keine neuen Posts, während ich mich bei Google Plus oder Twitter rumtrieb und Ingress spielte. Gründe gibt es viele, aber wahrscheinlich wollte ich nicht öffentlich rumheulen, wie schwer es als Geisteswissenschaftler ist einen Job zu finden. Den hab ich zwar noch immer nicht, aber ich habe zumindest eine Vorstufe davon erreicht. Drückt mit also die Daumen, damit sich vielleicht daraus eine Arbeitsstelle entwickelt.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F07%2F09%2Fgo-on-and-comment%2F&amp;user_id=stonedgolem&amp;title=Go+on+and+Comment%21&amp;category=text&amp;description=&amp;tags=Die+n%C3%A4here+Zukunft%2CIn+eigener+Sache" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Mal wieder eine Pause. Mal wieder unangekündigt. Ein Vierteljahr gab es hier keine neuen Posts, während ich mich bei Google Plus oder Twitter rumtrieb und Ingress spielte. Gründe gibt es viele, aber wahrscheinlich wollte ich nicht öffentlich rumheulen, wie schwer es als Geisteswissenschaftler ist einen Job zu finden. Den hab ich zwar noch immer nicht, aber ich habe zumindest eine Vorstufe davon erreicht. Drückt mit also die Daumen, damit sich vielleicht daraus eine Arbeitsstelle entwickelt.</p>
 
 <p>Aber das ist gar nicht der Grund, warum ich diesen Post hier schreibe. Vielmehr wollte ich darauf hinweisen, dass Stoned Golem weiter geht. Und inhaltlich wachsen wird. Etwas weniger Politik, etwas mehr Entertainment bzw. Kunst. Den Anfang wird eine Rezension machen, die ich heute noch im Anschluss einzustellen gedenke. Derer werden demnächst wohl einige folgen, vor allem aus dem Bereich Hörspiel und Science Fiction.</p>
 
@@ -37,7 +55,8 @@
 <p>Wie unschwer zu erkennen ist, sieht Stoned Golem mal wieder anders aus. Ich weiß wir wieso, aber mit dem alten Template konnte ich keine Kommentare via Disqus einbinden. Da Github ja bekanntlich die Nutzer-URLs von github.com auf github.io umgestellt hat, habe ich die Gelegenheit genutzt und das Blog erneut mit den richtigen URLs aufgesetzt. Im Standartthema gehen jetzt auch die versprochenen Kommentare.</p>
 
 <p>Insgesammt muss ich jetzt einige Funktionen wieder implementieren, darunter auch den vor allem bei mir beliebten flattr-Button. Je nach Lust und Laune kann dies den einen oder anderen Tag dauern. Wird also alles noch spannender, als geplant.</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -45,7 +64,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/04/07/brutality-sells-dot-dot-dot/"/>
     <updated>2013-04-07T16:01:00+02:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/04/07/brutality-sells-dot-dot-dot</id>
-    <content type="html"><![CDATA[<p>Was tut man nicht alles für Aufmerksamkeit, insbesondere wenn man mit ihr den eigenen Lebensunterhalt bestreitet. Nicht erst mit der Erfindung von Werbung, privaten Rundfunkprogrammen oder den 68zigern ist bekannt, dass &ldquo;sex sells&rdquo;. Was aber, wenn das rhythmische Zusammenspiel nackter Leiber die Auflage nicht mehr zu steigern vermag, weil der Markt gesättigt ist?</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F04%2F07%2Fbrutality-sells-dot-dot-dot%2F&amp;user_id=stonedgolem&amp;title=Brutality+sells...&amp;category=text&amp;description=&amp;tags=Gesellschaft%2CMedien" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Was tut man nicht alles für Aufmerksamkeit, insbesondere wenn man mit ihr den eigenen Lebensunterhalt bestreitet. Nicht erst mit der Erfindung von Werbung, privaten Rundfunkprogrammen oder den 68zigern ist bekannt, dass &ldquo;sex sells&rdquo;. Was aber, wenn das rhythmische Zusammenspiel nackter Leiber die Auflage nicht mehr zu steigern vermag, weil der Markt gesättigt ist?</p>
 
 <p>Eine Möglichkeit, diesem Dilemma zu entfliehen, lässt sich an der Titanic und ihrem regelmäßigen Techtelmechtel mit Hitler-Covern beobachten. Sinkt die Auflage, wird Adolf reanimiert und auf die Titelseite gebracht, auch wenn es ansonsten kaum oder sogar keinen Bezug zu Nazis im Heft gibt. Das Antlitz des selbsternannten Größten Feldherren aller Zeiten sorgt für den nötigen Absatz um den Angestellten ordentliche Löhne zahlen zu können<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>.</p>
 
@@ -89,7 +126,8 @@
 </ol>
 </div>
 
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -97,7 +135,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers/"/>
     <updated>2013-03-31T19:15:00+02:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/31/zur-einstellung-des-google-readers</id>
-    <content type="html"><![CDATA[<p>Okay, die Sache mit dem <strong>tl;dr</strong> <em>am Anfang</em> des Posts lasse ich sein, Die Idee finde ich zwar weiterhin nicht schlecht, aber die Platzierung ist bei genauerer Überlegung suboptimal und zerschießt das Layout. Anstatt mehr Übersichtlichkeit zu schaffen reduziere ich sie eher. War also &lsquo;ne dumme Idee.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F31%2Fzur-einstellung-des-google-readers%2F&amp;user_id=stonedgolem&amp;title=Zur+Einstellung+des+Google+Readers&amp;category=text&amp;description=&amp;tags=Alternativen%2CGoogle+Reader%2CNewsbeuter%2CRaspberry+Pi%2Cselfoss%2Cssh%2Ctiny+tiny+rss" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Okay, die Sache mit dem <strong>tl;dr</strong> <em>am Anfang</em> des Posts lasse ich sein, Die Idee finde ich zwar weiterhin nicht schlecht, aber die Platzierung ist bei genauerer Überlegung suboptimal und zerschießt das Layout. Anstatt mehr Übersichtlichkeit zu schaffen reduziere ich sie eher. War also &lsquo;ne dumme Idee.</p>
 
 <p>Ebenso doof, wie über die Osterfeiertage mit Fieber im Bett zu liegen. Zwar kann ich nun wieder ein paar Sachen am Stück machen, aber wirklich auf der Höhe bin ich noch nicht. Also seid ein wenig nachsichtig, wenn sich zu viele Fehler einschleichen sollten.</p>
 
@@ -156,7 +212,8 @@
 </ol>
 </div>
 
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -164,7 +221,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/27/zeiteinteilung/"/>
     <updated>2013-03-27T23:03:00+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/27/zeiteinteilung</id>
-    <content type="html"><![CDATA[<blockquote><p>Tot durch Stillstand?</p><p>Ja, ich weiß, ich hab mich lang&#8217; nicht mehr bewegt!</p><footer><strong>Der Fall Böse</strong> <cite>Spie Mich Aus (2012)</cite></footer></blockquote>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F27%2Fzeiteinteilung%2F&amp;user_id=stonedgolem&amp;title=Zeiteinteilung+%5B+ZdT+%2320+%5D+&amp;category=text&amp;description=&amp;tags=In+eigener+Sache%2CSchwesterblog%2CZitat+des+Tages" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <blockquote><p>Tot durch Stillstand?</p><p>Ja, ich weiß, ich hab mich lang&#8217; nicht mehr bewegt!</p><footer><strong>Der Fall Böse</strong> <cite>Spie Mich Aus (2012)</cite></footer></blockquote>
 
 
 <p></p>
@@ -180,7 +255,8 @@
 <p>Damit mir nicht langweilig wird werde ich auch zusehen, dass sich die Themen auf beiden Blogs nicht zu sehr überschneiden. Auf jeden Fall will ich keine eins zu eins Übersetzungen anfertigen. <em>Das</em> würde mich wirklich langweilen.</p>
 
 <p>Es bleibt also alles in Bewegung und damit spannend.</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -188,7 +264,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/26/introducing-the-humble-mobile-bundle/"/>
     <updated>2013-03-26T22:23:00+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/26/introducing-the-humble-mobile-bundle</id>
-    <content type="html"><![CDATA[<p>Eine schnelle Nachricht: Es gibt ein neues Humble Bundle!</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F26%2Fintroducing-the-humble-mobile-bundle%2F&amp;user_id=stonedgolem&amp;title=Introducing%3A+The+Humble+Mobile+Bundle&amp;category=text&amp;description=&amp;tags=Games%2CHumblenundle" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Eine schnelle Nachricht: Es gibt ein neues Humble Bundle!</p>
 
 <p><a href="http://www.humblebundle.com"><img class="center" src="http://stonedgolem.github.io/images/humble_mobile_bundle.png" title="The Humble Mobile Bundle" ></a></p>
 
@@ -213,7 +307,8 @@
 <p>Ich überlege mir jetzt erstmal, welches der Games ich auf meinem Nexus 7 die nächsten Stunden über zocken werde.</p>
 
 <p>Happy Gaming!</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -221,7 +316,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/26/umzug-vollzogen/"/>
     <updated>2013-03-26T19:46:00+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/26/umzug-vollzogen</id>
-    <content type="html"><![CDATA[<h3>tl;dr</h3>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F26%2Fumzug-vollzogen%2F&amp;user_id=stonedgolem&amp;title=Umzug+vollzogen&amp;category=text&amp;description=&amp;tags=Umzug" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <h3>tl;dr</h3>
 
 <ol>
 <li><p>Der Umzug ist vollzogen und die URLs werden geändert</p></li>
@@ -250,7 +363,8 @@
 <p>Ansonsten freue ich mich tierisch, dass hier wieder Normalität einkehrt und ich mich in Zukunft eher auf&rsquo;s Schreiben von Posts als auf&rsquo;s Basteln am Template konzentrieren kann.</p>
 
 <p>Wer möchte, kann mir eine Email schreiben und mir mitteilen, wie das neue Konzept gefällt. Auch bin ich weiterhin über Twitter und Google Plus erreichbar.</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -258,7 +372,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/25/der-erste-tag-mit-octopress/"/>
     <updated>2013-03-25T22:11:00+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/25/der-erste-tag-mit-octopress</id>
-    <content type="html"><![CDATA[<h3>tl;dr</h3>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F25%2Fder-erste-tag-mit-octopress%2F&amp;user_id=stonedgolem&amp;title=Der+erste+Tag+mit+OctoPress&amp;category=text&amp;description=&amp;tags=Umzug%2Cstatische+Blogs" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <h3>tl;dr</h3>
 
 <ol>
 <li><p>Umstellung gelungen</p>
@@ -311,7 +443,8 @@
 <p>Welche Aufgabe der angemietete Webspace in Zukunft haben wird, weiß ich noch nicht genau, aber mir wird schon was einfallen. Er ist weder teuer noch leistungsstark, wie man unschwer am erreichten memory limit von Stoned Golem erkennen kann &mdash; aber er bietet ein paar Funktionen, die ich angenehm finde, weil ich auch irgendwo faul bin. Also bleibt er vorerst bestehen. Und ganz ehrlich: Ich denke, es wird sich schon eine Verwendung finden lassen.</p>
 
 <p>Da mir gerade nicht mehr einfällt und es noch viele, viele Baustellen gibt, die ich bearbeiten muss, sollte dies als Zwischenstand reichen.</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -319,7 +452,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger/"/>
     <updated>2013-03-25T16:15:00+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/25/und-wieder-ein-punkt-auf-meiner-liste-weniger</id>
-    <content type="html"><![CDATA[<p>Und wieder gibt es nette Neuigkeiten zu verkünden. Meine Liste der zu erledigenden Dinge ist sage und schreibe zwei Punkte kürzer geworden. Das Arbeiten von mehreren Rechnern aus ist nun möglich und <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">dank diesem Post hier</a> hat auch der Geisteswissenschaftler in mir verstanden, wie genau ich das zu bewerkstelligen habe. Wenn ich jetzt nicht immer noch die letzten Kommandos vergessen würde, dann würde ich auch schneller ans Ziel kommen. Aber man kann ja bekanntlich nicht alles haben.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F25%2Fund-wieder-ein-punkt-auf-meiner-liste-weniger%2F&amp;user_id=stonedgolem&amp;title=Und+wieder+ein+Punkt+auf+meiner+Liste+weniger&amp;category=text&amp;description=&amp;tags=Umzug%2Ckleine+Erfolge" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Und wieder gibt es nette Neuigkeiten zu verkünden. Meine Liste der zu erledigenden Dinge ist sage und schreibe zwei Punkte kürzer geworden. Das Arbeiten von mehreren Rechnern aus ist nun möglich und <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">dank diesem Post hier</a> hat auch der Geisteswissenschaftler in mir verstanden, wie genau ich das zu bewerkstelligen habe. Wenn ich jetzt nicht immer noch die letzten Kommandos vergessen würde, dann würde ich auch schneller ans Ziel kommen. Aber man kann ja bekanntlich nicht alles haben.</p>
 
 <p>Und wer will schon Schokolade <em>und</em> Eis, oder?!</p>
 
@@ -333,7 +484,8 @@
 <p>Bleiben also noch die Frage der Kommentare offen. Ich weiß nicht, wie schnell ich das geregelt bekomme und ob überhaupt. Ich habe einen Ansatzpunkt, aber dafür bräuchte ich wahrscheinlich ein klein wenig mehr Informatikwissen, als ich im Moment habe.</p>
 
 <p>Aber hey, sehen wir es mal positiv: Wir haben hier einen Geisteswissenschaftler, der es alleine schaffte, sich mit git, octopress und github einen statischen Blog zu bauen. Ich bin begeistert :)</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -341,7 +493,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht/"/>
     <updated>2013-03-25T15:37:00+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/25/ein-anfang-ist-gemacht</id>
-    <content type="html"><![CDATA[<p>So, der Anfang ist gemacht und die ersten Fragen beginnen sich zu formen</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F25%2Fein-anfang-ist-gemacht%2F&amp;user_id=stonedgolem&amp;title=Ein+Anfang+ist+gemacht&amp;category=text&amp;description=&amp;tags=In+eigener+Sache%2CTechnik%2Clernen" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>So, der Anfang ist gemacht und die ersten Fragen beginnen sich zu formen</p>
 
 <ul>
 <li>Wie integriere ich <em>tags</em>?</li>
@@ -369,7 +539,8 @@
 <h3>Memo an mich selbst:</h3>
 
 <p>Ich sollte die Rechtschreibprüfung in vim aktivieren. Könnte sich in Zukunft auszahlen, wenn der Editor jetzt auch noch meine Websites macht.</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -377,7 +548,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/25/php-nervt/"/>
     <updated>2013-03-25T14:17:28+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/25/php-nervt</id>
-    <content type="html"><![CDATA[<p>Dies ist ein kleines Blog, das vor allem Buchstaben über den Äther schubst. Keine großen Ansprüche, wenig Besucher, kaum Aufwand und Anforderung. Aber das Dynamische Trio WordPress/MySQL/PHP belegt auf dem Server derzeit soviel Platz im RAM, dass mir sogar schon das Backend verschlossen bleibt. Ich hab zwar jetzt das PHP memory_limit erhöht, aber auf Dauer sehe ich es nicht ein, so viele Ressourcen für ein wenig Palaver zu verbraten.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F25%2Fphp-nervt%2F&amp;user_id=stonedgolem&amp;title=PHP+nervt+...&amp;category=text&amp;description=&amp;tags=In+eigener+Sache%2CSoftware" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Dies ist ein kleines Blog, das vor allem Buchstaben über den Äther schubst. Keine großen Ansprüche, wenig Besucher, kaum Aufwand und Anforderung. Aber das Dynamische Trio WordPress/MySQL/PHP belegt auf dem Server derzeit soviel Platz im RAM, dass mir sogar schon das Backend verschlossen bleibt. Ich hab zwar jetzt das PHP memory_limit erhöht, aber auf Dauer sehe ich es nicht ein, so viele Ressourcen für ein wenig Palaver zu verbraten.</p>
 
 <p>Ich bin schon länger am Überlegen, ob ich nicht auf statische Weblogs umsteigen sollte. Gründe dafür gibt es viele: Weniger Ressourcen, die verschwendet werden sowie <a href="http://de.wikipedia.org/wiki/Markdown">Markdown</a> und <a href="www.vim.org">vim</a> zum editieren der Einträge und damit auch kein webbasiertes Backend. Eine git-Unterstützung wäre dann noch das nonplusultra. Im Gegenzug würden die Kommentare vorerst wegfallen, da ich nicht auf proprietäre Lösungen wie Disqus setzten möchte. Aber so wenig, wie hier los ist, wär das auch kein großer Verlust. Denke ich mir gerade und bleibe bei der Meinung, so lange niemand laut widerspricht.</p>
 
@@ -396,7 +585,8 @@
 <p><em>Das Dynamische Trio (aka DDT) WordPress/MySQL/PHP nervt und verbrät zu viele Ressourcen</em></p>
 
 <p><em>Statisches Weblog mit OctoPress und GitHub als Alternative eingerichtet. URL: <a href="stonedgolem.github.com">stonedgolem.github.com</a></em></p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -404,10 +594,29 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/25/ein-wichitiger/"/>
     <updated>2013-03-25T13:36:00+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/25/ein-wichitiger</id>
-    <content type="html"><![CDATA[<p>Dieser Post ist wichtig, denn ich muss schauen, ob ich auch auf anderen Rechnern an das Repository komme. Und vor allem: Wie! Denn eine <em>Ein-Rechner-Lösung</em> ist für den mordernen homo mobilius keine Lösung mehr.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F25%2Fein-wichitiger%2F&amp;user_id=stonedgolem&amp;title=Ein+wichtiger+Post&amp;category=text&amp;description=&amp;tags=" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Dieser Post ist wichtig, denn ich muss schauen, ob ich auch auf anderen Rechnern an das Repository komme. Und vor allem: Wie! Denn eine <em>Ein-Rechner-Lösung</em> ist für den mordernen homo mobilius keine Lösung mehr.</p>
 
 <p>Wünscht mir also Glück, dass es vielleicht hinaut. Man kann ja nie wissen.</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -415,7 +624,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik/"/>
     <updated>2013-03-24T16:54:59+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/24/neues-horbuch-bei-mdr-sputnik</id>
-    <content type="html"><![CDATA[<p>Ich habe mich in letzter Zeit viel mit Hörspielen beschäftigt. Wie man sie am besten selber Aufzeichnen kann. Wie es in der Szene insgesamt so steht, da ich sie seit 2009 nicht mehr aktiv verfolgt habe. Wo man sie legal downloaden kann. Bei diesen Recherchen bin ich (wieder) auf MDR SPUTNIK aufmerksam geworden: SPUTNIK ist die digitale Ausgabe des MDR, die mit dem Hörerlebnis in regelmäßigen Abständen Hörbücher als kostenlosen Podcast bringt.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F24%2Fneues-horbuch-bei-mdr-sputnik%2F&amp;user_id=stonedgolem&amp;title=Neues+H%C3%B6rbuch+bei+MDR+Sputnik&amp;category=text&amp;description=&amp;tags=H%C3%B6rspiel%2CInteressante+Links" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Ich habe mich in letzter Zeit viel mit Hörspielen beschäftigt. Wie man sie am besten selber Aufzeichnen kann. Wie es in der Szene insgesamt so steht, da ich sie seit 2009 nicht mehr aktiv verfolgt habe. Wo man sie legal downloaden kann. Bei diesen Recherchen bin ich (wieder) auf MDR SPUTNIK aufmerksam geworden: SPUTNIK ist die digitale Ausgabe des MDR, die mit dem Hörerlebnis in regelmäßigen Abständen Hörbücher als kostenlosen Podcast bringt.</p>
 
 <p>Der aktuelle Podcast trägt den vielversprechenden Titel <em>&ldquo;<a href="http://www.sputnik.de/hoererlebnis">Abserviert &ndash; mein Leben als Humankapital</a>&rdquo;</em>, geschrieben von <a href="http://de.wikipedia.org/wiki/Iain_Levison">Iain Levison</a>. Der Autor sagt mir zwar nichts, aber ich kann ja auch nicht alles kennen. Auf Grund meiner aktuellen, privaten Lebenssituation kann ich mich dem Reiz dieses Titels nicht entziehen und werde dem Hörbuch mal eine ausgedehntere Chance geben.</p>
 
@@ -430,7 +657,8 @@
 <p><strong>Kostenloser Download</strong></p>
 
 <p>Das Hörbuch &ldquo;<a href="http://www.sputnik.de/hoererlebnis">Abserviert &ndash; mein Leben als Humankapital</a>&rdquo; als kostenloser Podcast bei MDR SPUTNIK</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -438,7 +666,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/18/gedanken-zum-sprachgebrauch/"/>
     <updated>2013-03-18T12:32:24+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/18/gedanken-zum-sprachgebrauch</id>
-    <content type="html"><![CDATA[<p>Wir leben in einer männlich dominierten Gesellschaft und sind es uns meistens nicht einmal bewusst. Wenn wir selber Angehöriger des privilegierten Teils sind fällt es uns schwer, die Diskriminierung als solche überhaupt wahrzunehmen: Die verantwortlichen Prozesse wirken zumeist auf subtile Art, weswegen sie oftmals nicht nur schwer zu erkennen sondern auch schwer zu benennen sind. Erklärungskonstrukte, die auf gesellschaftliches Fehlverhalten hinweisen und es analysieren möchten, werden auf Grund ihres konstruierten Charakters als lächerlich abgewiesen. Sollte sich die Diskussion damit nicht abwürgen lassen, geht es ins persönliche: &ldquo;Es sind ja nur die hässlichen Weiber, die den Emanzenquatsch wieder aufwärmen.&rdquo; Als wenn Schönheit irgendeine Relevanz für Diskussionsverhalten und argumentative Fähigkeiten hätte. Ein Blick in den Kommentarbereich von Spiegel Online reicht, um diese und ähnliche Aussagen in ausreichender Stückzahl zu finden. Die männliche Dominanz rottet sich gerne zusammen, um sich selbst zu verteidigen.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F18%2Fgedanken-zum-sprachgebrauch%2F&amp;user_id=stonedgolem&amp;title=Gedanken+zum+Sprachgebrauch&amp;category=text&amp;description=&amp;tags=Gesellschaft%2CIn+eigener+Sache" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Wir leben in einer männlich dominierten Gesellschaft und sind es uns meistens nicht einmal bewusst. Wenn wir selber Angehöriger des privilegierten Teils sind fällt es uns schwer, die Diskriminierung als solche überhaupt wahrzunehmen: Die verantwortlichen Prozesse wirken zumeist auf subtile Art, weswegen sie oftmals nicht nur schwer zu erkennen sondern auch schwer zu benennen sind. Erklärungskonstrukte, die auf gesellschaftliches Fehlverhalten hinweisen und es analysieren möchten, werden auf Grund ihres konstruierten Charakters als lächerlich abgewiesen. Sollte sich die Diskussion damit nicht abwürgen lassen, geht es ins persönliche: &ldquo;Es sind ja nur die hässlichen Weiber, die den Emanzenquatsch wieder aufwärmen.&rdquo; Als wenn Schönheit irgendeine Relevanz für Diskussionsverhalten und argumentative Fähigkeiten hätte. Ein Blick in den Kommentarbereich von Spiegel Online reicht, um diese und ähnliche Aussagen in ausreichender Stückzahl zu finden. Die männliche Dominanz rottet sich gerne zusammen, um sich selbst zu verteidigen.</p>
 
 <p>Aktuell ist das Thema groß in den Medien: Vergewaltigungen in Indien und ausgefüllte Dirndl in Deutschland. Schnell kommt aus männlicher Richtung der Vorwurf, der lokale #aufschrei wäre ein Luxusproblem der hiesigen Damen. Im Vergleich zu Indien brauchen sie sich doch gar nicht beschweren. Argumentationsmuster dieser Art zeigen deutlich, wie wenig Empathie auf männlicher Seite für das Anliegen des anderen Geschlechts vorhanden ist.</p>
 
@@ -447,7 +693,8 @@
 <p>Wir sind alle keine Heilige und der Großteil wird es auch nie werden. Aber bedeutet das im Umkehrschluss, dass wir uns einen Scheiß um unsere Mitmenschen kümmern müssen? Aus diesem Grund versucht dieses Blog eine geschlechtssensible Sprache zu verwenden. Ich nutze die &ldquo;*innen&rdquo; Form zum gendern, weil ich es schön finde. Aber ich gender nicht immer. Oftmals vergesse ich es schlichtweg. Man könnte mich dafür kritisieren, aber auch ich bin in der Welt verfangen, die mich umgibt. Ich versuche es wenigstens. Und je öfter ich es mache, desto selbstverständlicher wird es für mich. Je selbstverständlicher es für mich wird, desto weniger werde ich es vergessen.</p>
 
 <p>Also, liebe Leser*innen, es ist alles eine Frage der Übung. Auch das lesen fällt mit der Zeit leichter, wenn man daran gewöhnt ist.</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -455,7 +702,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/18/frauen-und-was-sie-sich-alles-gefallen-zu-lassen-haben-zdt-19/"/>
     <updated>2013-03-18T11:41:37+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/18/frauen-und-was-sie-sich-alles-gefallen-zu-lassen-haben-zdt-19</id>
-    <content type="html"><![CDATA[<blockquote><p>&ldquo;Besonders umstritten bei den zähen Debatten über den Abschlusstext war eine Formulierung, wonach Gewalt gegen Frauen nicht durch Sitten, Traditionen oder religiöse Ansichten gerechtfertigt werden kann. Muslimische Länder wie der Iran, Libyen und der Sudan, aber auch Russland und der Vatikan hatten sich für eine schwächere Wortwahl eingesetzt[.]&rdquo;</p></blockquote>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F18%2Ffrauen-und-was-sie-sich-alles-gefallen-zu-lassen-haben-zdt-19%2F&amp;user_id=stonedgolem&amp;title=Frauen+und+was+sie+sich+alles+gefallen+zu+lassen+haben%21+%5BZdT+%2319%5D&amp;category=text&amp;description=&amp;tags=Gesellschaft%2CZitat+des+Tages" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <blockquote><p>&ldquo;Besonders umstritten bei den zähen Debatten über den Abschlusstext war eine Formulierung, wonach Gewalt gegen Frauen nicht durch Sitten, Traditionen oder religiöse Ansichten gerechtfertigt werden kann. Muslimische Länder wie der Iran, Libyen und der Sudan, aber auch Russland und der Vatikan hatten sich für eine schwächere Wortwahl eingesetzt[.]&rdquo;</p></blockquote>
 
 <p>(Artikel &ldquo;Ohne Ausnahme, ohne Ausrede&rdquo; aus der taz vom 18. März 2013, Seite 2.)</p>
 
@@ -477,7 +742,8 @@
 <p>Dies ist also elementarer Bestandteil von Deutschland. Zumindest solange, wie ein Argument gegen den Islam gebraucht wird. Aber das mit den Frauen&hellip; Mann muss ja nicht jeden Tradition auf Punkt und Komma einhalten. &ldquo;<a href="http://www.funnyordie.com/videos/c0cf508ff8/prop-8-the-musical-starring-jack-black-john-c-reilly-and-many-more-from-fod-team-jack-black-craig-robinson-john-c-reilly-and-rashida-jones">Pick and choose</a>&rdquo; ist auch nicht erst seit gestern ein Bestandteil des Mehrheitschristentums.</p>
 
 <p>Hier manifestiert sich eine bittere Tragik: Die Vergewaltigungen in Indien zeigen das Ausmaß und die hässlichsten Auswüchse von Patriarchat und sexueller Diskriminierung. Die Haltung des Vatikans als ein Stellvertreter der von uns viel beschworenen christlichen Tradition offenbart, wie fest männliche Dominanz noch in unseren Köpfen verwurzelt ist: Es ist Vertretern dieser Tradition nicht einmal möglich, Gewalt gegen Frauen global, pauschal und ausnahmslos zu verdammen.</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -485,14 +751,33 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/18/unerwarteter-schneefall-im-winter/"/>
     <updated>2013-03-18T10:16:31+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/18/unerwarteter-schneefall-im-winter</id>
-    <content type="html"><![CDATA[<p>Hamburg (sgna &ndash; stoned golem news agency)</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F18%2Funerwarteter-schneefall-im-winter%2F&amp;user_id=stonedgolem&amp;title=Unerwarteter+Schneefall+im+Winter.&amp;category=text&amp;description=&amp;tags=Dies+und+Das" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Hamburg (sgna &ndash; stoned golem news agency)</p>
 
 <p>Die heimliche Bundeshauptstadt Hamburg versank in der Nacht auf Montag unter einer mehrere Zentimeter messenden Schicht Neuschnee. Der absolut unerwartete und heftige Schneefall bescherte Hamburger S-Bahn Fahrer*Innen Berliner Verhältnisse und sorgte für Verspätungen, wie man sie sonst nur vom BER-Hauptstadtflughafen kennt. Der Winterdienst wurde wieder einberufen und bereitet sich mit Hochdruck darauf vor, das entstandene Chaos in den nächsten Tagen eventuell unter Kontrolle zu bekommen. Die zuständigen Stellen der Stadt weisen jeden Vorwurf der Überforderung vehement zurück. Hierzu der Pressesatirikersprecher der Stadt: &ldquo;Wer rechnet denn schon mit Schnee im Winter?&rdquo;</p>
 
 <p><img class="center" src="http://stonedgolem.github.io/images/schnee.jpg" title="'telefonierende Bücher im Schnee'" ></p>
 
 <p>Leser*Innen dieses Blogs übersandten uns Beweisfotos zur aktuellen Wetterlage der Hansestadt. Ein Leser kommentierte sein Bild mit den Worten: &ldquo;Ich schwöre, das war gestern noch nicht da!&rdquo;</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -500,10 +785,29 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/17/perry-rhodan-doku-in-der-arte-mediathek/"/>
     <updated>2013-03-17T17:41:27+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/17/perry-rhodan-doku-in-der-arte-mediathek</id>
-    <content type="html"><![CDATA[<p><a href="http://www.perry-rhodan.net/">Perry Rhodan</a>. Unser Mann im All. Deutschlands erfolgreichste Science Fiction Serie. Seit 1961 erscheinen die regelmäßigen Heftromane im Pabel-Moewig-Verlag ((der selbe Verlag übrigens, der die überaus fragwürdigen &ldquo;Landser&rdquo;-Heftchen herausbringt)): Fast 2700 Folgen sind bisher erschienen und das Phänomen wird noch immer weiter geschrieben. Grund genug, eine Dokumentation über diese Serie zu bringen. Und weil sich dies der öffentlich-rechtliche Rundfunk dachte, lässt sich die Dokumentation &ldquo;<a href="http://videos.arte.tv/de/videos/perry-rhodan-unser-mann-im-all--7379086.html">Perry Rhodan &ndash; Unser Mann im All</a>&rdquo; in der Arte-Mediathek noch anschauen.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F17%2Fperry-rhodan-doku-in-der-arte-mediathek%2F&amp;user_id=stonedgolem&amp;title=Perry+Rhodan+Doku+in+der+Arte-Mediathek&amp;category=text&amp;description=&amp;tags=Film" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p><a href="http://www.perry-rhodan.net/">Perry Rhodan</a>. Unser Mann im All. Deutschlands erfolgreichste Science Fiction Serie. Seit 1961 erscheinen die regelmäßigen Heftromane im Pabel-Moewig-Verlag ((der selbe Verlag übrigens, der die überaus fragwürdigen &ldquo;Landser&rdquo;-Heftchen herausbringt)): Fast 2700 Folgen sind bisher erschienen und das Phänomen wird noch immer weiter geschrieben. Grund genug, eine Dokumentation über diese Serie zu bringen. Und weil sich dies der öffentlich-rechtliche Rundfunk dachte, lässt sich die Dokumentation &ldquo;<a href="http://videos.arte.tv/de/videos/perry-rhodan-unser-mann-im-all--7379086.html">Perry Rhodan &ndash; Unser Mann im All</a>&rdquo; in der Arte-Mediathek noch anschauen.</p>
 
 <p>Viel Spaß damit!</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -511,7 +815,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille/"/>
     <updated>2013-03-15T09:29:04+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/15/der-grund-fur-die-funkstille</id>
-    <content type="html"><![CDATA[<p>Es ist die Woche der schlechten Nachrichten in der IT-Welt. Zwar ist keine wirkliche Hiobsbotschaft von apokalyptischen Ausmaß dabei, aber die Nachrichten reichten aus, um mich zu einigen Änderungen zu bewegen. Ausgerüstet mit einem Raspberry Pi, einer Fritzbox und einem DSL16.000 Anschluss habe ich begonnen, mich von den großen Anbietern zu emanzipieren. Die Zeit, die dafür nötig war, habe ich von der Zeit abgezweigt, die ich normalerweise für mein Blog aufwende. Das offensichtliche Resultat war hier die Funkstille, dafür kann ich jetzt ssl-geschützt von überall auf meine eigene Cloud zugreifen.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F15%2Fder-grund-fur-die-funkstille%2F&amp;user_id=stonedgolem&amp;title=Der+Grund+f%C3%BCr+die+Funkstille&amp;category=text&amp;description=&amp;tags=Aktiv+werden%2CIn+eigener+Sache" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Es ist die Woche der schlechten Nachrichten in der IT-Welt. Zwar ist keine wirkliche Hiobsbotschaft von apokalyptischen Ausmaß dabei, aber die Nachrichten reichten aus, um mich zu einigen Änderungen zu bewegen. Ausgerüstet mit einem Raspberry Pi, einer Fritzbox und einem DSL16.000 Anschluss habe ich begonnen, mich von den großen Anbietern zu emanzipieren. Die Zeit, die dafür nötig war, habe ich von der Zeit abgezweigt, die ich normalerweise für mein Blog aufwende. Das offensichtliche Resultat war hier die Funkstille, dafür kann ich jetzt ssl-geschützt von überall auf meine eigene Cloud zugreifen.</p>
 
 <!-- more -->
 
@@ -549,7 +871,8 @@
 <p>Aus meiner Sicht wichtig ist, dass wir uns wieder bewusst werden, woher das Internet kommt: Nicht die großen und zentralistischen Firmen haben es uns gebracht, sondern Dezentralität und Do-It-Yourself-Einstellungen, gepaart mit einem ordentlichen Schuss Experimentierfreude! Wir sollten diese Stärken nicht &ldquo;einfach so&rdquo; aus der Hand geben und unser Internet dem Firmen überlassen. Dazu gehört, das eigene Handeln gelegentlich zu Überdenken und Alternativen auszuprobieren, auch wenn es ein wenig Frickelarbeit erfordert.</p>
 
 <p>Im Endeffekt ist ja auch Stoned Golem aus dieser Überlegung heraus entstanden, denn sonst wäre ich vielleicht nie von Blogger auf eine selbstgehostete Lösung gewechselt. Insofern stellt mein jetziges Handeln nur eine konsequente Fortführung dar.</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -557,7 +880,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht/"/>
     <updated>2013-03-14T16:09:13+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/14/von-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht</id>
-    <content type="html"><![CDATA[<p>Die Kurzform: <a href="http://www.heise.de/newsticker/meldung/Google-wirft-Werbeblocker-aus-dem-Android-Play-Store-1822706.html">Google verbannt Werbeblocker-Apps aus dem Play Store, weil sie gegen Vertragsbestimmungen verstoßen</a>. Formal ist das richtig, weil besagte Apps tatsächlich in die Funktionsweise anderer Apps eingreifen und diese verändern. Und zwar in der Form, dass sie das Herunterladen und Anzeigen der Werbung unterbinden. Man könnte sich also fragen: So what? Dann musst du halt die Werbung schauen, damit die Entwickler, die dir <em>kostenlos </em>ein Programm zur Verfügung gestellt haben, auch ein wenig Einnahmen generieren können.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F14%2Fvon-zwickmuhlen-popos-und-kniffen-oder-werbung-so-lange-das-datenvolumen-reicht%2F&amp;user_id=stonedgolem&amp;title=Von+Zwickm%C3%BChlen%2C+Popos+und+Kniffen.+Oder%3A+Werbung+so+lange+das+Datenvolumen+reicht.&amp;category=text&amp;description=&amp;tags=Software" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Die Kurzform: <a href="http://www.heise.de/newsticker/meldung/Google-wirft-Werbeblocker-aus-dem-Android-Play-Store-1822706.html">Google verbannt Werbeblocker-Apps aus dem Play Store, weil sie gegen Vertragsbestimmungen verstoßen</a>. Formal ist das richtig, weil besagte Apps tatsächlich in die Funktionsweise anderer Apps eingreifen und diese verändern. Und zwar in der Form, dass sie das Herunterladen und Anzeigen der Werbung unterbinden. Man könnte sich also fragen: So what? Dann musst du halt die Werbung schauen, damit die Entwickler, die dir <em>kostenlos </em>ein Programm zur Verfügung gestellt haben, auch ein wenig Einnahmen generieren können.</p>
 
 <p>So legitim dies auch klingt: Ich frage mich gerade ernsthaft, ob der wahre Nutznießer dieser Aktion nicht ganz wo anders zu vermuten ist.</p>
 
@@ -575,7 +916,8 @@
 <p>Dieser Zwickmühle wird man wohl nur durch noch mehr Recherche entgehen können, um brauchbare Alternativen <em>ohne</em> <del></del>Werbung zu finden. Ich hab ja sonst nichts zu  tun &hellip;</p>
 
 <p>P.S.: AdBlock Plus et. al. sind natürlich nicht vom Erdboden verschwunden, nur weil sie nicht mehr direkt über Google Play angeboten werden. Mit dem <a href="http://f-droid.org/">F-Droid Market</a>, in dem nur freie Software gelistet wird, sind die meisten Ad-Blocker noch vertreten. Es stellt sich halt nur wie so oft die Frage, ob diese Alternative wiederum nur von der &ldquo;technikaffinen Nutzergruppe&rdquo; (a.k.a. Nerds) genutzt wird und die Mehrheit diese Option gar nicht bewusst wahrnimmt.</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -583,7 +925,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi/"/>
     <updated>2013-03-11T21:09:22+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/11/horspiele-mitschneiden-mit-dem-pi</id>
-    <content type="html"><![CDATA[<p>Der Raspberry Pi ist schon ein toller Kleinstrechner. Vor allem der geringe Stromverbrauch von gerade mal 3,5 Watt prädestiniert ihn für Einsätze, die einen dauerhaft arbeitenden Rechner erfordern: Ob als kleiner OwnCloud-Server oder für kleinste private Websites, mit dem Pi lassen sich derartige Wünsche schnell und kostengünstig realisieren. Aber auch für Fans der gepflegten, auditiven Unterhaltung eignen sich der Pi hervorragend: Mit nur einem kleinen Programm lassen sich problemlos MP3-Radiostreams aufzeichnen. Dies füllt entweder die Musiksammlung oder den Hörspielordner, je nach dem, zu welchem Zweck das Programm genutzt wird.</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F11%2Fhorspiele-mitschneiden-mit-dem-pi%2F&amp;user_id=stonedgolem&amp;title=H%C3%B6rspiele+mitschneiden+mit+dem+Pi&amp;category=text&amp;description=&amp;tags=Computer%2CH%C3%B6rspiel%2CSoftware" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <p>Der Raspberry Pi ist schon ein toller Kleinstrechner. Vor allem der geringe Stromverbrauch von gerade mal 3,5 Watt prädestiniert ihn für Einsätze, die einen dauerhaft arbeitenden Rechner erfordern: Ob als kleiner OwnCloud-Server oder für kleinste private Websites, mit dem Pi lassen sich derartige Wünsche schnell und kostengünstig realisieren. Aber auch für Fans der gepflegten, auditiven Unterhaltung eignen sich der Pi hervorragend: Mit nur einem kleinen Programm lassen sich problemlos MP3-Radiostreams aufzeichnen. Dies füllt entweder die Musiksammlung oder den Hörspielordner, je nach dem, zu welchem Zweck das Programm genutzt wird.</p>
 
 <!-- more -->
 
@@ -739,7 +1099,8 @@
 <li><p> Warten, bis die Zeit des Hörspiels gekommen ist, sicherstellen, dass der Raspi über Strom und Internet verfügt und nach der Aufnhame das Hörspiel genießen.</p></li>
 </ol>
 
-]]></content>
+
+    ]]></content>
   </entry>
   
   <entry>
@@ -747,7 +1108,25 @@
     <link href="http://stonedgolem.github.io/blog/2013/03/11/jahreszeitenshuffle/"/>
     <updated>2013-03-11T14:38:44+01:00</updated>
     <id>http://stonedgolem.github.io/blog/2013/03/11/jahreszeitenshuffle</id>
-    <content type="html"><![CDATA[<blockquote><p>&ldquo;Leise rieselt der Schnee,</p>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fstonedgolem.github.io%2Fblog%2F2013%2F03%2F11%2Fjahreszeitenshuffle%2F&amp;user_id=stonedgolem&amp;title=Jahreszeitenshuffle&amp;category=text&amp;description=&amp;tags=Zitat+des+Tages" type="text/html" />
+    
+    <content type="html"><![CDATA[
+	 Included file 'flattr_feed_button.html' not found in _includes directory 
+      <blockquote><p>&ldquo;Leise rieselt der Schnee,</p>
 
 <p>still und starr liegt der See.&#8221;</p></blockquote>
 
@@ -761,7 +1140,8 @@
 <p>Jetzt mal im Ernst, kann sich noch jemand an blühende Ostern und weiße Weihnachten erinnern? Ich habe zwar ein dumpfes Gefühl in mir, dass es so rum sein sollte, aber wirklich erinnern, wann das das letzte Mal so war, kann ich mich nicht. Ich bin mal gespannt, ob sich mittelfristig das Wetter der katholischen Tradition beugt oder ob sich die kirchlichen Feiertage der Umwelt anpassen.</p>
 
 <p>Es gibt aber auch noch eine dritte Möglichkeit: Wir passen unsere Erzählungen an. Dann kommt Santa halt in Bermuda-Shorts und Flip-Flops und der Hase passt mit seinem Fell eh viel besser in den Winter als in den milden Frühling. Der muss doch Schwitzen wie sonstwas, das Langohr, wenn Frühling wäre!</p>
-]]></content>
+
+    ]]></content>
   </entry>
   
 </feed>
