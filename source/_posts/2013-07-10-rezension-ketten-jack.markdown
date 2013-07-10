@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ketten Jack"
+title: "Rezension: Ketten Jack"
 date: 2013-07-10 08:57
 comments: true
 categories:
