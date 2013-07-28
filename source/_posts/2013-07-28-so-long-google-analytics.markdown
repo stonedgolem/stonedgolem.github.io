@@ -10,7 +10,7 @@ categories:
 - Überwachung
 ---
 
-Ist es ein Zahlenfetisch? Oder brauchen wir die Daten, die Google für uns im Rahmen ihres Angebotes Google Analytics sammelt, wirklich? Nach den Enthüllungen von Edward Snowden über die britischen und amerikanischen Machenschaften wird es Zeit, das eigene Verhalten zu hinterfragen und gegenenfalls etwas zu verändern. Die Aluhüte hatten recht -- aber wir schimpften sie nur paranoid. Unsere Leichtgläubigkeit wurde direkt gegen uns eingesetzt.
+Ist es ein Zahlenfetisch? Oder brauchen wir die Daten, die Google für uns im Rahmen ihres Angebotes Google Analytics sammelt, wirklich? Nach den Enthüllungen von Edward Snowden über die britischen und amerikanischen Machenschaften wird es Zeit, das eigene Verhalten zu hinterfragen und gegebenenfalls etwas zu verändern. Die Aluhüte hatten recht -- aber wir schimpften sie nur paranoid. Unsere Leichtgläubigkeit wurde direkt gegen uns eingesetzt.
 
 Zeit, sich selbst wieder zur Wehr zu setzten. Dienste wie [Threema](http://threema.ch/de) oder [heml.is](http://heml.is) vereinfachen schon jetzt (oder am Beispiel heml.is demnächst) die verschlüsselte mobile Kommunikation. Aber damit ist es nicht getan. Wir müssen aufhören, den Kraken weiterhin mit Daten zu füttern, denn so lange dieser Strom anhält, so lange werden auch Überwachungen wie Prism leicht für zentralistische und absolutistische Geheimdienste sein.
 
